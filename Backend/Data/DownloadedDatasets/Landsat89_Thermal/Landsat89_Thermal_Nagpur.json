@@ -1,0 +1,61 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "USGS Landsat 8/9 OLI/TIRS Collection 2 Level-2 Surface Temperature",
+    "TargetCity": "Nagpur",
+    "GeographicBounds": {
+      "MinLon": 79.05,
+      "MinLat": 21.11,
+      "MaxLon": 79.13,
+      "MaxLat": 21.18,
+      "CenterCoordinates": [
+        21.1458,
+        79.0882
+      ]
+    },
+    "SensorPlatform": "Landsat-9 TIRS-2 (Thermal Infrared Sensor)",
+    "SpatialResolutionMeters": 30.0,
+    "AcquisitionTimestampUTC": "2024-05-18T05:32:14Z",
+    "SolarZenithAngleDegrees": 18.4,
+    "MeanAtmosphericTransmittance": 0.88,
+    "MeanEmissivity": 0.942,
+    "QualityAssessmentMask": "100% Clear Sky (Zero Cloud Shadow/Contamination)"
+  },
+  "ThermalCalibrationParameters": {
+    "K1_ConstantBand10": 774.8853,
+    "K2_ConstantBand10": 1321.0789,
+    "RadianceMultiBand10": 0.0003342,
+    "RadianceAddBand10": 0.1
+  },
+  "UrbanWardThermalTelemetry": [
+    {
+      "WardId": "Ward 15 - Hingna MIDC",
+      "WardName": "Hingna Industrial Zone",
+      "MeanDaySurfaceTemperatureCelsius": 49.49,
+      "PeakPixelSurfaceTemperatureCelsius": 53.67,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 3.19,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 11.508,
+      "NarrowbandEmissivityBand10": 0.949,
+      "ExtremeHeatExposureAlertLevel": "Severe Red Alert"
+    },
+    {
+      "WardId": "Ward 22 - Pardi Settlement",
+      "WardName": "Pardi Dense Low-Income Colony",
+      "MeanDaySurfaceTemperatureCelsius": 52.83,
+      "PeakPixelSurfaceTemperatureCelsius": 56.39,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 6.53,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 12.109,
+      "NarrowbandEmissivityBand10": 0.965,
+      "ExtremeHeatExposureAlertLevel": "Severe Red Alert"
+    },
+    {
+      "WardId": "Ward 04 - Sitabuldi Central",
+      "WardName": "Sitabuldi Commercial Core",
+      "MeanDaySurfaceTemperatureCelsius": 50.98,
+      "PeakPixelSurfaceTemperatureCelsius": 55.93,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 4.68,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 11.776,
+      "NarrowbandEmissivityBand10": 0.973,
+      "ExtremeHeatExposureAlertLevel": "Severe Red Alert"
+    }
+  ]
+}

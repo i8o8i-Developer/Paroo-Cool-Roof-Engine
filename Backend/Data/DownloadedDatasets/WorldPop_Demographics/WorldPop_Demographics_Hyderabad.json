@@ -1,0 +1,74 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "WorldPop High-Resolution 100m Gridded Human Population & Demographic Heat Vulnerability",
+    "TargetCity": "Hyderabad",
+    "GeographicBounds": {
+      "MinLon": 78.44,
+      "MinLat": 17.35,
+      "MaxLon": 78.53,
+      "MaxLat": 17.43
+    },
+    "SpatialResolutionMeters": 100.0,
+    "ReferenceCensusYear": "2020/2025 Projected Baseline",
+    "TotalMunicipalPopulation": 6809970,
+    "DemographicStratification": {
+      "GeriatricElderlyAbove65YearsPercentage": 7.8,
+      "PediatricInfantsBelow5YearsPercentage": 9.4,
+      "InformalSettlementSlumPopulationPercentage": 31.6
+    }
+  },
+  "WardDemographicShieldingTelemetry": [
+    {
+      "WardId": "Ward 45 - Charminar Old City",
+      "WardName": "Charminar Heritage & Dense Residential",
+      "PopulationDensityPerHectare": 490,
+      "EstimatedWardPopulation": 107800,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 8839,
+        "ChildrenUnder5Count": 10564,
+        "InformalTinRoofSettlementResidents": 32340
+      },
+      "BuildingOccupancyMultiplier": 3.12,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 25.2
+    },
+    {
+      "WardId": "Ward 88 - Jeedimetla Industrial",
+      "WardName": "Jeedimetla Manufacturing Corridor",
+      "PopulationDensityPerHectare": 260,
+      "EstimatedWardPopulation": 57200,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 4690,
+        "ChildrenUnder5Count": 5605,
+        "InformalTinRoofSettlementResidents": 31460
+      },
+      "BuildingOccupancyMultiplier": 1.65,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 13.4
+    },
+    {
+      "WardId": "Ward 62 - Borabanda Hill Colony",
+      "WardName": "Borabanda Informal Settlement",
+      "PopulationDensityPerHectare": 510,
+      "EstimatedWardPopulation": 112200,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 9200,
+        "ChildrenUnder5Count": 10995,
+        "InformalTinRoofSettlementResidents": 50489
+      },
+      "BuildingOccupancyMultiplier": 3.25,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 26.2
+    },
+    {
+      "WardId": "Ward 104 - Banjara Hills",
+      "WardName": "Banjara Hills Residential",
+      "PopulationDensityPerHectare": 140,
+      "EstimatedWardPopulation": 30800,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 2525,
+        "ChildrenUnder5Count": 3018,
+        "InformalTinRoofSettlementResidents": 1848
+      },
+      "BuildingOccupancyMultiplier": 0.89,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 7.2
+    }
+  ]
+}

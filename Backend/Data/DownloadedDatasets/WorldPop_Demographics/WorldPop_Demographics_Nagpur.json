@@ -1,0 +1,61 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "WorldPop High-Resolution 100m Gridded Human Population & Demographic Heat Vulnerability",
+    "TargetCity": "Nagpur",
+    "GeographicBounds": {
+      "MinLon": 79.05,
+      "MinLat": 21.11,
+      "MaxLon": 79.13,
+      "MaxLat": 21.18
+    },
+    "SpatialResolutionMeters": 100.0,
+    "ReferenceCensusYear": "2020/2025 Projected Baseline",
+    "TotalMunicipalPopulation": 2405665,
+    "DemographicStratification": {
+      "GeriatricElderlyAbove65YearsPercentage": 7.8,
+      "PediatricInfantsBelow5YearsPercentage": 9.4,
+      "InformalSettlementSlumPopulationPercentage": 31.6
+    }
+  },
+  "WardDemographicShieldingTelemetry": [
+    {
+      "WardId": "Ward 15 - Hingna MIDC",
+      "WardName": "Hingna Industrial Zone",
+      "PopulationDensityPerHectare": 240,
+      "EstimatedWardPopulation": 52800,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 4329,
+        "ChildrenUnder5Count": 5174,
+        "InformalTinRoofSettlementResidents": 30096
+      },
+      "BuildingOccupancyMultiplier": 1.53,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 12.3
+    },
+    {
+      "WardId": "Ward 22 - Pardi Settlement",
+      "WardName": "Pardi Dense Low-Income Colony",
+      "PopulationDensityPerHectare": 410,
+      "EstimatedWardPopulation": 90200,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 7396,
+        "ChildrenUnder5Count": 8839,
+        "InformalTinRoofSettlementResidents": 36982
+      },
+      "BuildingOccupancyMultiplier": 2.61,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 21.1
+    },
+    {
+      "WardId": "Ward 04 - Sitabuldi Central",
+      "WardName": "Sitabuldi Commercial Core",
+      "PopulationDensityPerHectare": 320,
+      "EstimatedWardPopulation": 70400,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 5772,
+        "ChildrenUnder5Count": 6899,
+        "InformalTinRoofSettlementResidents": 10560
+      },
+      "BuildingOccupancyMultiplier": 2.04,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 16.5
+    }
+  ]
+}

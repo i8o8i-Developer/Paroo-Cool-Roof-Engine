@@ -1,0 +1,4 @@
+WardId,WardName,MetalProportion,AsbestosProportion,ConcreteProportion,TileProportion,ThatchProportion,DensityPerHectare
+Ward 15 - Hingna MIDC,Hingna Industrial Zone,0.56,0.25,0.16,0.02,0.01,240
+Ward 22 - Pardi Settlement,Pardi Dense Low-Income Colony,0.38,0.34,0.2,0.05,0.03,410
+Ward 04 - Sitabuldi Central,Sitabuldi Commercial Core,0.14,0.18,0.62,0.05,0.01,320

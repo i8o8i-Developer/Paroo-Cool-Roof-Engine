@@ -1,0 +1,5556 @@
+{
+  "type": "FeatureCollection",
+  "city": "Delhi NCR",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1991,
+              28.602800000000002
+            ],
+            [
+              77.19925,
+              28.602800000000002
+            ],
+            [
+              77.19925,
+              28.602950000000003
+            ],
+            [
+              77.1991,
+              28.602950000000003
+            ],
+            [
+              77.1991,
+              28.602800000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00001",
+        "RoofAreaSquareMeters": 64.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2042,
+              28.6067
+            ],
+            [
+              77.20435,
+              28.6067
+            ],
+            [
+              77.20435,
+              28.60685
+            ],
+            [
+              77.2042,
+              28.60685
+            ],
+            [
+              77.2042,
+              28.6067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00002",
+        "RoofAreaSquareMeters": 93.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2093,
+              28.6106
+            ],
+            [
+              77.20945,
+              28.6106
+            ],
+            [
+              77.20945,
+              28.610750000000003
+            ],
+            [
+              77.2093,
+              28.610750000000003
+            ],
+            [
+              77.2093,
+              28.6106
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00003",
+        "RoofAreaSquareMeters": 122.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2144,
+              28.6145
+            ],
+            [
+              77.21455,
+              28.6145
+            ],
+            [
+              77.21455,
+              28.61465
+            ],
+            [
+              77.2144,
+              28.61465
+            ],
+            [
+              77.2144,
+              28.6145
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00004",
+        "RoofAreaSquareMeters": 151.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2195,
+              28.6184
+            ],
+            [
+              77.21965,
+              28.6184
+            ],
+            [
+              77.21965,
+              28.618550000000003
+            ],
+            [
+              77.2195,
+              28.618550000000003
+            ],
+            [
+              77.2195,
+              28.6184
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00005",
+        "RoofAreaSquareMeters": 180.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.19460000000001,
+              28.622300000000003
+            ],
+            [
+              77.19475000000001,
+              28.622300000000003
+            ],
+            [
+              77.19475000000001,
+              28.622450000000004
+            ],
+            [
+              77.19460000000001,
+              28.622450000000004
+            ],
+            [
+              77.19460000000001,
+              28.622300000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00006",
+        "RoofAreaSquareMeters": 209.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1997,
+              28.6262
+            ],
+            [
+              77.19985000000001,
+              28.6262
+            ],
+            [
+              77.19985000000001,
+              28.626350000000002
+            ],
+            [
+              77.1997,
+              28.626350000000002
+            ],
+            [
+              77.1997,
+              28.6262
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00007",
+        "RoofAreaSquareMeters": 238.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2048,
+              28.6001
+            ],
+            [
+              77.20495000000001,
+              28.6001
+            ],
+            [
+              77.20495000000001,
+              28.600250000000003
+            ],
+            [
+              77.2048,
+              28.600250000000003
+            ],
+            [
+              77.2048,
+              28.6001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00008",
+        "RoofAreaSquareMeters": 267.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2099,
+              28.604000000000003
+            ],
+            [
+              77.21005000000001,
+              28.604000000000003
+            ],
+            [
+              77.21005000000001,
+              28.604150000000004
+            ],
+            [
+              77.2099,
+              28.604150000000004
+            ],
+            [
+              77.2099,
+              28.604000000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00009",
+        "RoofAreaSquareMeters": 296.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.215,
+              28.6079
+            ],
+            [
+              77.21515000000001,
+              28.6079
+            ],
+            [
+              77.21515000000001,
+              28.608050000000002
+            ],
+            [
+              77.215,
+              28.608050000000002
+            ],
+            [
+              77.215,
+              28.6079
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00010",
+        "RoofAreaSquareMeters": 325.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2201,
+              28.611800000000002
+            ],
+            [
+              77.22025000000001,
+              28.611800000000002
+            ],
+            [
+              77.22025000000001,
+              28.611950000000004
+            ],
+            [
+              77.2201,
+              28.611950000000004
+            ],
+            [
+              77.2201,
+              28.611800000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00011",
+        "RoofAreaSquareMeters": 354.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1952,
+              28.6157
+            ],
+            [
+              77.19535,
+              28.6157
+            ],
+            [
+              77.19535,
+              28.615850000000002
+            ],
+            [
+              77.1952,
+              28.615850000000002
+            ],
+            [
+              77.1952,
+              28.6157
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00012",
+        "RoofAreaSquareMeters": 383.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2003,
+              28.619600000000002
+            ],
+            [
+              77.20045,
+              28.619600000000002
+            ],
+            [
+              77.20045,
+              28.619750000000003
+            ],
+            [
+              77.2003,
+              28.619750000000003
+            ],
+            [
+              77.2003,
+              28.619600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00013",
+        "RoofAreaSquareMeters": 412.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2054,
+              28.6235
+            ],
+            [
+              77.20555,
+              28.6235
+            ],
+            [
+              77.20555,
+              28.62365
+            ],
+            [
+              77.2054,
+              28.62365
+            ],
+            [
+              77.2054,
+              28.6235
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00014",
+        "RoofAreaSquareMeters": 441.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2105,
+              28.6274
+            ],
+            [
+              77.21065,
+              28.6274
+            ],
+            [
+              77.21065,
+              28.627550000000003
+            ],
+            [
+              77.2105,
+              28.627550000000003
+            ],
+            [
+              77.2105,
+              28.6274
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00015",
+        "RoofAreaSquareMeters": 470.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.21560000000001,
+              28.601300000000002
+            ],
+            [
+              77.21575000000001,
+              28.601300000000002
+            ],
+            [
+              77.21575000000001,
+              28.601450000000003
+            ],
+            [
+              77.21560000000001,
+              28.601450000000003
+            ],
+            [
+              77.21560000000001,
+              28.601300000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00016",
+        "RoofAreaSquareMeters": 499.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.22070000000001,
+              28.6052
+            ],
+            [
+              77.22085000000001,
+              28.6052
+            ],
+            [
+              77.22085000000001,
+              28.60535
+            ],
+            [
+              77.22070000000001,
+              28.60535
+            ],
+            [
+              77.22070000000001,
+              28.6052
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00017",
+        "RoofAreaSquareMeters": 528.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1958,
+              28.6091
+            ],
+            [
+              77.19595000000001,
+              28.6091
+            ],
+            [
+              77.19595000000001,
+              28.609250000000003
+            ],
+            [
+              77.1958,
+              28.609250000000003
+            ],
+            [
+              77.1958,
+              28.6091
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00018",
+        "RoofAreaSquareMeters": 557.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2009,
+              28.613
+            ],
+            [
+              77.20105000000001,
+              28.613
+            ],
+            [
+              77.20105000000001,
+              28.61315
+            ],
+            [
+              77.2009,
+              28.61315
+            ],
+            [
+              77.2009,
+              28.613
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00019",
+        "RoofAreaSquareMeters": 36.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.206,
+              28.6169
+            ],
+            [
+              77.20615000000001,
+              28.6169
+            ],
+            [
+              77.20615000000001,
+              28.617050000000003
+            ],
+            [
+              77.206,
+              28.617050000000003
+            ],
+            [
+              77.206,
+              28.6169
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00020",
+        "RoofAreaSquareMeters": 65.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2111,
+              28.620800000000003
+            ],
+            [
+              77.21125,
+              28.620800000000003
+            ],
+            [
+              77.21125,
+              28.620950000000004
+            ],
+            [
+              77.2111,
+              28.620950000000004
+            ],
+            [
+              77.2111,
+              28.620800000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00021",
+        "RoofAreaSquareMeters": 94.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2162,
+              28.6247
+            ],
+            [
+              77.21635,
+              28.6247
+            ],
+            [
+              77.21635,
+              28.624850000000002
+            ],
+            [
+              77.2162,
+              28.624850000000002
+            ],
+            [
+              77.2162,
+              28.6247
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00022",
+        "RoofAreaSquareMeters": 123.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2213,
+              28.628600000000002
+            ],
+            [
+              77.22145,
+              28.628600000000002
+            ],
+            [
+              77.22145,
+              28.628750000000004
+            ],
+            [
+              77.2213,
+              28.628750000000004
+            ],
+            [
+              77.2213,
+              28.628600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00023",
+        "RoofAreaSquareMeters": 152.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1964,
+              28.602500000000003
+            ],
+            [
+              77.19655,
+              28.602500000000003
+            ],
+            [
+              77.19655,
+              28.602650000000004
+            ],
+            [
+              77.1964,
+              28.602650000000004
+            ],
+            [
+              77.1964,
+              28.602500000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00024",
+        "RoofAreaSquareMeters": 181.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.20150000000001,
+              28.6064
+            ],
+            [
+              77.20165000000001,
+              28.6064
+            ],
+            [
+              77.20165000000001,
+              28.606550000000002
+            ],
+            [
+              77.20150000000001,
+              28.606550000000002
+            ],
+            [
+              77.20150000000001,
+              28.6064
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00025",
+        "RoofAreaSquareMeters": 210.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.20660000000001,
+              28.610300000000002
+            ],
+            [
+              77.20675000000001,
+              28.610300000000002
+            ],
+            [
+              77.20675000000001,
+              28.610450000000004
+            ],
+            [
+              77.20660000000001,
+              28.610450000000004
+            ],
+            [
+              77.20660000000001,
+              28.610300000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00026",
+        "RoofAreaSquareMeters": 239.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.21170000000001,
+              28.6142
+            ],
+            [
+              77.21185000000001,
+              28.6142
+            ],
+            [
+              77.21185000000001,
+              28.61435
+            ],
+            [
+              77.21170000000001,
+              28.61435
+            ],
+            [
+              77.21170000000001,
+              28.6142
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00027",
+        "RoofAreaSquareMeters": 268.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2168,
+              28.618100000000002
+            ],
+            [
+              77.21695000000001,
+              28.618100000000002
+            ],
+            [
+              77.21695000000001,
+              28.618250000000003
+            ],
+            [
+              77.2168,
+              28.618250000000003
+            ],
+            [
+              77.2168,
+              28.618100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00028",
+        "RoofAreaSquareMeters": 297.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2219,
+              28.622
+            ],
+            [
+              77.22205000000001,
+              28.622
+            ],
+            [
+              77.22205000000001,
+              28.62215
+            ],
+            [
+              77.2219,
+              28.62215
+            ],
+            [
+              77.2219,
+              28.622
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00029",
+        "RoofAreaSquareMeters": 326.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.197,
+              28.6259
+            ],
+            [
+              77.19715000000001,
+              28.6259
+            ],
+            [
+              77.19715000000001,
+              28.626050000000003
+            ],
+            [
+              77.197,
+              28.626050000000003
+            ],
+            [
+              77.197,
+              28.6259
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00030",
+        "RoofAreaSquareMeters": 355.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2021,
+              28.599800000000002
+            ],
+            [
+              77.20225,
+              28.599800000000002
+            ],
+            [
+              77.20225,
+              28.599950000000003
+            ],
+            [
+              77.2021,
+              28.599950000000003
+            ],
+            [
+              77.2021,
+              28.599800000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00031",
+        "RoofAreaSquareMeters": 384.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2072,
+              28.6037
+            ],
+            [
+              77.20735,
+              28.6037
+            ],
+            [
+              77.20735,
+              28.60385
+            ],
+            [
+              77.2072,
+              28.60385
+            ],
+            [
+              77.2072,
+              28.6037
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00032",
+        "RoofAreaSquareMeters": 413.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2123,
+              28.6076
+            ],
+            [
+              77.21245,
+              28.6076
+            ],
+            [
+              77.21245,
+              28.607750000000003
+            ],
+            [
+              77.2123,
+              28.607750000000003
+            ],
+            [
+              77.2123,
+              28.6076
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00033",
+        "RoofAreaSquareMeters": 442.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2174,
+              28.6115
+            ],
+            [
+              77.21755,
+              28.6115
+            ],
+            [
+              77.21755,
+              28.61165
+            ],
+            [
+              77.2174,
+              28.61165
+            ],
+            [
+              77.2174,
+              28.6115
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00034",
+        "RoofAreaSquareMeters": 471.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2225,
+              28.6154
+            ],
+            [
+              77.22265,
+              28.6154
+            ],
+            [
+              77.22265,
+              28.615550000000002
+            ],
+            [
+              77.2225,
+              28.615550000000002
+            ],
+            [
+              77.2225,
+              28.6154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00035",
+        "RoofAreaSquareMeters": 500.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.19760000000001,
+              28.619300000000003
+            ],
+            [
+              77.19775000000001,
+              28.619300000000003
+            ],
+            [
+              77.19775000000001,
+              28.619450000000004
+            ],
+            [
+              77.19760000000001,
+              28.619450000000004
+            ],
+            [
+              77.19760000000001,
+              28.619300000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00036",
+        "RoofAreaSquareMeters": 529.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.20270000000001,
+              28.6232
+            ],
+            [
+              77.20285000000001,
+              28.6232
+            ],
+            [
+              77.20285000000001,
+              28.623350000000002
+            ],
+            [
+              77.20270000000001,
+              28.623350000000002
+            ],
+            [
+              77.20270000000001,
+              28.6232
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00037",
+        "RoofAreaSquareMeters": 558.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2078,
+              28.627100000000002
+            ],
+            [
+              77.20795000000001,
+              28.627100000000002
+            ],
+            [
+              77.20795000000001,
+              28.627250000000004
+            ],
+            [
+              77.2078,
+              28.627250000000004
+            ],
+            [
+              77.2078,
+              28.627100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00038",
+        "RoofAreaSquareMeters": 37.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2129,
+              28.601000000000003
+            ],
+            [
+              77.21305000000001,
+              28.601000000000003
+            ],
+            [
+              77.21305000000001,
+              28.601150000000004
+            ],
+            [
+              77.2129,
+              28.601150000000004
+            ],
+            [
+              77.2129,
+              28.601000000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00039",
+        "RoofAreaSquareMeters": 66.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.218,
+              28.6049
+            ],
+            [
+              77.21815000000001,
+              28.6049
+            ],
+            [
+              77.21815000000001,
+              28.605050000000002
+            ],
+            [
+              77.218,
+              28.605050000000002
+            ],
+            [
+              77.218,
+              28.6049
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00040",
+        "RoofAreaSquareMeters": 95.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2231,
+              28.608800000000002
+            ],
+            [
+              77.22325000000001,
+              28.608800000000002
+            ],
+            [
+              77.22325000000001,
+              28.608950000000004
+            ],
+            [
+              77.2231,
+              28.608950000000004
+            ],
+            [
+              77.2231,
+              28.608800000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00041",
+        "RoofAreaSquareMeters": 124.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1982,
+              28.6127
+            ],
+            [
+              77.19835,
+              28.6127
+            ],
+            [
+              77.19835,
+              28.61285
+            ],
+            [
+              77.1982,
+              28.61285
+            ],
+            [
+              77.1982,
+              28.6127
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00042",
+        "RoofAreaSquareMeters": 153.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2033,
+              28.616600000000002
+            ],
+            [
+              77.20345,
+              28.616600000000002
+            ],
+            [
+              77.20345,
+              28.616750000000003
+            ],
+            [
+              77.2033,
+              28.616750000000003
+            ],
+            [
+              77.2033,
+              28.616600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00043",
+        "RoofAreaSquareMeters": 182.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2084,
+              28.6205
+            ],
+            [
+              77.20855,
+              28.6205
+            ],
+            [
+              77.20855,
+              28.62065
+            ],
+            [
+              77.2084,
+              28.62065
+            ],
+            [
+              77.2084,
+              28.6205
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00044",
+        "RoofAreaSquareMeters": 211.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2135,
+              28.6244
+            ],
+            [
+              77.21365,
+              28.6244
+            ],
+            [
+              77.21365,
+              28.624550000000003
+            ],
+            [
+              77.2135,
+              28.624550000000003
+            ],
+            [
+              77.2135,
+              28.6244
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00045",
+        "RoofAreaSquareMeters": 240.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.21860000000001,
+              28.6283
+            ],
+            [
+              77.21875000000001,
+              28.6283
+            ],
+            [
+              77.21875000000001,
+              28.62845
+            ],
+            [
+              77.21860000000001,
+              28.62845
+            ],
+            [
+              77.21860000000001,
+              28.6283
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00046",
+        "RoofAreaSquareMeters": 269.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.22370000000001,
+              28.6022
+            ],
+            [
+              77.22385000000001,
+              28.6022
+            ],
+            [
+              77.22385000000001,
+              28.60235
+            ],
+            [
+              77.22370000000001,
+              28.60235
+            ],
+            [
+              77.22370000000001,
+              28.6022
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00047",
+        "RoofAreaSquareMeters": 298.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1988,
+              28.6061
+            ],
+            [
+              77.19895000000001,
+              28.6061
+            ],
+            [
+              77.19895000000001,
+              28.606250000000003
+            ],
+            [
+              77.1988,
+              28.606250000000003
+            ],
+            [
+              77.1988,
+              28.6061
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00048",
+        "RoofAreaSquareMeters": 327.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2039,
+              28.61
+            ],
+            [
+              77.20405000000001,
+              28.61
+            ],
+            [
+              77.20405000000001,
+              28.61015
+            ],
+            [
+              77.2039,
+              28.61015
+            ],
+            [
+              77.2039,
+              28.61
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00049",
+        "RoofAreaSquareMeters": 356.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.209,
+              28.6139
+            ],
+            [
+              77.20915000000001,
+              28.6139
+            ],
+            [
+              77.20915000000001,
+              28.614050000000002
+            ],
+            [
+              77.209,
+              28.614050000000002
+            ],
+            [
+              77.209,
+              28.6139
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00050",
+        "RoofAreaSquareMeters": 385.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2141,
+              28.617800000000003
+            ],
+            [
+              77.21425,
+              28.617800000000003
+            ],
+            [
+              77.21425,
+              28.617950000000004
+            ],
+            [
+              77.2141,
+              28.617950000000004
+            ],
+            [
+              77.2141,
+              28.617800000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00051",
+        "RoofAreaSquareMeters": 414.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2192,
+              28.6217
+            ],
+            [
+              77.21935,
+              28.6217
+            ],
+            [
+              77.21935,
+              28.621850000000002
+            ],
+            [
+              77.2192,
+              28.621850000000002
+            ],
+            [
+              77.2192,
+              28.6217
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00052",
+        "RoofAreaSquareMeters": 443.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1943,
+              28.625600000000002
+            ],
+            [
+              77.19445,
+              28.625600000000002
+            ],
+            [
+              77.19445,
+              28.625750000000004
+            ],
+            [
+              77.1943,
+              28.625750000000004
+            ],
+            [
+              77.1943,
+              28.625600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00053",
+        "RoofAreaSquareMeters": 472.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1994,
+              28.599500000000003
+            ],
+            [
+              77.19955,
+              28.599500000000003
+            ],
+            [
+              77.19955,
+              28.599650000000004
+            ],
+            [
+              77.1994,
+              28.599650000000004
+            ],
+            [
+              77.1994,
+              28.599500000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00054",
+        "RoofAreaSquareMeters": 501.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.20450000000001,
+              28.6034
+            ],
+            [
+              77.20465000000002,
+              28.6034
+            ],
+            [
+              77.20465000000002,
+              28.603550000000002
+            ],
+            [
+              77.20450000000001,
+              28.603550000000002
+            ],
+            [
+              77.20450000000001,
+              28.6034
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00055",
+        "RoofAreaSquareMeters": 530.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.20960000000001,
+              28.607300000000002
+            ],
+            [
+              77.20975000000001,
+              28.607300000000002
+            ],
+            [
+              77.20975000000001,
+              28.607450000000004
+            ],
+            [
+              77.20960000000001,
+              28.607450000000004
+            ],
+            [
+              77.20960000000001,
+              28.607300000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00056",
+        "RoofAreaSquareMeters": 559.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.21470000000001,
+              28.6112
+            ],
+            [
+              77.21485000000001,
+              28.6112
+            ],
+            [
+              77.21485000000001,
+              28.61135
+            ],
+            [
+              77.21470000000001,
+              28.61135
+            ],
+            [
+              77.21470000000001,
+              28.6112
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00057",
+        "RoofAreaSquareMeters": 38.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2198,
+              28.6151
+            ],
+            [
+              77.21995000000001,
+              28.6151
+            ],
+            [
+              77.21995000000001,
+              28.615250000000003
+            ],
+            [
+              77.2198,
+              28.615250000000003
+            ],
+            [
+              77.2198,
+              28.6151
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00058",
+        "RoofAreaSquareMeters": 67.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1949,
+              28.619
+            ],
+            [
+              77.19505000000001,
+              28.619
+            ],
+            [
+              77.19505000000001,
+              28.61915
+            ],
+            [
+              77.1949,
+              28.61915
+            ],
+            [
+              77.1949,
+              28.619
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00059",
+        "RoofAreaSquareMeters": 96.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2,
+              28.6229
+            ],
+            [
+              77.20015000000001,
+              28.6229
+            ],
+            [
+              77.20015000000001,
+              28.623050000000003
+            ],
+            [
+              77.2,
+              28.623050000000003
+            ],
+            [
+              77.2,
+              28.6229
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00060",
+        "RoofAreaSquareMeters": 125.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2051,
+              28.6268
+            ],
+            [
+              77.20525,
+              28.6268
+            ],
+            [
+              77.20525,
+              28.62695
+            ],
+            [
+              77.2051,
+              28.62695
+            ],
+            [
+              77.2051,
+              28.6268
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00061",
+        "RoofAreaSquareMeters": 154.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2102,
+              28.6007
+            ],
+            [
+              77.21035,
+              28.6007
+            ],
+            [
+              77.21035,
+              28.60085
+            ],
+            [
+              77.2102,
+              28.60085
+            ],
+            [
+              77.2102,
+              28.6007
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00062",
+        "RoofAreaSquareMeters": 183.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2153,
+              28.6046
+            ],
+            [
+              77.21545,
+              28.6046
+            ],
+            [
+              77.21545,
+              28.604750000000003
+            ],
+            [
+              77.2153,
+              28.604750000000003
+            ],
+            [
+              77.2153,
+              28.6046
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00063",
+        "RoofAreaSquareMeters": 212.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2204,
+              28.6085
+            ],
+            [
+              77.22055,
+              28.6085
+            ],
+            [
+              77.22055,
+              28.60865
+            ],
+            [
+              77.2204,
+              28.60865
+            ],
+            [
+              77.2204,
+              28.6085
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00064",
+        "RoofAreaSquareMeters": 241.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.19550000000001,
+              28.6124
+            ],
+            [
+              77.19565000000001,
+              28.6124
+            ],
+            [
+              77.19565000000001,
+              28.612550000000002
+            ],
+            [
+              77.19550000000001,
+              28.612550000000002
+            ],
+            [
+              77.19550000000001,
+              28.6124
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00065",
+        "RoofAreaSquareMeters": 270.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.20060000000001,
+              28.616300000000003
+            ],
+            [
+              77.20075000000001,
+              28.616300000000003
+            ],
+            [
+              77.20075000000001,
+              28.616450000000004
+            ],
+            [
+              77.20060000000001,
+              28.616450000000004
+            ],
+            [
+              77.20060000000001,
+              28.616300000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00066",
+        "RoofAreaSquareMeters": 299.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.20570000000001,
+              28.6202
+            ],
+            [
+              77.20585000000001,
+              28.6202
+            ],
+            [
+              77.20585000000001,
+              28.620350000000002
+            ],
+            [
+              77.20570000000001,
+              28.620350000000002
+            ],
+            [
+              77.20570000000001,
+              28.6202
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00067",
+        "RoofAreaSquareMeters": 328.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2108,
+              28.624100000000002
+            ],
+            [
+              77.21095000000001,
+              28.624100000000002
+            ],
+            [
+              77.21095000000001,
+              28.624250000000004
+            ],
+            [
+              77.2108,
+              28.624250000000004
+            ],
+            [
+              77.2108,
+              28.624100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00068",
+        "RoofAreaSquareMeters": 357.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2159,
+              28.628
+            ],
+            [
+              77.21605000000001,
+              28.628
+            ],
+            [
+              77.21605000000001,
+              28.62815
+            ],
+            [
+              77.2159,
+              28.62815
+            ],
+            [
+              77.2159,
+              28.628
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00069",
+        "RoofAreaSquareMeters": 386.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.221,
+              28.6019
+            ],
+            [
+              77.22115000000001,
+              28.6019
+            ],
+            [
+              77.22115000000001,
+              28.602050000000002
+            ],
+            [
+              77.221,
+              28.602050000000002
+            ],
+            [
+              77.221,
+              28.6019
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00070",
+        "RoofAreaSquareMeters": 415.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1961,
+              28.605800000000002
+            ],
+            [
+              77.19625,
+              28.605800000000002
+            ],
+            [
+              77.19625,
+              28.605950000000004
+            ],
+            [
+              77.1961,
+              28.605950000000004
+            ],
+            [
+              77.1961,
+              28.605800000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00071",
+        "RoofAreaSquareMeters": 444.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2012,
+              28.6097
+            ],
+            [
+              77.20135,
+              28.6097
+            ],
+            [
+              77.20135,
+              28.60985
+            ],
+            [
+              77.2012,
+              28.60985
+            ],
+            [
+              77.2012,
+              28.6097
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00072",
+        "RoofAreaSquareMeters": 473.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2063,
+              28.6136
+            ],
+            [
+              77.20645,
+              28.6136
+            ],
+            [
+              77.20645,
+              28.613750000000003
+            ],
+            [
+              77.2063,
+              28.613750000000003
+            ],
+            [
+              77.2063,
+              28.6136
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00073",
+        "RoofAreaSquareMeters": 502.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2114,
+              28.6175
+            ],
+            [
+              77.21155,
+              28.6175
+            ],
+            [
+              77.21155,
+              28.61765
+            ],
+            [
+              77.2114,
+              28.61765
+            ],
+            [
+              77.2114,
+              28.6175
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00074",
+        "RoofAreaSquareMeters": 531.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2165,
+              28.6214
+            ],
+            [
+              77.21665,
+              28.6214
+            ],
+            [
+              77.21665,
+              28.621550000000003
+            ],
+            [
+              77.2165,
+              28.621550000000003
+            ],
+            [
+              77.2165,
+              28.6214
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00075",
+        "RoofAreaSquareMeters": 560.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.22160000000001,
+              28.6253
+            ],
+            [
+              77.22175000000001,
+              28.6253
+            ],
+            [
+              77.22175000000001,
+              28.62545
+            ],
+            [
+              77.22160000000001,
+              28.62545
+            ],
+            [
+              77.22160000000001,
+              28.6253
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00076",
+        "RoofAreaSquareMeters": 39.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1967,
+              28.5992
+            ],
+            [
+              77.19685000000001,
+              28.5992
+            ],
+            [
+              77.19685000000001,
+              28.59935
+            ],
+            [
+              77.1967,
+              28.59935
+            ],
+            [
+              77.1967,
+              28.5992
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00077",
+        "RoofAreaSquareMeters": 68.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2018,
+              28.6031
+            ],
+            [
+              77.20195000000001,
+              28.6031
+            ],
+            [
+              77.20195000000001,
+              28.603250000000003
+            ],
+            [
+              77.2018,
+              28.603250000000003
+            ],
+            [
+              77.2018,
+              28.6031
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00078",
+        "RoofAreaSquareMeters": 97.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2069,
+              28.607
+            ],
+            [
+              77.20705000000001,
+              28.607
+            ],
+            [
+              77.20705000000001,
+              28.60715
+            ],
+            [
+              77.2069,
+              28.60715
+            ],
+            [
+              77.2069,
+              28.607
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00079",
+        "RoofAreaSquareMeters": 126.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.212,
+              28.6109
+            ],
+            [
+              77.21215000000001,
+              28.6109
+            ],
+            [
+              77.21215000000001,
+              28.611050000000002
+            ],
+            [
+              77.212,
+              28.611050000000002
+            ],
+            [
+              77.212,
+              28.6109
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00080",
+        "RoofAreaSquareMeters": 155.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2171,
+              28.614800000000002
+            ],
+            [
+              77.21725,
+              28.614800000000002
+            ],
+            [
+              77.21725,
+              28.614950000000004
+            ],
+            [
+              77.2171,
+              28.614950000000004
+            ],
+            [
+              77.2171,
+              28.614800000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00081",
+        "RoofAreaSquareMeters": 184.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2222,
+              28.6187
+            ],
+            [
+              77.22235,
+              28.6187
+            ],
+            [
+              77.22235,
+              28.618850000000002
+            ],
+            [
+              77.2222,
+              28.618850000000002
+            ],
+            [
+              77.2222,
+              28.6187
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00082",
+        "RoofAreaSquareMeters": 213.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1973,
+              28.622600000000002
+            ],
+            [
+              77.19745,
+              28.622600000000002
+            ],
+            [
+              77.19745,
+              28.622750000000003
+            ],
+            [
+              77.1973,
+              28.622750000000003
+            ],
+            [
+              77.1973,
+              28.622600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00083",
+        "RoofAreaSquareMeters": 242.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2024,
+              28.6265
+            ],
+            [
+              77.20255,
+              28.6265
+            ],
+            [
+              77.20255,
+              28.62665
+            ],
+            [
+              77.2024,
+              28.62665
+            ],
+            [
+              77.2024,
+              28.6265
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00084",
+        "RoofAreaSquareMeters": 271.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.20750000000001,
+              28.6004
+            ],
+            [
+              77.20765000000002,
+              28.6004
+            ],
+            [
+              77.20765000000002,
+              28.600550000000002
+            ],
+            [
+              77.20750000000001,
+              28.600550000000002
+            ],
+            [
+              77.20750000000001,
+              28.6004
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00085",
+        "RoofAreaSquareMeters": 300.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.21260000000001,
+              28.604300000000002
+            ],
+            [
+              77.21275000000001,
+              28.604300000000002
+            ],
+            [
+              77.21275000000001,
+              28.604450000000003
+            ],
+            [
+              77.21260000000001,
+              28.604450000000003
+            ],
+            [
+              77.21260000000001,
+              28.604300000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00086",
+        "RoofAreaSquareMeters": 329.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.21770000000001,
+              28.6082
+            ],
+            [
+              77.21785000000001,
+              28.6082
+            ],
+            [
+              77.21785000000001,
+              28.60835
+            ],
+            [
+              77.21770000000001,
+              28.60835
+            ],
+            [
+              77.21770000000001,
+              28.6082
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00087",
+        "RoofAreaSquareMeters": 358.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2228,
+              28.6121
+            ],
+            [
+              77.22295000000001,
+              28.6121
+            ],
+            [
+              77.22295000000001,
+              28.612250000000003
+            ],
+            [
+              77.2228,
+              28.612250000000003
+            ],
+            [
+              77.2228,
+              28.6121
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00088",
+        "RoofAreaSquareMeters": 387.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1979,
+              28.616
+            ],
+            [
+              77.19805000000001,
+              28.616
+            ],
+            [
+              77.19805000000001,
+              28.61615
+            ],
+            [
+              77.1979,
+              28.61615
+            ],
+            [
+              77.1979,
+              28.616
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00089",
+        "RoofAreaSquareMeters": 416.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.203,
+              28.6199
+            ],
+            [
+              77.20315000000001,
+              28.6199
+            ],
+            [
+              77.20315000000001,
+              28.620050000000003
+            ],
+            [
+              77.203,
+              28.620050000000003
+            ],
+            [
+              77.203,
+              28.6199
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00090",
+        "RoofAreaSquareMeters": 445.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2081,
+              28.6238
+            ],
+            [
+              77.20825,
+              28.6238
+            ],
+            [
+              77.20825,
+              28.62395
+            ],
+            [
+              77.2081,
+              28.62395
+            ],
+            [
+              77.2081,
+              28.6238
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00091",
+        "RoofAreaSquareMeters": 474.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2132,
+              28.6277
+            ],
+            [
+              77.21335,
+              28.6277
+            ],
+            [
+              77.21335,
+              28.627850000000002
+            ],
+            [
+              77.2132,
+              28.627850000000002
+            ],
+            [
+              77.2132,
+              28.6277
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00092",
+        "RoofAreaSquareMeters": 503.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2183,
+              28.6016
+            ],
+            [
+              77.21845,
+              28.6016
+            ],
+            [
+              77.21845,
+              28.601750000000003
+            ],
+            [
+              77.2183,
+              28.601750000000003
+            ],
+            [
+              77.2183,
+              28.6016
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00093",
+        "RoofAreaSquareMeters": 532.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2234,
+              28.6055
+            ],
+            [
+              77.22355,
+              28.6055
+            ],
+            [
+              77.22355,
+              28.60565
+            ],
+            [
+              77.2234,
+              28.60565
+            ],
+            [
+              77.2234,
+              28.6055
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00094",
+        "RoofAreaSquareMeters": 561.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.19850000000001,
+              28.6094
+            ],
+            [
+              77.19865000000001,
+              28.6094
+            ],
+            [
+              77.19865000000001,
+              28.609550000000002
+            ],
+            [
+              77.19850000000001,
+              28.609550000000002
+            ],
+            [
+              77.19850000000001,
+              28.6094
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00095",
+        "RoofAreaSquareMeters": 40.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.20360000000001,
+              28.613300000000002
+            ],
+            [
+              77.20375000000001,
+              28.613300000000002
+            ],
+            [
+              77.20375000000001,
+              28.613450000000004
+            ],
+            [
+              77.20360000000001,
+              28.613450000000004
+            ],
+            [
+              77.20360000000001,
+              28.613300000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00096",
+        "RoofAreaSquareMeters": 69.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.20870000000001,
+              28.6172
+            ],
+            [
+              77.20885000000001,
+              28.6172
+            ],
+            [
+              77.20885000000001,
+              28.617350000000002
+            ],
+            [
+              77.20870000000001,
+              28.617350000000002
+            ],
+            [
+              77.20870000000001,
+              28.6172
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00097",
+        "RoofAreaSquareMeters": 98.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2138,
+              28.621100000000002
+            ],
+            [
+              77.21395000000001,
+              28.621100000000002
+            ],
+            [
+              77.21395000000001,
+              28.621250000000003
+            ],
+            [
+              77.2138,
+              28.621250000000003
+            ],
+            [
+              77.2138,
+              28.621100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00098",
+        "RoofAreaSquareMeters": 127.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2189,
+              28.625
+            ],
+            [
+              77.21905000000001,
+              28.625
+            ],
+            [
+              77.21905000000001,
+              28.62515
+            ],
+            [
+              77.2189,
+              28.62515
+            ],
+            [
+              77.2189,
+              28.625
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00099",
+        "RoofAreaSquareMeters": 156.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.194,
+              28.5989
+            ],
+            [
+              77.19415000000001,
+              28.5989
+            ],
+            [
+              77.19415000000001,
+              28.599050000000002
+            ],
+            [
+              77.194,
+              28.599050000000002
+            ],
+            [
+              77.194,
+              28.5989
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00100",
+        "RoofAreaSquareMeters": 185.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1991,
+              28.602800000000002
+            ],
+            [
+              77.19925,
+              28.602800000000002
+            ],
+            [
+              77.19925,
+              28.602950000000003
+            ],
+            [
+              77.1991,
+              28.602950000000003
+            ],
+            [
+              77.1991,
+              28.602800000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00101",
+        "RoofAreaSquareMeters": 214.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2042,
+              28.6067
+            ],
+            [
+              77.20435,
+              28.6067
+            ],
+            [
+              77.20435,
+              28.60685
+            ],
+            [
+              77.2042,
+              28.60685
+            ],
+            [
+              77.2042,
+              28.6067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00102",
+        "RoofAreaSquareMeters": 243.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2093,
+              28.6106
+            ],
+            [
+              77.20945,
+              28.6106
+            ],
+            [
+              77.20945,
+              28.610750000000003
+            ],
+            [
+              77.2093,
+              28.610750000000003
+            ],
+            [
+              77.2093,
+              28.6106
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00103",
+        "RoofAreaSquareMeters": 272.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2144,
+              28.6145
+            ],
+            [
+              77.21455,
+              28.6145
+            ],
+            [
+              77.21455,
+              28.61465
+            ],
+            [
+              77.2144,
+              28.61465
+            ],
+            [
+              77.2144,
+              28.6145
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00104",
+        "RoofAreaSquareMeters": 301.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2195,
+              28.6184
+            ],
+            [
+              77.21965,
+              28.6184
+            ],
+            [
+              77.21965,
+              28.618550000000003
+            ],
+            [
+              77.2195,
+              28.618550000000003
+            ],
+            [
+              77.2195,
+              28.6184
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00105",
+        "RoofAreaSquareMeters": 330.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.19460000000001,
+              28.622300000000003
+            ],
+            [
+              77.19475000000001,
+              28.622300000000003
+            ],
+            [
+              77.19475000000001,
+              28.622450000000004
+            ],
+            [
+              77.19460000000001,
+              28.622450000000004
+            ],
+            [
+              77.19460000000001,
+              28.622300000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00106",
+        "RoofAreaSquareMeters": 359.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1997,
+              28.6262
+            ],
+            [
+              77.19985000000001,
+              28.6262
+            ],
+            [
+              77.19985000000001,
+              28.626350000000002
+            ],
+            [
+              77.1997,
+              28.626350000000002
+            ],
+            [
+              77.1997,
+              28.6262
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00107",
+        "RoofAreaSquareMeters": 388.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2048,
+              28.6001
+            ],
+            [
+              77.20495000000001,
+              28.6001
+            ],
+            [
+              77.20495000000001,
+              28.600250000000003
+            ],
+            [
+              77.2048,
+              28.600250000000003
+            ],
+            [
+              77.2048,
+              28.6001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00108",
+        "RoofAreaSquareMeters": 417.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2099,
+              28.604000000000003
+            ],
+            [
+              77.21005000000001,
+              28.604000000000003
+            ],
+            [
+              77.21005000000001,
+              28.604150000000004
+            ],
+            [
+              77.2099,
+              28.604150000000004
+            ],
+            [
+              77.2099,
+              28.604000000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00109",
+        "RoofAreaSquareMeters": 446.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.215,
+              28.6079
+            ],
+            [
+              77.21515000000001,
+              28.6079
+            ],
+            [
+              77.21515000000001,
+              28.608050000000002
+            ],
+            [
+              77.215,
+              28.608050000000002
+            ],
+            [
+              77.215,
+              28.6079
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00110",
+        "RoofAreaSquareMeters": 475.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2201,
+              28.611800000000002
+            ],
+            [
+              77.22025000000001,
+              28.611800000000002
+            ],
+            [
+              77.22025000000001,
+              28.611950000000004
+            ],
+            [
+              77.2201,
+              28.611950000000004
+            ],
+            [
+              77.2201,
+              28.611800000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00111",
+        "RoofAreaSquareMeters": 504.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1952,
+              28.6157
+            ],
+            [
+              77.19535,
+              28.6157
+            ],
+            [
+              77.19535,
+              28.615850000000002
+            ],
+            [
+              77.1952,
+              28.615850000000002
+            ],
+            [
+              77.1952,
+              28.6157
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00112",
+        "RoofAreaSquareMeters": 533.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2003,
+              28.619600000000002
+            ],
+            [
+              77.20045,
+              28.619600000000002
+            ],
+            [
+              77.20045,
+              28.619750000000003
+            ],
+            [
+              77.2003,
+              28.619750000000003
+            ],
+            [
+              77.2003,
+              28.619600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00113",
+        "RoofAreaSquareMeters": 562.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2054,
+              28.6235
+            ],
+            [
+              77.20555,
+              28.6235
+            ],
+            [
+              77.20555,
+              28.62365
+            ],
+            [
+              77.2054,
+              28.62365
+            ],
+            [
+              77.2054,
+              28.6235
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00114",
+        "RoofAreaSquareMeters": 41.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2105,
+              28.6274
+            ],
+            [
+              77.21065,
+              28.6274
+            ],
+            [
+              77.21065,
+              28.627550000000003
+            ],
+            [
+              77.2105,
+              28.627550000000003
+            ],
+            [
+              77.2105,
+              28.6274
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00115",
+        "RoofAreaSquareMeters": 70.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.21560000000001,
+              28.601300000000002
+            ],
+            [
+              77.21575000000001,
+              28.601300000000002
+            ],
+            [
+              77.21575000000001,
+              28.601450000000003
+            ],
+            [
+              77.21560000000001,
+              28.601450000000003
+            ],
+            [
+              77.21560000000001,
+              28.601300000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00116",
+        "RoofAreaSquareMeters": 99.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.22070000000001,
+              28.6052
+            ],
+            [
+              77.22085000000001,
+              28.6052
+            ],
+            [
+              77.22085000000001,
+              28.60535
+            ],
+            [
+              77.22070000000001,
+              28.60535
+            ],
+            [
+              77.22070000000001,
+              28.6052
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00117",
+        "RoofAreaSquareMeters": 128.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1958,
+              28.6091
+            ],
+            [
+              77.19595000000001,
+              28.6091
+            ],
+            [
+              77.19595000000001,
+              28.609250000000003
+            ],
+            [
+              77.1958,
+              28.609250000000003
+            ],
+            [
+              77.1958,
+              28.6091
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00118",
+        "RoofAreaSquareMeters": 157.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2009,
+              28.613
+            ],
+            [
+              77.20105000000001,
+              28.613
+            ],
+            [
+              77.20105000000001,
+              28.61315
+            ],
+            [
+              77.2009,
+              28.61315
+            ],
+            [
+              77.2009,
+              28.613
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00119",
+        "RoofAreaSquareMeters": 186.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.206,
+              28.6169
+            ],
+            [
+              77.20615000000001,
+              28.6169
+            ],
+            [
+              77.20615000000001,
+              28.617050000000003
+            ],
+            [
+              77.206,
+              28.617050000000003
+            ],
+            [
+              77.206,
+              28.6169
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00120",
+        "RoofAreaSquareMeters": 215.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2111,
+              28.620800000000003
+            ],
+            [
+              77.21125,
+              28.620800000000003
+            ],
+            [
+              77.21125,
+              28.620950000000004
+            ],
+            [
+              77.2111,
+              28.620950000000004
+            ],
+            [
+              77.2111,
+              28.620800000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00121",
+        "RoofAreaSquareMeters": 244.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2162,
+              28.6247
+            ],
+            [
+              77.21635,
+              28.6247
+            ],
+            [
+              77.21635,
+              28.624850000000002
+            ],
+            [
+              77.2162,
+              28.624850000000002
+            ],
+            [
+              77.2162,
+              28.6247
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00122",
+        "RoofAreaSquareMeters": 273.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2213,
+              28.628600000000002
+            ],
+            [
+              77.22145,
+              28.628600000000002
+            ],
+            [
+              77.22145,
+              28.628750000000004
+            ],
+            [
+              77.2213,
+              28.628750000000004
+            ],
+            [
+              77.2213,
+              28.628600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00123",
+        "RoofAreaSquareMeters": 302.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1964,
+              28.602500000000003
+            ],
+            [
+              77.19655,
+              28.602500000000003
+            ],
+            [
+              77.19655,
+              28.602650000000004
+            ],
+            [
+              77.1964,
+              28.602650000000004
+            ],
+            [
+              77.1964,
+              28.602500000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00124",
+        "RoofAreaSquareMeters": 331.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.20150000000001,
+              28.6064
+            ],
+            [
+              77.20165000000001,
+              28.6064
+            ],
+            [
+              77.20165000000001,
+              28.606550000000002
+            ],
+            [
+              77.20150000000001,
+              28.606550000000002
+            ],
+            [
+              77.20150000000001,
+              28.6064
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00125",
+        "RoofAreaSquareMeters": 360.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.20660000000001,
+              28.610300000000002
+            ],
+            [
+              77.20675000000001,
+              28.610300000000002
+            ],
+            [
+              77.20675000000001,
+              28.610450000000004
+            ],
+            [
+              77.20660000000001,
+              28.610450000000004
+            ],
+            [
+              77.20660000000001,
+              28.610300000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00126",
+        "RoofAreaSquareMeters": 389.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.21170000000001,
+              28.6142
+            ],
+            [
+              77.21185000000001,
+              28.6142
+            ],
+            [
+              77.21185000000001,
+              28.61435
+            ],
+            [
+              77.21170000000001,
+              28.61435
+            ],
+            [
+              77.21170000000001,
+              28.6142
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00127",
+        "RoofAreaSquareMeters": 418.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2168,
+              28.618100000000002
+            ],
+            [
+              77.21695000000001,
+              28.618100000000002
+            ],
+            [
+              77.21695000000001,
+              28.618250000000003
+            ],
+            [
+              77.2168,
+              28.618250000000003
+            ],
+            [
+              77.2168,
+              28.618100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00128",
+        "RoofAreaSquareMeters": 447.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2219,
+              28.622
+            ],
+            [
+              77.22205000000001,
+              28.622
+            ],
+            [
+              77.22205000000001,
+              28.62215
+            ],
+            [
+              77.2219,
+              28.62215
+            ],
+            [
+              77.2219,
+              28.622
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00129",
+        "RoofAreaSquareMeters": 476.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.197,
+              28.6259
+            ],
+            [
+              77.19715000000001,
+              28.6259
+            ],
+            [
+              77.19715000000001,
+              28.626050000000003
+            ],
+            [
+              77.197,
+              28.626050000000003
+            ],
+            [
+              77.197,
+              28.6259
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00130",
+        "RoofAreaSquareMeters": 505.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2021,
+              28.599800000000002
+            ],
+            [
+              77.20225,
+              28.599800000000002
+            ],
+            [
+              77.20225,
+              28.599950000000003
+            ],
+            [
+              77.2021,
+              28.599950000000003
+            ],
+            [
+              77.2021,
+              28.599800000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00131",
+        "RoofAreaSquareMeters": 534.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2072,
+              28.6037
+            ],
+            [
+              77.20735,
+              28.6037
+            ],
+            [
+              77.20735,
+              28.60385
+            ],
+            [
+              77.2072,
+              28.60385
+            ],
+            [
+              77.2072,
+              28.6037
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00132",
+        "RoofAreaSquareMeters": 563.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2123,
+              28.6076
+            ],
+            [
+              77.21245,
+              28.6076
+            ],
+            [
+              77.21245,
+              28.607750000000003
+            ],
+            [
+              77.2123,
+              28.607750000000003
+            ],
+            [
+              77.2123,
+              28.6076
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00133",
+        "RoofAreaSquareMeters": 42.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2174,
+              28.6115
+            ],
+            [
+              77.21755,
+              28.6115
+            ],
+            [
+              77.21755,
+              28.61165
+            ],
+            [
+              77.2174,
+              28.61165
+            ],
+            [
+              77.2174,
+              28.6115
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00134",
+        "RoofAreaSquareMeters": 71.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2225,
+              28.6154
+            ],
+            [
+              77.22265,
+              28.6154
+            ],
+            [
+              77.22265,
+              28.615550000000002
+            ],
+            [
+              77.2225,
+              28.615550000000002
+            ],
+            [
+              77.2225,
+              28.6154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00135",
+        "RoofAreaSquareMeters": 100.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.19760000000001,
+              28.619300000000003
+            ],
+            [
+              77.19775000000001,
+              28.619300000000003
+            ],
+            [
+              77.19775000000001,
+              28.619450000000004
+            ],
+            [
+              77.19760000000001,
+              28.619450000000004
+            ],
+            [
+              77.19760000000001,
+              28.619300000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00136",
+        "RoofAreaSquareMeters": 129.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.20270000000001,
+              28.6232
+            ],
+            [
+              77.20285000000001,
+              28.6232
+            ],
+            [
+              77.20285000000001,
+              28.623350000000002
+            ],
+            [
+              77.20270000000001,
+              28.623350000000002
+            ],
+            [
+              77.20270000000001,
+              28.6232
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00137",
+        "RoofAreaSquareMeters": 158.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2078,
+              28.627100000000002
+            ],
+            [
+              77.20795000000001,
+              28.627100000000002
+            ],
+            [
+              77.20795000000001,
+              28.627250000000004
+            ],
+            [
+              77.2078,
+              28.627250000000004
+            ],
+            [
+              77.2078,
+              28.627100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00138",
+        "RoofAreaSquareMeters": 187.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2129,
+              28.601000000000003
+            ],
+            [
+              77.21305000000001,
+              28.601000000000003
+            ],
+            [
+              77.21305000000001,
+              28.601150000000004
+            ],
+            [
+              77.2129,
+              28.601150000000004
+            ],
+            [
+              77.2129,
+              28.601000000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00139",
+        "RoofAreaSquareMeters": 216.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.218,
+              28.6049
+            ],
+            [
+              77.21815000000001,
+              28.6049
+            ],
+            [
+              77.21815000000001,
+              28.605050000000002
+            ],
+            [
+              77.218,
+              28.605050000000002
+            ],
+            [
+              77.218,
+              28.6049
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00140",
+        "RoofAreaSquareMeters": 245.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2231,
+              28.608800000000002
+            ],
+            [
+              77.22325000000001,
+              28.608800000000002
+            ],
+            [
+              77.22325000000001,
+              28.608950000000004
+            ],
+            [
+              77.2231,
+              28.608950000000004
+            ],
+            [
+              77.2231,
+              28.608800000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00141",
+        "RoofAreaSquareMeters": 274.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1982,
+              28.6127
+            ],
+            [
+              77.19835,
+              28.6127
+            ],
+            [
+              77.19835,
+              28.61285
+            ],
+            [
+              77.1982,
+              28.61285
+            ],
+            [
+              77.1982,
+              28.6127
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00142",
+        "RoofAreaSquareMeters": 303.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2033,
+              28.616600000000002
+            ],
+            [
+              77.20345,
+              28.616600000000002
+            ],
+            [
+              77.20345,
+              28.616750000000003
+            ],
+            [
+              77.2033,
+              28.616750000000003
+            ],
+            [
+              77.2033,
+              28.616600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00143",
+        "RoofAreaSquareMeters": 332.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2084,
+              28.6205
+            ],
+            [
+              77.20855,
+              28.6205
+            ],
+            [
+              77.20855,
+              28.62065
+            ],
+            [
+              77.2084,
+              28.62065
+            ],
+            [
+              77.2084,
+              28.6205
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00144",
+        "RoofAreaSquareMeters": 361.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2135,
+              28.6244
+            ],
+            [
+              77.21365,
+              28.6244
+            ],
+            [
+              77.21365,
+              28.624550000000003
+            ],
+            [
+              77.2135,
+              28.624550000000003
+            ],
+            [
+              77.2135,
+              28.6244
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00145",
+        "RoofAreaSquareMeters": 390.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.21860000000001,
+              28.6283
+            ],
+            [
+              77.21875000000001,
+              28.6283
+            ],
+            [
+              77.21875000000001,
+              28.62845
+            ],
+            [
+              77.21860000000001,
+              28.62845
+            ],
+            [
+              77.21860000000001,
+              28.6283
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00146",
+        "RoofAreaSquareMeters": 419.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.22370000000001,
+              28.6022
+            ],
+            [
+              77.22385000000001,
+              28.6022
+            ],
+            [
+              77.22385000000001,
+              28.60235
+            ],
+            [
+              77.22370000000001,
+              28.60235
+            ],
+            [
+              77.22370000000001,
+              28.6022
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00147",
+        "RoofAreaSquareMeters": 448.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1988,
+              28.6061
+            ],
+            [
+              77.19895000000001,
+              28.6061
+            ],
+            [
+              77.19895000000001,
+              28.606250000000003
+            ],
+            [
+              77.1988,
+              28.606250000000003
+            ],
+            [
+              77.1988,
+              28.6061
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00148",
+        "RoofAreaSquareMeters": 477.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2039,
+              28.61
+            ],
+            [
+              77.20405000000001,
+              28.61
+            ],
+            [
+              77.20405000000001,
+              28.61015
+            ],
+            [
+              77.2039,
+              28.61015
+            ],
+            [
+              77.2039,
+              28.61
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00149",
+        "RoofAreaSquareMeters": 506.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.209,
+              28.6139
+            ],
+            [
+              77.20915000000001,
+              28.6139
+            ],
+            [
+              77.20915000000001,
+              28.614050000000002
+            ],
+            [
+              77.209,
+              28.614050000000002
+            ],
+            [
+              77.209,
+              28.6139
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_DEL_00150",
+        "RoofAreaSquareMeters": 535.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "NASA JPL ECOSTRESS Space Station Thermal Radiometer Experiment",
+    "TargetCity": "Ahmedabad",
+    "GeographicBounds": {
+      "MinLon": 72.53,
+      "MinLat": 22.99,
+      "MaxLon": 72.62,
+      "MaxLat": 23.06
+    },
+    "OrbitType": "International Space Station (ISS) Precessing Low Earth Orbit",
+    "SpatialResolutionMeters": 70.0,
+    "ProductType": "ECO2LSTE (Land Surface Temperature & Emissivity) & ECO3ETPTJPL (Evapotranspiration)",
+    "NocturnalOverpassTimestampUTC": "2024-05-19T21:14:08Z (02:44 AM IST Local)",
+    "DaytimeOverpassTimestampUTC": "2024-05-20T08:22:31Z (13:52 PM IST Local)"
+  },
+  "DiurnalThermalOverpasses": [
+    {
+      "PassTimeIST": "02:44 AM (Deep Midnight / Nocturnal Minimum)",
+      "MeanUrbanLSTCelsius": 34.9,
+      "HotspotSlumClustersCelsius": 38.0,
+      "ThermalInversionIndex": 0.82
+    },
+    {
+      "PassTimeIST": "06:15 AM (Dawn Baseline)",
+      "MeanUrbanLSTCelsius": 31.6,
+      "HotspotSlumClustersCelsius": 33.7,
+      "ThermalInversionIndex": 0.45
+    },
+    {
+      "PassTimeIST": "13:52 PM (Peak Solar Insolation)",
+      "MeanUrbanLSTCelsius": 49.2,
+      "HotspotSlumClustersCelsius": 53.4,
+      "ThermalInversionIndex": 0.94
+    },
+    {
+      "PassTimeIST": "21:30 PM (Post-Sunset Heat Trapping)",
+      "MeanUrbanLSTCelsius": 36.5,
+      "HotspotSlumClustersCelsius": 39.2,
+      "ThermalInversionIndex": 0.89
+    }
+  ],
+  "WardDiurnalRetentionMatrix": [
+    {
+      "WardId": "Ward 07 - Naroda Industrial",
+      "WardName": "Naroda GIDC Manufacturing Area",
+      "MidnightSurfaceTemperatureCelsius": 36.3,
+      "NocturnalHeatRetentionAnomalyCelsius": 4.0,
+      "DiurnalThermalAmplitudeCelsius": 12.9,
+      "EvaporativeStressIndexESI": 0.256,
+      "WaterDeficitIndexWDI": 0.875,
+      "PhysiologicalHeatRecoveryInhibited": true
+    },
+    {
+      "WardId": "Ward 18 - Danilimda Slum Cluster",
+      "WardName": "Danilimda Informal Settlement",
+      "MidnightSurfaceTemperatureCelsius": 34.98,
+      "NocturnalHeatRetentionAnomalyCelsius": 2.68,
+      "DiurnalThermalAmplitudeCelsius": 14.22,
+      "EvaporativeStressIndexESI": 0.245,
+      "WaterDeficitIndexWDI": 0.919,
+      "PhysiologicalHeatRecoveryInhibited": true
+    },
+    {
+      "WardId": "Ward 29 - Behrampura South",
+      "WardName": "Behrampura High-Density Residential",
+      "MidnightSurfaceTemperatureCelsius": 32.81,
+      "NocturnalHeatRetentionAnomalyCelsius": 0.51,
+      "DiurnalThermalAmplitudeCelsius": 16.39,
+      "EvaporativeStressIndexESI": 0.268,
+      "WaterDeficitIndexWDI": 0.896,
+      "PhysiologicalHeatRecoveryInhibited": false
+    },
+    {
+      "WardId": "Ward 42 - Navrangpura Commercial",
+      "WardName": "Navrangpura Urban Core",
+      "MidnightSurfaceTemperatureCelsius": 36.04,
+      "NocturnalHeatRetentionAnomalyCelsius": 3.74,
+      "DiurnalThermalAmplitudeCelsius": 13.16,
+      "EvaporativeStressIndexESI": 0.183,
+      "WaterDeficitIndexWDI": 0.892,
+      "PhysiologicalHeatRecoveryInhibited": true
+    }
+  ]
+}

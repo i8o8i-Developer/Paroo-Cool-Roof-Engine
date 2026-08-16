@@ -1,0 +1,5556 @@
+{
+  "type": "FeatureCollection",
+  "city": "Jaipur",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7774,
+              26.901300000000003
+            ],
+            [
+              75.77755,
+              26.901300000000003
+            ],
+            [
+              75.77755,
+              26.901450000000004
+            ],
+            [
+              75.7774,
+              26.901450000000004
+            ],
+            [
+              75.7774,
+              26.901300000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00001",
+        "RoofAreaSquareMeters": 64.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7825,
+              26.9052
+            ],
+            [
+              75.78265,
+              26.9052
+            ],
+            [
+              75.78265,
+              26.905350000000002
+            ],
+            [
+              75.7825,
+              26.905350000000002
+            ],
+            [
+              75.7825,
+              26.9052
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00002",
+        "RoofAreaSquareMeters": 93.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7876,
+              26.909100000000002
+            ],
+            [
+              75.78775,
+              26.909100000000002
+            ],
+            [
+              75.78775,
+              26.909250000000004
+            ],
+            [
+              75.7876,
+              26.909250000000004
+            ],
+            [
+              75.7876,
+              26.909100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00003",
+        "RoofAreaSquareMeters": 122.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7927,
+              26.913
+            ],
+            [
+              75.79285,
+              26.913
+            ],
+            [
+              75.79285,
+              26.91315
+            ],
+            [
+              75.7927,
+              26.91315
+            ],
+            [
+              75.7927,
+              26.913
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00004",
+        "RoofAreaSquareMeters": 151.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7978,
+              26.916900000000002
+            ],
+            [
+              75.79795,
+              26.916900000000002
+            ],
+            [
+              75.79795,
+              26.917050000000003
+            ],
+            [
+              75.7978,
+              26.917050000000003
+            ],
+            [
+              75.7978,
+              26.916900000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00005",
+        "RoofAreaSquareMeters": 180.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7729,
+              26.920800000000003
+            ],
+            [
+              75.77305000000001,
+              26.920800000000003
+            ],
+            [
+              75.77305000000001,
+              26.920950000000005
+            ],
+            [
+              75.7729,
+              26.920950000000005
+            ],
+            [
+              75.7729,
+              26.920800000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00006",
+        "RoofAreaSquareMeters": 209.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.778,
+              26.9247
+            ],
+            [
+              75.77815000000001,
+              26.9247
+            ],
+            [
+              75.77815000000001,
+              26.924850000000003
+            ],
+            [
+              75.778,
+              26.924850000000003
+            ],
+            [
+              75.778,
+              26.9247
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00007",
+        "RoofAreaSquareMeters": 238.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7831,
+              26.898600000000002
+            ],
+            [
+              75.78325000000001,
+              26.898600000000002
+            ],
+            [
+              75.78325000000001,
+              26.898750000000003
+            ],
+            [
+              75.7831,
+              26.898750000000003
+            ],
+            [
+              75.7831,
+              26.898600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00008",
+        "RoofAreaSquareMeters": 267.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7882,
+              26.902500000000003
+            ],
+            [
+              75.78835000000001,
+              26.902500000000003
+            ],
+            [
+              75.78835000000001,
+              26.902650000000005
+            ],
+            [
+              75.7882,
+              26.902650000000005
+            ],
+            [
+              75.7882,
+              26.902500000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00009",
+        "RoofAreaSquareMeters": 296.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7933,
+              26.9064
+            ],
+            [
+              75.79345,
+              26.9064
+            ],
+            [
+              75.79345,
+              26.906550000000003
+            ],
+            [
+              75.7933,
+              26.906550000000003
+            ],
+            [
+              75.7933,
+              26.9064
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00010",
+        "RoofAreaSquareMeters": 325.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7984,
+              26.910300000000003
+            ],
+            [
+              75.79855,
+              26.910300000000003
+            ],
+            [
+              75.79855,
+              26.910450000000004
+            ],
+            [
+              75.7984,
+              26.910450000000004
+            ],
+            [
+              75.7984,
+              26.910300000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00011",
+        "RoofAreaSquareMeters": 354.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7735,
+              26.9142
+            ],
+            [
+              75.77365,
+              26.9142
+            ],
+            [
+              75.77365,
+              26.914350000000002
+            ],
+            [
+              75.7735,
+              26.914350000000002
+            ],
+            [
+              75.7735,
+              26.9142
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00012",
+        "RoofAreaSquareMeters": 383.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7786,
+              26.918100000000003
+            ],
+            [
+              75.77875,
+              26.918100000000003
+            ],
+            [
+              75.77875,
+              26.918250000000004
+            ],
+            [
+              75.7786,
+              26.918250000000004
+            ],
+            [
+              75.7786,
+              26.918100000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00013",
+        "RoofAreaSquareMeters": 412.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7837,
+              26.922
+            ],
+            [
+              75.78385,
+              26.922
+            ],
+            [
+              75.78385,
+              26.922150000000002
+            ],
+            [
+              75.7837,
+              26.922150000000002
+            ],
+            [
+              75.7837,
+              26.922
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00014",
+        "RoofAreaSquareMeters": 441.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7888,
+              26.925900000000002
+            ],
+            [
+              75.78895,
+              26.925900000000002
+            ],
+            [
+              75.78895,
+              26.926050000000004
+            ],
+            [
+              75.7888,
+              26.926050000000004
+            ],
+            [
+              75.7888,
+              26.925900000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00015",
+        "RoofAreaSquareMeters": 470.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.79390000000001,
+              26.899800000000003
+            ],
+            [
+              75.79405000000001,
+              26.899800000000003
+            ],
+            [
+              75.79405000000001,
+              26.899950000000004
+            ],
+            [
+              75.79390000000001,
+              26.899950000000004
+            ],
+            [
+              75.79390000000001,
+              26.899800000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00016",
+        "RoofAreaSquareMeters": 499.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.799,
+              26.9037
+            ],
+            [
+              75.79915000000001,
+              26.9037
+            ],
+            [
+              75.79915000000001,
+              26.903850000000002
+            ],
+            [
+              75.799,
+              26.903850000000002
+            ],
+            [
+              75.799,
+              26.9037
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00017",
+        "RoofAreaSquareMeters": 528.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7741,
+              26.907600000000002
+            ],
+            [
+              75.77425000000001,
+              26.907600000000002
+            ],
+            [
+              75.77425000000001,
+              26.907750000000004
+            ],
+            [
+              75.7741,
+              26.907750000000004
+            ],
+            [
+              75.7741,
+              26.907600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00018",
+        "RoofAreaSquareMeters": 557.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7792,
+              26.9115
+            ],
+            [
+              75.77935000000001,
+              26.9115
+            ],
+            [
+              75.77935000000001,
+              26.91165
+            ],
+            [
+              75.7792,
+              26.91165
+            ],
+            [
+              75.7792,
+              26.9115
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00019",
+        "RoofAreaSquareMeters": 36.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7843,
+              26.9154
+            ],
+            [
+              75.78445,
+              26.9154
+            ],
+            [
+              75.78445,
+              26.915550000000003
+            ],
+            [
+              75.7843,
+              26.915550000000003
+            ],
+            [
+              75.7843,
+              26.9154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00020",
+        "RoofAreaSquareMeters": 65.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7894,
+              26.919300000000003
+            ],
+            [
+              75.78955,
+              26.919300000000003
+            ],
+            [
+              75.78955,
+              26.919450000000005
+            ],
+            [
+              75.7894,
+              26.919450000000005
+            ],
+            [
+              75.7894,
+              26.919300000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00021",
+        "RoofAreaSquareMeters": 94.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7945,
+              26.9232
+            ],
+            [
+              75.79465,
+              26.9232
+            ],
+            [
+              75.79465,
+              26.923350000000003
+            ],
+            [
+              75.7945,
+              26.923350000000003
+            ],
+            [
+              75.7945,
+              26.9232
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00022",
+        "RoofAreaSquareMeters": 123.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7996,
+              26.927100000000003
+            ],
+            [
+              75.79975,
+              26.927100000000003
+            ],
+            [
+              75.79975,
+              26.927250000000004
+            ],
+            [
+              75.7996,
+              26.927250000000004
+            ],
+            [
+              75.7996,
+              26.927100000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00023",
+        "RoofAreaSquareMeters": 152.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7747,
+              26.901000000000003
+            ],
+            [
+              75.77485,
+              26.901000000000003
+            ],
+            [
+              75.77485,
+              26.901150000000005
+            ],
+            [
+              75.7747,
+              26.901150000000005
+            ],
+            [
+              75.7747,
+              26.901000000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00024",
+        "RoofAreaSquareMeters": 181.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.77980000000001,
+              26.9049
+            ],
+            [
+              75.77995000000001,
+              26.9049
+            ],
+            [
+              75.77995000000001,
+              26.905050000000003
+            ],
+            [
+              75.77980000000001,
+              26.905050000000003
+            ],
+            [
+              75.77980000000001,
+              26.9049
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00025",
+        "RoofAreaSquareMeters": 210.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.78490000000001,
+              26.908800000000003
+            ],
+            [
+              75.78505000000001,
+              26.908800000000003
+            ],
+            [
+              75.78505000000001,
+              26.908950000000004
+            ],
+            [
+              75.78490000000001,
+              26.908950000000004
+            ],
+            [
+              75.78490000000001,
+              26.908800000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00026",
+        "RoofAreaSquareMeters": 239.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.79,
+              26.9127
+            ],
+            [
+              75.79015000000001,
+              26.9127
+            ],
+            [
+              75.79015000000001,
+              26.912850000000002
+            ],
+            [
+              75.79,
+              26.912850000000002
+            ],
+            [
+              75.79,
+              26.9127
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00027",
+        "RoofAreaSquareMeters": 268.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7951,
+              26.916600000000003
+            ],
+            [
+              75.79525000000001,
+              26.916600000000003
+            ],
+            [
+              75.79525000000001,
+              26.916750000000004
+            ],
+            [
+              75.7951,
+              26.916750000000004
+            ],
+            [
+              75.7951,
+              26.916600000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00028",
+        "RoofAreaSquareMeters": 297.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.8002,
+              26.9205
+            ],
+            [
+              75.80035000000001,
+              26.9205
+            ],
+            [
+              75.80035000000001,
+              26.920650000000002
+            ],
+            [
+              75.8002,
+              26.920650000000002
+            ],
+            [
+              75.8002,
+              26.9205
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00029",
+        "RoofAreaSquareMeters": 326.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7753,
+              26.924400000000002
+            ],
+            [
+              75.77545,
+              26.924400000000002
+            ],
+            [
+              75.77545,
+              26.924550000000004
+            ],
+            [
+              75.7753,
+              26.924550000000004
+            ],
+            [
+              75.7753,
+              26.924400000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00030",
+        "RoofAreaSquareMeters": 355.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7804,
+              26.898300000000003
+            ],
+            [
+              75.78055,
+              26.898300000000003
+            ],
+            [
+              75.78055,
+              26.898450000000004
+            ],
+            [
+              75.7804,
+              26.898450000000004
+            ],
+            [
+              75.7804,
+              26.898300000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00031",
+        "RoofAreaSquareMeters": 384.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7855,
+              26.9022
+            ],
+            [
+              75.78565,
+              26.9022
+            ],
+            [
+              75.78565,
+              26.902350000000002
+            ],
+            [
+              75.7855,
+              26.902350000000002
+            ],
+            [
+              75.7855,
+              26.9022
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00032",
+        "RoofAreaSquareMeters": 413.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7906,
+              26.906100000000002
+            ],
+            [
+              75.79075,
+              26.906100000000002
+            ],
+            [
+              75.79075,
+              26.906250000000004
+            ],
+            [
+              75.7906,
+              26.906250000000004
+            ],
+            [
+              75.7906,
+              26.906100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00033",
+        "RoofAreaSquareMeters": 442.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7957,
+              26.91
+            ],
+            [
+              75.79585,
+              26.91
+            ],
+            [
+              75.79585,
+              26.91015
+            ],
+            [
+              75.7957,
+              26.91015
+            ],
+            [
+              75.7957,
+              26.91
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00034",
+        "RoofAreaSquareMeters": 471.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.8008,
+              26.9139
+            ],
+            [
+              75.80095,
+              26.9139
+            ],
+            [
+              75.80095,
+              26.914050000000003
+            ],
+            [
+              75.8008,
+              26.914050000000003
+            ],
+            [
+              75.8008,
+              26.9139
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00035",
+        "RoofAreaSquareMeters": 500.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.77590000000001,
+              26.917800000000003
+            ],
+            [
+              75.77605000000001,
+              26.917800000000003
+            ],
+            [
+              75.77605000000001,
+              26.917950000000005
+            ],
+            [
+              75.77590000000001,
+              26.917950000000005
+            ],
+            [
+              75.77590000000001,
+              26.917800000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00036",
+        "RoofAreaSquareMeters": 529.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.781,
+              26.9217
+            ],
+            [
+              75.78115000000001,
+              26.9217
+            ],
+            [
+              75.78115000000001,
+              26.921850000000003
+            ],
+            [
+              75.781,
+              26.921850000000003
+            ],
+            [
+              75.781,
+              26.9217
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00037",
+        "RoofAreaSquareMeters": 558.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7861,
+              26.925600000000003
+            ],
+            [
+              75.78625000000001,
+              26.925600000000003
+            ],
+            [
+              75.78625000000001,
+              26.925750000000004
+            ],
+            [
+              75.7861,
+              26.925750000000004
+            ],
+            [
+              75.7861,
+              26.925600000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00038",
+        "RoofAreaSquareMeters": 37.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7912,
+              26.899500000000003
+            ],
+            [
+              75.79135000000001,
+              26.899500000000003
+            ],
+            [
+              75.79135000000001,
+              26.899650000000005
+            ],
+            [
+              75.7912,
+              26.899650000000005
+            ],
+            [
+              75.7912,
+              26.899500000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00039",
+        "RoofAreaSquareMeters": 66.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7963,
+              26.9034
+            ],
+            [
+              75.79645000000001,
+              26.9034
+            ],
+            [
+              75.79645000000001,
+              26.903550000000003
+            ],
+            [
+              75.7963,
+              26.903550000000003
+            ],
+            [
+              75.7963,
+              26.9034
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00040",
+        "RoofAreaSquareMeters": 95.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.8014,
+              26.907300000000003
+            ],
+            [
+              75.80155,
+              26.907300000000003
+            ],
+            [
+              75.80155,
+              26.907450000000004
+            ],
+            [
+              75.8014,
+              26.907450000000004
+            ],
+            [
+              75.8014,
+              26.907300000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00041",
+        "RoofAreaSquareMeters": 124.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7765,
+              26.9112
+            ],
+            [
+              75.77665,
+              26.9112
+            ],
+            [
+              75.77665,
+              26.911350000000002
+            ],
+            [
+              75.7765,
+              26.911350000000002
+            ],
+            [
+              75.7765,
+              26.9112
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00042",
+        "RoofAreaSquareMeters": 153.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7816,
+              26.915100000000002
+            ],
+            [
+              75.78175,
+              26.915100000000002
+            ],
+            [
+              75.78175,
+              26.915250000000004
+            ],
+            [
+              75.7816,
+              26.915250000000004
+            ],
+            [
+              75.7816,
+              26.915100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00043",
+        "RoofAreaSquareMeters": 182.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7867,
+              26.919
+            ],
+            [
+              75.78685,
+              26.919
+            ],
+            [
+              75.78685,
+              26.919150000000002
+            ],
+            [
+              75.7867,
+              26.919150000000002
+            ],
+            [
+              75.7867,
+              26.919
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00044",
+        "RoofAreaSquareMeters": 211.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7918,
+              26.922900000000002
+            ],
+            [
+              75.79195,
+              26.922900000000002
+            ],
+            [
+              75.79195,
+              26.923050000000003
+            ],
+            [
+              75.7918,
+              26.923050000000003
+            ],
+            [
+              75.7918,
+              26.922900000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00045",
+        "RoofAreaSquareMeters": 240.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.79690000000001,
+              26.9268
+            ],
+            [
+              75.79705000000001,
+              26.9268
+            ],
+            [
+              75.79705000000001,
+              26.92695
+            ],
+            [
+              75.79690000000001,
+              26.92695
+            ],
+            [
+              75.79690000000001,
+              26.9268
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00046",
+        "RoofAreaSquareMeters": 269.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.802,
+              26.9007
+            ],
+            [
+              75.80215000000001,
+              26.9007
+            ],
+            [
+              75.80215000000001,
+              26.900850000000002
+            ],
+            [
+              75.802,
+              26.900850000000002
+            ],
+            [
+              75.802,
+              26.9007
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00047",
+        "RoofAreaSquareMeters": 298.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7771,
+              26.904600000000002
+            ],
+            [
+              75.77725000000001,
+              26.904600000000002
+            ],
+            [
+              75.77725000000001,
+              26.904750000000003
+            ],
+            [
+              75.7771,
+              26.904750000000003
+            ],
+            [
+              75.7771,
+              26.904600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00048",
+        "RoofAreaSquareMeters": 327.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7822,
+              26.9085
+            ],
+            [
+              75.78235000000001,
+              26.9085
+            ],
+            [
+              75.78235000000001,
+              26.90865
+            ],
+            [
+              75.7822,
+              26.90865
+            ],
+            [
+              75.7822,
+              26.9085
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00049",
+        "RoofAreaSquareMeters": 356.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7873,
+              26.9124
+            ],
+            [
+              75.78745,
+              26.9124
+            ],
+            [
+              75.78745,
+              26.912550000000003
+            ],
+            [
+              75.7873,
+              26.912550000000003
+            ],
+            [
+              75.7873,
+              26.9124
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00050",
+        "RoofAreaSquareMeters": 385.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7924,
+              26.916300000000003
+            ],
+            [
+              75.79255,
+              26.916300000000003
+            ],
+            [
+              75.79255,
+              26.916450000000005
+            ],
+            [
+              75.7924,
+              26.916450000000005
+            ],
+            [
+              75.7924,
+              26.916300000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00051",
+        "RoofAreaSquareMeters": 414.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7975,
+              26.9202
+            ],
+            [
+              75.79765,
+              26.9202
+            ],
+            [
+              75.79765,
+              26.920350000000003
+            ],
+            [
+              75.7975,
+              26.920350000000003
+            ],
+            [
+              75.7975,
+              26.9202
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00052",
+        "RoofAreaSquareMeters": 443.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7726,
+              26.924100000000003
+            ],
+            [
+              75.77275,
+              26.924100000000003
+            ],
+            [
+              75.77275,
+              26.924250000000004
+            ],
+            [
+              75.7726,
+              26.924250000000004
+            ],
+            [
+              75.7726,
+              26.924100000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00053",
+        "RoofAreaSquareMeters": 472.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7777,
+              26.898000000000003
+            ],
+            [
+              75.77785,
+              26.898000000000003
+            ],
+            [
+              75.77785,
+              26.898150000000005
+            ],
+            [
+              75.7777,
+              26.898150000000005
+            ],
+            [
+              75.7777,
+              26.898000000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00054",
+        "RoofAreaSquareMeters": 501.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.78280000000001,
+              26.9019
+            ],
+            [
+              75.78295000000001,
+              26.9019
+            ],
+            [
+              75.78295000000001,
+              26.902050000000003
+            ],
+            [
+              75.78280000000001,
+              26.902050000000003
+            ],
+            [
+              75.78280000000001,
+              26.9019
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00055",
+        "RoofAreaSquareMeters": 530.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.78790000000001,
+              26.905800000000003
+            ],
+            [
+              75.78805000000001,
+              26.905800000000003
+            ],
+            [
+              75.78805000000001,
+              26.905950000000004
+            ],
+            [
+              75.78790000000001,
+              26.905950000000004
+            ],
+            [
+              75.78790000000001,
+              26.905800000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00056",
+        "RoofAreaSquareMeters": 559.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.793,
+              26.9097
+            ],
+            [
+              75.79315000000001,
+              26.9097
+            ],
+            [
+              75.79315000000001,
+              26.909850000000002
+            ],
+            [
+              75.793,
+              26.909850000000002
+            ],
+            [
+              75.793,
+              26.9097
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00057",
+        "RoofAreaSquareMeters": 38.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7981,
+              26.913600000000002
+            ],
+            [
+              75.79825000000001,
+              26.913600000000002
+            ],
+            [
+              75.79825000000001,
+              26.913750000000004
+            ],
+            [
+              75.7981,
+              26.913750000000004
+            ],
+            [
+              75.7981,
+              26.913600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00058",
+        "RoofAreaSquareMeters": 67.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7732,
+              26.9175
+            ],
+            [
+              75.77335000000001,
+              26.9175
+            ],
+            [
+              75.77335000000001,
+              26.917650000000002
+            ],
+            [
+              75.7732,
+              26.917650000000002
+            ],
+            [
+              75.7732,
+              26.9175
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00059",
+        "RoofAreaSquareMeters": 96.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7783,
+              26.921400000000002
+            ],
+            [
+              75.77845,
+              26.921400000000002
+            ],
+            [
+              75.77845,
+              26.921550000000003
+            ],
+            [
+              75.7783,
+              26.921550000000003
+            ],
+            [
+              75.7783,
+              26.921400000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00060",
+        "RoofAreaSquareMeters": 125.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7834,
+              26.9253
+            ],
+            [
+              75.78355,
+              26.9253
+            ],
+            [
+              75.78355,
+              26.92545
+            ],
+            [
+              75.7834,
+              26.92545
+            ],
+            [
+              75.7834,
+              26.9253
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00061",
+        "RoofAreaSquareMeters": 154.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7885,
+              26.8992
+            ],
+            [
+              75.78865,
+              26.8992
+            ],
+            [
+              75.78865,
+              26.899350000000002
+            ],
+            [
+              75.7885,
+              26.899350000000002
+            ],
+            [
+              75.7885,
+              26.8992
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00062",
+        "RoofAreaSquareMeters": 183.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7936,
+              26.903100000000002
+            ],
+            [
+              75.79375,
+              26.903100000000002
+            ],
+            [
+              75.79375,
+              26.903250000000003
+            ],
+            [
+              75.7936,
+              26.903250000000003
+            ],
+            [
+              75.7936,
+              26.903100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00063",
+        "RoofAreaSquareMeters": 212.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7987,
+              26.907
+            ],
+            [
+              75.79885,
+              26.907
+            ],
+            [
+              75.79885,
+              26.90715
+            ],
+            [
+              75.7987,
+              26.90715
+            ],
+            [
+              75.7987,
+              26.907
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00064",
+        "RoofAreaSquareMeters": 241.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.77380000000001,
+              26.9109
+            ],
+            [
+              75.77395000000001,
+              26.9109
+            ],
+            [
+              75.77395000000001,
+              26.911050000000003
+            ],
+            [
+              75.77380000000001,
+              26.911050000000003
+            ],
+            [
+              75.77380000000001,
+              26.9109
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00065",
+        "RoofAreaSquareMeters": 270.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.77890000000001,
+              26.914800000000003
+            ],
+            [
+              75.77905000000001,
+              26.914800000000003
+            ],
+            [
+              75.77905000000001,
+              26.914950000000005
+            ],
+            [
+              75.77890000000001,
+              26.914950000000005
+            ],
+            [
+              75.77890000000001,
+              26.914800000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00066",
+        "RoofAreaSquareMeters": 299.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.784,
+              26.9187
+            ],
+            [
+              75.78415000000001,
+              26.9187
+            ],
+            [
+              75.78415000000001,
+              26.918850000000003
+            ],
+            [
+              75.784,
+              26.918850000000003
+            ],
+            [
+              75.784,
+              26.9187
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00067",
+        "RoofAreaSquareMeters": 328.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7891,
+              26.922600000000003
+            ],
+            [
+              75.78925000000001,
+              26.922600000000003
+            ],
+            [
+              75.78925000000001,
+              26.922750000000004
+            ],
+            [
+              75.7891,
+              26.922750000000004
+            ],
+            [
+              75.7891,
+              26.922600000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00068",
+        "RoofAreaSquareMeters": 357.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7942,
+              26.9265
+            ],
+            [
+              75.79435000000001,
+              26.9265
+            ],
+            [
+              75.79435000000001,
+              26.926650000000002
+            ],
+            [
+              75.7942,
+              26.926650000000002
+            ],
+            [
+              75.7942,
+              26.9265
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00069",
+        "RoofAreaSquareMeters": 386.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7993,
+              26.9004
+            ],
+            [
+              75.79945000000001,
+              26.9004
+            ],
+            [
+              75.79945000000001,
+              26.900550000000003
+            ],
+            [
+              75.7993,
+              26.900550000000003
+            ],
+            [
+              75.7993,
+              26.9004
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00070",
+        "RoofAreaSquareMeters": 415.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7744,
+              26.904300000000003
+            ],
+            [
+              75.77455,
+              26.904300000000003
+            ],
+            [
+              75.77455,
+              26.904450000000004
+            ],
+            [
+              75.7744,
+              26.904450000000004
+            ],
+            [
+              75.7744,
+              26.904300000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00071",
+        "RoofAreaSquareMeters": 444.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7795,
+              26.9082
+            ],
+            [
+              75.77965,
+              26.9082
+            ],
+            [
+              75.77965,
+              26.908350000000002
+            ],
+            [
+              75.7795,
+              26.908350000000002
+            ],
+            [
+              75.7795,
+              26.9082
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00072",
+        "RoofAreaSquareMeters": 473.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7846,
+              26.912100000000002
+            ],
+            [
+              75.78475,
+              26.912100000000002
+            ],
+            [
+              75.78475,
+              26.912250000000004
+            ],
+            [
+              75.7846,
+              26.912250000000004
+            ],
+            [
+              75.7846,
+              26.912100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00073",
+        "RoofAreaSquareMeters": 502.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7897,
+              26.916
+            ],
+            [
+              75.78985,
+              26.916
+            ],
+            [
+              75.78985,
+              26.916150000000002
+            ],
+            [
+              75.7897,
+              26.916150000000002
+            ],
+            [
+              75.7897,
+              26.916
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00074",
+        "RoofAreaSquareMeters": 531.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7948,
+              26.919900000000002
+            ],
+            [
+              75.79495,
+              26.919900000000002
+            ],
+            [
+              75.79495,
+              26.920050000000003
+            ],
+            [
+              75.7948,
+              26.920050000000003
+            ],
+            [
+              75.7948,
+              26.919900000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00075",
+        "RoofAreaSquareMeters": 560.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.79990000000001,
+              26.9238
+            ],
+            [
+              75.80005000000001,
+              26.9238
+            ],
+            [
+              75.80005000000001,
+              26.92395
+            ],
+            [
+              75.79990000000001,
+              26.92395
+            ],
+            [
+              75.79990000000001,
+              26.9238
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00076",
+        "RoofAreaSquareMeters": 39.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.775,
+              26.8977
+            ],
+            [
+              75.77515000000001,
+              26.8977
+            ],
+            [
+              75.77515000000001,
+              26.897850000000002
+            ],
+            [
+              75.775,
+              26.897850000000002
+            ],
+            [
+              75.775,
+              26.8977
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00077",
+        "RoofAreaSquareMeters": 68.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7801,
+              26.901600000000002
+            ],
+            [
+              75.78025000000001,
+              26.901600000000002
+            ],
+            [
+              75.78025000000001,
+              26.901750000000003
+            ],
+            [
+              75.7801,
+              26.901750000000003
+            ],
+            [
+              75.7801,
+              26.901600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00078",
+        "RoofAreaSquareMeters": 97.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7852,
+              26.9055
+            ],
+            [
+              75.78535000000001,
+              26.9055
+            ],
+            [
+              75.78535000000001,
+              26.90565
+            ],
+            [
+              75.7852,
+              26.90565
+            ],
+            [
+              75.7852,
+              26.9055
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00079",
+        "RoofAreaSquareMeters": 126.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7903,
+              26.9094
+            ],
+            [
+              75.79045,
+              26.9094
+            ],
+            [
+              75.79045,
+              26.909550000000003
+            ],
+            [
+              75.7903,
+              26.909550000000003
+            ],
+            [
+              75.7903,
+              26.9094
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00080",
+        "RoofAreaSquareMeters": 155.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7954,
+              26.913300000000003
+            ],
+            [
+              75.79555,
+              26.913300000000003
+            ],
+            [
+              75.79555,
+              26.913450000000005
+            ],
+            [
+              75.7954,
+              26.913450000000005
+            ],
+            [
+              75.7954,
+              26.913300000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00081",
+        "RoofAreaSquareMeters": 184.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.8005,
+              26.9172
+            ],
+            [
+              75.80065,
+              26.9172
+            ],
+            [
+              75.80065,
+              26.917350000000003
+            ],
+            [
+              75.8005,
+              26.917350000000003
+            ],
+            [
+              75.8005,
+              26.9172
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00082",
+        "RoofAreaSquareMeters": 213.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7756,
+              26.921100000000003
+            ],
+            [
+              75.77575,
+              26.921100000000003
+            ],
+            [
+              75.77575,
+              26.921250000000004
+            ],
+            [
+              75.7756,
+              26.921250000000004
+            ],
+            [
+              75.7756,
+              26.921100000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00083",
+        "RoofAreaSquareMeters": 242.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7807,
+              26.925
+            ],
+            [
+              75.78085,
+              26.925
+            ],
+            [
+              75.78085,
+              26.925150000000002
+            ],
+            [
+              75.7807,
+              26.925150000000002
+            ],
+            [
+              75.7807,
+              26.925
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00084",
+        "RoofAreaSquareMeters": 271.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.78580000000001,
+              26.8989
+            ],
+            [
+              75.78595000000001,
+              26.8989
+            ],
+            [
+              75.78595000000001,
+              26.899050000000003
+            ],
+            [
+              75.78580000000001,
+              26.899050000000003
+            ],
+            [
+              75.78580000000001,
+              26.8989
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00085",
+        "RoofAreaSquareMeters": 300.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.79090000000001,
+              26.902800000000003
+            ],
+            [
+              75.79105000000001,
+              26.902800000000003
+            ],
+            [
+              75.79105000000001,
+              26.902950000000004
+            ],
+            [
+              75.79090000000001,
+              26.902950000000004
+            ],
+            [
+              75.79090000000001,
+              26.902800000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00086",
+        "RoofAreaSquareMeters": 329.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.796,
+              26.9067
+            ],
+            [
+              75.79615000000001,
+              26.9067
+            ],
+            [
+              75.79615000000001,
+              26.906850000000002
+            ],
+            [
+              75.796,
+              26.906850000000002
+            ],
+            [
+              75.796,
+              26.9067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00087",
+        "RoofAreaSquareMeters": 358.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.8011,
+              26.910600000000002
+            ],
+            [
+              75.80125000000001,
+              26.910600000000002
+            ],
+            [
+              75.80125000000001,
+              26.910750000000004
+            ],
+            [
+              75.8011,
+              26.910750000000004
+            ],
+            [
+              75.8011,
+              26.910600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00088",
+        "RoofAreaSquareMeters": 387.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7762,
+              26.9145
+            ],
+            [
+              75.77635000000001,
+              26.9145
+            ],
+            [
+              75.77635000000001,
+              26.91465
+            ],
+            [
+              75.7762,
+              26.91465
+            ],
+            [
+              75.7762,
+              26.9145
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00089",
+        "RoofAreaSquareMeters": 416.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7813,
+              26.918400000000002
+            ],
+            [
+              75.78145,
+              26.918400000000002
+            ],
+            [
+              75.78145,
+              26.918550000000003
+            ],
+            [
+              75.7813,
+              26.918550000000003
+            ],
+            [
+              75.7813,
+              26.918400000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00090",
+        "RoofAreaSquareMeters": 445.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7864,
+              26.9223
+            ],
+            [
+              75.78655,
+              26.9223
+            ],
+            [
+              75.78655,
+              26.92245
+            ],
+            [
+              75.7864,
+              26.92245
+            ],
+            [
+              75.7864,
+              26.9223
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00091",
+        "RoofAreaSquareMeters": 474.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7915,
+              26.9262
+            ],
+            [
+              75.79165,
+              26.9262
+            ],
+            [
+              75.79165,
+              26.926350000000003
+            ],
+            [
+              75.7915,
+              26.926350000000003
+            ],
+            [
+              75.7915,
+              26.9262
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00092",
+        "RoofAreaSquareMeters": 503.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7966,
+              26.900100000000002
+            ],
+            [
+              75.79675,
+              26.900100000000002
+            ],
+            [
+              75.79675,
+              26.900250000000003
+            ],
+            [
+              75.7966,
+              26.900250000000003
+            ],
+            [
+              75.7966,
+              26.900100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00093",
+        "RoofAreaSquareMeters": 532.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.8017,
+              26.904
+            ],
+            [
+              75.80185,
+              26.904
+            ],
+            [
+              75.80185,
+              26.90415
+            ],
+            [
+              75.8017,
+              26.90415
+            ],
+            [
+              75.8017,
+              26.904
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00094",
+        "RoofAreaSquareMeters": 561.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.77680000000001,
+              26.9079
+            ],
+            [
+              75.77695000000001,
+              26.9079
+            ],
+            [
+              75.77695000000001,
+              26.908050000000003
+            ],
+            [
+              75.77680000000001,
+              26.908050000000003
+            ],
+            [
+              75.77680000000001,
+              26.9079
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00095",
+        "RoofAreaSquareMeters": 40.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.78190000000001,
+              26.911800000000003
+            ],
+            [
+              75.78205000000001,
+              26.911800000000003
+            ],
+            [
+              75.78205000000001,
+              26.911950000000004
+            ],
+            [
+              75.78190000000001,
+              26.911950000000004
+            ],
+            [
+              75.78190000000001,
+              26.911800000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00096",
+        "RoofAreaSquareMeters": 69.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.787,
+              26.9157
+            ],
+            [
+              75.78715000000001,
+              26.9157
+            ],
+            [
+              75.78715000000001,
+              26.915850000000002
+            ],
+            [
+              75.787,
+              26.915850000000002
+            ],
+            [
+              75.787,
+              26.9157
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00097",
+        "RoofAreaSquareMeters": 98.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7921,
+              26.919600000000003
+            ],
+            [
+              75.79225000000001,
+              26.919600000000003
+            ],
+            [
+              75.79225000000001,
+              26.919750000000004
+            ],
+            [
+              75.7921,
+              26.919750000000004
+            ],
+            [
+              75.7921,
+              26.919600000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00098",
+        "RoofAreaSquareMeters": 127.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7972,
+              26.9235
+            ],
+            [
+              75.79735000000001,
+              26.9235
+            ],
+            [
+              75.79735000000001,
+              26.923650000000002
+            ],
+            [
+              75.7972,
+              26.923650000000002
+            ],
+            [
+              75.7972,
+              26.9235
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00099",
+        "RoofAreaSquareMeters": 156.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7723,
+              26.8974
+            ],
+            [
+              75.77245,
+              26.8974
+            ],
+            [
+              75.77245,
+              26.897550000000003
+            ],
+            [
+              75.7723,
+              26.897550000000003
+            ],
+            [
+              75.7723,
+              26.8974
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00100",
+        "RoofAreaSquareMeters": 185.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7774,
+              26.901300000000003
+            ],
+            [
+              75.77755,
+              26.901300000000003
+            ],
+            [
+              75.77755,
+              26.901450000000004
+            ],
+            [
+              75.7774,
+              26.901450000000004
+            ],
+            [
+              75.7774,
+              26.901300000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00101",
+        "RoofAreaSquareMeters": 214.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7825,
+              26.9052
+            ],
+            [
+              75.78265,
+              26.9052
+            ],
+            [
+              75.78265,
+              26.905350000000002
+            ],
+            [
+              75.7825,
+              26.905350000000002
+            ],
+            [
+              75.7825,
+              26.9052
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00102",
+        "RoofAreaSquareMeters": 243.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7876,
+              26.909100000000002
+            ],
+            [
+              75.78775,
+              26.909100000000002
+            ],
+            [
+              75.78775,
+              26.909250000000004
+            ],
+            [
+              75.7876,
+              26.909250000000004
+            ],
+            [
+              75.7876,
+              26.909100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00103",
+        "RoofAreaSquareMeters": 272.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7927,
+              26.913
+            ],
+            [
+              75.79285,
+              26.913
+            ],
+            [
+              75.79285,
+              26.91315
+            ],
+            [
+              75.7927,
+              26.91315
+            ],
+            [
+              75.7927,
+              26.913
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00104",
+        "RoofAreaSquareMeters": 301.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7978,
+              26.916900000000002
+            ],
+            [
+              75.79795,
+              26.916900000000002
+            ],
+            [
+              75.79795,
+              26.917050000000003
+            ],
+            [
+              75.7978,
+              26.917050000000003
+            ],
+            [
+              75.7978,
+              26.916900000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00105",
+        "RoofAreaSquareMeters": 330.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7729,
+              26.920800000000003
+            ],
+            [
+              75.77305000000001,
+              26.920800000000003
+            ],
+            [
+              75.77305000000001,
+              26.920950000000005
+            ],
+            [
+              75.7729,
+              26.920950000000005
+            ],
+            [
+              75.7729,
+              26.920800000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00106",
+        "RoofAreaSquareMeters": 359.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.778,
+              26.9247
+            ],
+            [
+              75.77815000000001,
+              26.9247
+            ],
+            [
+              75.77815000000001,
+              26.924850000000003
+            ],
+            [
+              75.778,
+              26.924850000000003
+            ],
+            [
+              75.778,
+              26.9247
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00107",
+        "RoofAreaSquareMeters": 388.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7831,
+              26.898600000000002
+            ],
+            [
+              75.78325000000001,
+              26.898600000000002
+            ],
+            [
+              75.78325000000001,
+              26.898750000000003
+            ],
+            [
+              75.7831,
+              26.898750000000003
+            ],
+            [
+              75.7831,
+              26.898600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00108",
+        "RoofAreaSquareMeters": 417.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7882,
+              26.902500000000003
+            ],
+            [
+              75.78835000000001,
+              26.902500000000003
+            ],
+            [
+              75.78835000000001,
+              26.902650000000005
+            ],
+            [
+              75.7882,
+              26.902650000000005
+            ],
+            [
+              75.7882,
+              26.902500000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00109",
+        "RoofAreaSquareMeters": 446.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7933,
+              26.9064
+            ],
+            [
+              75.79345,
+              26.9064
+            ],
+            [
+              75.79345,
+              26.906550000000003
+            ],
+            [
+              75.7933,
+              26.906550000000003
+            ],
+            [
+              75.7933,
+              26.9064
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00110",
+        "RoofAreaSquareMeters": 475.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7984,
+              26.910300000000003
+            ],
+            [
+              75.79855,
+              26.910300000000003
+            ],
+            [
+              75.79855,
+              26.910450000000004
+            ],
+            [
+              75.7984,
+              26.910450000000004
+            ],
+            [
+              75.7984,
+              26.910300000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00111",
+        "RoofAreaSquareMeters": 504.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7735,
+              26.9142
+            ],
+            [
+              75.77365,
+              26.9142
+            ],
+            [
+              75.77365,
+              26.914350000000002
+            ],
+            [
+              75.7735,
+              26.914350000000002
+            ],
+            [
+              75.7735,
+              26.9142
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00112",
+        "RoofAreaSquareMeters": 533.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7786,
+              26.918100000000003
+            ],
+            [
+              75.77875,
+              26.918100000000003
+            ],
+            [
+              75.77875,
+              26.918250000000004
+            ],
+            [
+              75.7786,
+              26.918250000000004
+            ],
+            [
+              75.7786,
+              26.918100000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00113",
+        "RoofAreaSquareMeters": 562.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7837,
+              26.922
+            ],
+            [
+              75.78385,
+              26.922
+            ],
+            [
+              75.78385,
+              26.922150000000002
+            ],
+            [
+              75.7837,
+              26.922150000000002
+            ],
+            [
+              75.7837,
+              26.922
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00114",
+        "RoofAreaSquareMeters": 41.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7888,
+              26.925900000000002
+            ],
+            [
+              75.78895,
+              26.925900000000002
+            ],
+            [
+              75.78895,
+              26.926050000000004
+            ],
+            [
+              75.7888,
+              26.926050000000004
+            ],
+            [
+              75.7888,
+              26.925900000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00115",
+        "RoofAreaSquareMeters": 70.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.79390000000001,
+              26.899800000000003
+            ],
+            [
+              75.79405000000001,
+              26.899800000000003
+            ],
+            [
+              75.79405000000001,
+              26.899950000000004
+            ],
+            [
+              75.79390000000001,
+              26.899950000000004
+            ],
+            [
+              75.79390000000001,
+              26.899800000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00116",
+        "RoofAreaSquareMeters": 99.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.799,
+              26.9037
+            ],
+            [
+              75.79915000000001,
+              26.9037
+            ],
+            [
+              75.79915000000001,
+              26.903850000000002
+            ],
+            [
+              75.799,
+              26.903850000000002
+            ],
+            [
+              75.799,
+              26.9037
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00117",
+        "RoofAreaSquareMeters": 128.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7741,
+              26.907600000000002
+            ],
+            [
+              75.77425000000001,
+              26.907600000000002
+            ],
+            [
+              75.77425000000001,
+              26.907750000000004
+            ],
+            [
+              75.7741,
+              26.907750000000004
+            ],
+            [
+              75.7741,
+              26.907600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00118",
+        "RoofAreaSquareMeters": 157.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7792,
+              26.9115
+            ],
+            [
+              75.77935000000001,
+              26.9115
+            ],
+            [
+              75.77935000000001,
+              26.91165
+            ],
+            [
+              75.7792,
+              26.91165
+            ],
+            [
+              75.7792,
+              26.9115
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00119",
+        "RoofAreaSquareMeters": 186.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7843,
+              26.9154
+            ],
+            [
+              75.78445,
+              26.9154
+            ],
+            [
+              75.78445,
+              26.915550000000003
+            ],
+            [
+              75.7843,
+              26.915550000000003
+            ],
+            [
+              75.7843,
+              26.9154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00120",
+        "RoofAreaSquareMeters": 215.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7894,
+              26.919300000000003
+            ],
+            [
+              75.78955,
+              26.919300000000003
+            ],
+            [
+              75.78955,
+              26.919450000000005
+            ],
+            [
+              75.7894,
+              26.919450000000005
+            ],
+            [
+              75.7894,
+              26.919300000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00121",
+        "RoofAreaSquareMeters": 244.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7945,
+              26.9232
+            ],
+            [
+              75.79465,
+              26.9232
+            ],
+            [
+              75.79465,
+              26.923350000000003
+            ],
+            [
+              75.7945,
+              26.923350000000003
+            ],
+            [
+              75.7945,
+              26.9232
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00122",
+        "RoofAreaSquareMeters": 273.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7996,
+              26.927100000000003
+            ],
+            [
+              75.79975,
+              26.927100000000003
+            ],
+            [
+              75.79975,
+              26.927250000000004
+            ],
+            [
+              75.7996,
+              26.927250000000004
+            ],
+            [
+              75.7996,
+              26.927100000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00123",
+        "RoofAreaSquareMeters": 302.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7747,
+              26.901000000000003
+            ],
+            [
+              75.77485,
+              26.901000000000003
+            ],
+            [
+              75.77485,
+              26.901150000000005
+            ],
+            [
+              75.7747,
+              26.901150000000005
+            ],
+            [
+              75.7747,
+              26.901000000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00124",
+        "RoofAreaSquareMeters": 331.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.77980000000001,
+              26.9049
+            ],
+            [
+              75.77995000000001,
+              26.9049
+            ],
+            [
+              75.77995000000001,
+              26.905050000000003
+            ],
+            [
+              75.77980000000001,
+              26.905050000000003
+            ],
+            [
+              75.77980000000001,
+              26.9049
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00125",
+        "RoofAreaSquareMeters": 360.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.78490000000001,
+              26.908800000000003
+            ],
+            [
+              75.78505000000001,
+              26.908800000000003
+            ],
+            [
+              75.78505000000001,
+              26.908950000000004
+            ],
+            [
+              75.78490000000001,
+              26.908950000000004
+            ],
+            [
+              75.78490000000001,
+              26.908800000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00126",
+        "RoofAreaSquareMeters": 389.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.79,
+              26.9127
+            ],
+            [
+              75.79015000000001,
+              26.9127
+            ],
+            [
+              75.79015000000001,
+              26.912850000000002
+            ],
+            [
+              75.79,
+              26.912850000000002
+            ],
+            [
+              75.79,
+              26.9127
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00127",
+        "RoofAreaSquareMeters": 418.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7951,
+              26.916600000000003
+            ],
+            [
+              75.79525000000001,
+              26.916600000000003
+            ],
+            [
+              75.79525000000001,
+              26.916750000000004
+            ],
+            [
+              75.7951,
+              26.916750000000004
+            ],
+            [
+              75.7951,
+              26.916600000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00128",
+        "RoofAreaSquareMeters": 447.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.8002,
+              26.9205
+            ],
+            [
+              75.80035000000001,
+              26.9205
+            ],
+            [
+              75.80035000000001,
+              26.920650000000002
+            ],
+            [
+              75.8002,
+              26.920650000000002
+            ],
+            [
+              75.8002,
+              26.9205
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00129",
+        "RoofAreaSquareMeters": 476.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7753,
+              26.924400000000002
+            ],
+            [
+              75.77545,
+              26.924400000000002
+            ],
+            [
+              75.77545,
+              26.924550000000004
+            ],
+            [
+              75.7753,
+              26.924550000000004
+            ],
+            [
+              75.7753,
+              26.924400000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00130",
+        "RoofAreaSquareMeters": 505.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7804,
+              26.898300000000003
+            ],
+            [
+              75.78055,
+              26.898300000000003
+            ],
+            [
+              75.78055,
+              26.898450000000004
+            ],
+            [
+              75.7804,
+              26.898450000000004
+            ],
+            [
+              75.7804,
+              26.898300000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00131",
+        "RoofAreaSquareMeters": 534.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7855,
+              26.9022
+            ],
+            [
+              75.78565,
+              26.9022
+            ],
+            [
+              75.78565,
+              26.902350000000002
+            ],
+            [
+              75.7855,
+              26.902350000000002
+            ],
+            [
+              75.7855,
+              26.9022
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00132",
+        "RoofAreaSquareMeters": 563.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7906,
+              26.906100000000002
+            ],
+            [
+              75.79075,
+              26.906100000000002
+            ],
+            [
+              75.79075,
+              26.906250000000004
+            ],
+            [
+              75.7906,
+              26.906250000000004
+            ],
+            [
+              75.7906,
+              26.906100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00133",
+        "RoofAreaSquareMeters": 42.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7957,
+              26.91
+            ],
+            [
+              75.79585,
+              26.91
+            ],
+            [
+              75.79585,
+              26.91015
+            ],
+            [
+              75.7957,
+              26.91015
+            ],
+            [
+              75.7957,
+              26.91
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00134",
+        "RoofAreaSquareMeters": 71.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.8008,
+              26.9139
+            ],
+            [
+              75.80095,
+              26.9139
+            ],
+            [
+              75.80095,
+              26.914050000000003
+            ],
+            [
+              75.8008,
+              26.914050000000003
+            ],
+            [
+              75.8008,
+              26.9139
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00135",
+        "RoofAreaSquareMeters": 100.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.77590000000001,
+              26.917800000000003
+            ],
+            [
+              75.77605000000001,
+              26.917800000000003
+            ],
+            [
+              75.77605000000001,
+              26.917950000000005
+            ],
+            [
+              75.77590000000001,
+              26.917950000000005
+            ],
+            [
+              75.77590000000001,
+              26.917800000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00136",
+        "RoofAreaSquareMeters": 129.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.781,
+              26.9217
+            ],
+            [
+              75.78115000000001,
+              26.9217
+            ],
+            [
+              75.78115000000001,
+              26.921850000000003
+            ],
+            [
+              75.781,
+              26.921850000000003
+            ],
+            [
+              75.781,
+              26.9217
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00137",
+        "RoofAreaSquareMeters": 158.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7861,
+              26.925600000000003
+            ],
+            [
+              75.78625000000001,
+              26.925600000000003
+            ],
+            [
+              75.78625000000001,
+              26.925750000000004
+            ],
+            [
+              75.7861,
+              26.925750000000004
+            ],
+            [
+              75.7861,
+              26.925600000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00138",
+        "RoofAreaSquareMeters": 187.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7912,
+              26.899500000000003
+            ],
+            [
+              75.79135000000001,
+              26.899500000000003
+            ],
+            [
+              75.79135000000001,
+              26.899650000000005
+            ],
+            [
+              75.7912,
+              26.899650000000005
+            ],
+            [
+              75.7912,
+              26.899500000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00139",
+        "RoofAreaSquareMeters": 216.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7963,
+              26.9034
+            ],
+            [
+              75.79645000000001,
+              26.9034
+            ],
+            [
+              75.79645000000001,
+              26.903550000000003
+            ],
+            [
+              75.7963,
+              26.903550000000003
+            ],
+            [
+              75.7963,
+              26.9034
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00140",
+        "RoofAreaSquareMeters": 245.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.8014,
+              26.907300000000003
+            ],
+            [
+              75.80155,
+              26.907300000000003
+            ],
+            [
+              75.80155,
+              26.907450000000004
+            ],
+            [
+              75.8014,
+              26.907450000000004
+            ],
+            [
+              75.8014,
+              26.907300000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00141",
+        "RoofAreaSquareMeters": 274.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7765,
+              26.9112
+            ],
+            [
+              75.77665,
+              26.9112
+            ],
+            [
+              75.77665,
+              26.911350000000002
+            ],
+            [
+              75.7765,
+              26.911350000000002
+            ],
+            [
+              75.7765,
+              26.9112
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00142",
+        "RoofAreaSquareMeters": 303.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7816,
+              26.915100000000002
+            ],
+            [
+              75.78175,
+              26.915100000000002
+            ],
+            [
+              75.78175,
+              26.915250000000004
+            ],
+            [
+              75.7816,
+              26.915250000000004
+            ],
+            [
+              75.7816,
+              26.915100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00143",
+        "RoofAreaSquareMeters": 332.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7867,
+              26.919
+            ],
+            [
+              75.78685,
+              26.919
+            ],
+            [
+              75.78685,
+              26.919150000000002
+            ],
+            [
+              75.7867,
+              26.919150000000002
+            ],
+            [
+              75.7867,
+              26.919
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00144",
+        "RoofAreaSquareMeters": 361.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7918,
+              26.922900000000002
+            ],
+            [
+              75.79195,
+              26.922900000000002
+            ],
+            [
+              75.79195,
+              26.923050000000003
+            ],
+            [
+              75.7918,
+              26.923050000000003
+            ],
+            [
+              75.7918,
+              26.922900000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00145",
+        "RoofAreaSquareMeters": 390.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.79690000000001,
+              26.9268
+            ],
+            [
+              75.79705000000001,
+              26.9268
+            ],
+            [
+              75.79705000000001,
+              26.92695
+            ],
+            [
+              75.79690000000001,
+              26.92695
+            ],
+            [
+              75.79690000000001,
+              26.9268
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00146",
+        "RoofAreaSquareMeters": 419.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.802,
+              26.9007
+            ],
+            [
+              75.80215000000001,
+              26.9007
+            ],
+            [
+              75.80215000000001,
+              26.900850000000002
+            ],
+            [
+              75.802,
+              26.900850000000002
+            ],
+            [
+              75.802,
+              26.9007
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00147",
+        "RoofAreaSquareMeters": 448.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7771,
+              26.904600000000002
+            ],
+            [
+              75.77725000000001,
+              26.904600000000002
+            ],
+            [
+              75.77725000000001,
+              26.904750000000003
+            ],
+            [
+              75.7771,
+              26.904750000000003
+            ],
+            [
+              75.7771,
+              26.904600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00148",
+        "RoofAreaSquareMeters": 477.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7822,
+              26.9085
+            ],
+            [
+              75.78235000000001,
+              26.9085
+            ],
+            [
+              75.78235000000001,
+              26.90865
+            ],
+            [
+              75.7822,
+              26.90865
+            ],
+            [
+              75.7822,
+              26.9085
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00149",
+        "RoofAreaSquareMeters": 506.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7873,
+              26.9124
+            ],
+            [
+              75.78745,
+              26.9124
+            ],
+            [
+              75.78745,
+              26.912550000000003
+            ],
+            [
+              75.7873,
+              26.912550000000003
+            ],
+            [
+              75.7873,
+              26.9124
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_JAI_00150",
+        "RoofAreaSquareMeters": 535.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    }
+  ]
+}

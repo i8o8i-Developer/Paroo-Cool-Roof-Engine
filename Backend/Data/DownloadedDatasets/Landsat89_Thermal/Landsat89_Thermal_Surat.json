@@ -1,0 +1,51 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "USGS Landsat 8/9 OLI/TIRS Collection 2 Level-2 Surface Temperature",
+    "TargetCity": "Surat",
+    "GeographicBounds": {
+      "MinLon": 72.79,
+      "MinLat": 21.13,
+      "MaxLon": 72.87,
+      "MaxLat": 21.21,
+      "CenterCoordinates": [
+        21.1702,
+        72.8311
+      ]
+    },
+    "SensorPlatform": "Landsat-9 TIRS-2 (Thermal Infrared Sensor)",
+    "SpatialResolutionMeters": 30.0,
+    "AcquisitionTimestampUTC": "2024-05-18T05:32:14Z",
+    "SolarZenithAngleDegrees": 18.4,
+    "MeanAtmosphericTransmittance": 0.88,
+    "MeanEmissivity": 0.942,
+    "QualityAssessmentMask": "100% Clear Sky (Zero Cloud Shadow/Contamination)"
+  },
+  "ThermalCalibrationParameters": {
+    "K1_ConstantBand10": 774.8853,
+    "K2_ConstantBand10": 1321.0789,
+    "RadianceMultiBand10": 0.0003342,
+    "RadianceAddBand10": 0.1
+  },
+  "UrbanWardThermalTelemetry": [
+    {
+      "WardId": "Ward 12 - Limbayat Textile Hub",
+      "WardName": "Limbayat Weaving & Industrial Cluster",
+      "MeanDaySurfaceTemperatureCelsius": 50.97,
+      "PeakPixelSurfaceTemperatureCelsius": 55.98,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 7.17,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 11.775,
+      "NarrowbandEmissivityBand10": 0.966,
+      "ExtremeHeatExposureAlertLevel": "Severe Red Alert"
+    },
+    {
+      "WardId": "Ward 06 - Katargam Diamond Zone",
+      "WardName": "Katargam Mixed Commercial/Residential",
+      "MeanDaySurfaceTemperatureCelsius": 49.16,
+      "PeakPixelSurfaceTemperatureCelsius": 53.48,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 5.36,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 11.449,
+      "NarrowbandEmissivityBand10": 0.941,
+      "ExtremeHeatExposureAlertLevel": "Severe Red Alert"
+    }
+  ]
+}

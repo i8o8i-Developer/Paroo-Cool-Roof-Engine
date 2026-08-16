@@ -1,0 +1,5556 @@
+{
+  "type": "FeatureCollection",
+  "city": "Nagpur",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0783,
+              21.134700000000002
+            ],
+            [
+              79.07845,
+              21.134700000000002
+            ],
+            [
+              79.07845,
+              21.134850000000004
+            ],
+            [
+              79.0783,
+              21.134850000000004
+            ],
+            [
+              79.0783,
+              21.134700000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00001",
+        "RoofAreaSquareMeters": 64.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0834,
+              21.1386
+            ],
+            [
+              79.08355,
+              21.1386
+            ],
+            [
+              79.08355,
+              21.13875
+            ],
+            [
+              79.0834,
+              21.13875
+            ],
+            [
+              79.0834,
+              21.1386
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00002",
+        "RoofAreaSquareMeters": 93.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0885,
+              21.142500000000002
+            ],
+            [
+              79.08865,
+              21.142500000000002
+            ],
+            [
+              79.08865,
+              21.142650000000003
+            ],
+            [
+              79.0885,
+              21.142650000000003
+            ],
+            [
+              79.0885,
+              21.142500000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00003",
+        "RoofAreaSquareMeters": 122.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0936,
+              21.1464
+            ],
+            [
+              79.09375,
+              21.1464
+            ],
+            [
+              79.09375,
+              21.14655
+            ],
+            [
+              79.0936,
+              21.14655
+            ],
+            [
+              79.0936,
+              21.1464
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00004",
+        "RoofAreaSquareMeters": 151.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0987,
+              21.1503
+            ],
+            [
+              79.09885,
+              21.1503
+            ],
+            [
+              79.09885,
+              21.150450000000003
+            ],
+            [
+              79.0987,
+              21.150450000000003
+            ],
+            [
+              79.0987,
+              21.1503
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00005",
+        "RoofAreaSquareMeters": 180.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0738,
+              21.154200000000003
+            ],
+            [
+              79.07395000000001,
+              21.154200000000003
+            ],
+            [
+              79.07395000000001,
+              21.154350000000004
+            ],
+            [
+              79.0738,
+              21.154350000000004
+            ],
+            [
+              79.0738,
+              21.154200000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00006",
+        "RoofAreaSquareMeters": 209.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0789,
+              21.1581
+            ],
+            [
+              79.07905000000001,
+              21.1581
+            ],
+            [
+              79.07905000000001,
+              21.158250000000002
+            ],
+            [
+              79.0789,
+              21.158250000000002
+            ],
+            [
+              79.0789,
+              21.1581
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00007",
+        "RoofAreaSquareMeters": 238.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.084,
+              21.132
+            ],
+            [
+              79.08415000000001,
+              21.132
+            ],
+            [
+              79.08415000000001,
+              21.132150000000003
+            ],
+            [
+              79.084,
+              21.132150000000003
+            ],
+            [
+              79.084,
+              21.132
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00008",
+        "RoofAreaSquareMeters": 267.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0891,
+              21.135900000000003
+            ],
+            [
+              79.08925,
+              21.135900000000003
+            ],
+            [
+              79.08925,
+              21.136050000000004
+            ],
+            [
+              79.0891,
+              21.136050000000004
+            ],
+            [
+              79.0891,
+              21.135900000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00009",
+        "RoofAreaSquareMeters": 296.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0942,
+              21.1398
+            ],
+            [
+              79.09435,
+              21.1398
+            ],
+            [
+              79.09435,
+              21.139950000000002
+            ],
+            [
+              79.0942,
+              21.139950000000002
+            ],
+            [
+              79.0942,
+              21.1398
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00010",
+        "RoofAreaSquareMeters": 325.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0993,
+              21.143700000000003
+            ],
+            [
+              79.09945,
+              21.143700000000003
+            ],
+            [
+              79.09945,
+              21.143850000000004
+            ],
+            [
+              79.0993,
+              21.143850000000004
+            ],
+            [
+              79.0993,
+              21.143700000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00011",
+        "RoofAreaSquareMeters": 354.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0744,
+              21.1476
+            ],
+            [
+              79.07455,
+              21.1476
+            ],
+            [
+              79.07455,
+              21.147750000000002
+            ],
+            [
+              79.0744,
+              21.147750000000002
+            ],
+            [
+              79.0744,
+              21.1476
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00012",
+        "RoofAreaSquareMeters": 383.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0795,
+              21.151500000000002
+            ],
+            [
+              79.07965,
+              21.151500000000002
+            ],
+            [
+              79.07965,
+              21.151650000000004
+            ],
+            [
+              79.0795,
+              21.151650000000004
+            ],
+            [
+              79.0795,
+              21.151500000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00013",
+        "RoofAreaSquareMeters": 412.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0846,
+              21.1554
+            ],
+            [
+              79.08475,
+              21.1554
+            ],
+            [
+              79.08475,
+              21.15555
+            ],
+            [
+              79.0846,
+              21.15555
+            ],
+            [
+              79.0846,
+              21.1554
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00014",
+        "RoofAreaSquareMeters": 441.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0897,
+              21.1593
+            ],
+            [
+              79.08985,
+              21.1593
+            ],
+            [
+              79.08985,
+              21.159450000000003
+            ],
+            [
+              79.0897,
+              21.159450000000003
+            ],
+            [
+              79.0897,
+              21.1593
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00015",
+        "RoofAreaSquareMeters": 470.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0948,
+              21.133200000000002
+            ],
+            [
+              79.09495000000001,
+              21.133200000000002
+            ],
+            [
+              79.09495000000001,
+              21.133350000000004
+            ],
+            [
+              79.0948,
+              21.133350000000004
+            ],
+            [
+              79.0948,
+              21.133200000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00016",
+        "RoofAreaSquareMeters": 499.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0999,
+              21.1371
+            ],
+            [
+              79.10005000000001,
+              21.1371
+            ],
+            [
+              79.10005000000001,
+              21.13725
+            ],
+            [
+              79.0999,
+              21.13725
+            ],
+            [
+              79.0999,
+              21.1371
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00017",
+        "RoofAreaSquareMeters": 528.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.075,
+              21.141000000000002
+            ],
+            [
+              79.07515000000001,
+              21.141000000000002
+            ],
+            [
+              79.07515000000001,
+              21.141150000000003
+            ],
+            [
+              79.075,
+              21.141150000000003
+            ],
+            [
+              79.075,
+              21.141000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00018",
+        "RoofAreaSquareMeters": 557.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0801,
+              21.1449
+            ],
+            [
+              79.08025,
+              21.1449
+            ],
+            [
+              79.08025,
+              21.14505
+            ],
+            [
+              79.0801,
+              21.14505
+            ],
+            [
+              79.0801,
+              21.1449
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00019",
+        "RoofAreaSquareMeters": 36.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0852,
+              21.1488
+            ],
+            [
+              79.08535,
+              21.1488
+            ],
+            [
+              79.08535,
+              21.148950000000003
+            ],
+            [
+              79.0852,
+              21.148950000000003
+            ],
+            [
+              79.0852,
+              21.1488
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00020",
+        "RoofAreaSquareMeters": 65.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0903,
+              21.152700000000003
+            ],
+            [
+              79.09045,
+              21.152700000000003
+            ],
+            [
+              79.09045,
+              21.152850000000004
+            ],
+            [
+              79.0903,
+              21.152850000000004
+            ],
+            [
+              79.0903,
+              21.152700000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00021",
+        "RoofAreaSquareMeters": 94.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0954,
+              21.1566
+            ],
+            [
+              79.09555,
+              21.1566
+            ],
+            [
+              79.09555,
+              21.156750000000002
+            ],
+            [
+              79.0954,
+              21.156750000000002
+            ],
+            [
+              79.0954,
+              21.1566
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00022",
+        "RoofAreaSquareMeters": 123.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.1005,
+              21.160500000000003
+            ],
+            [
+              79.10065,
+              21.160500000000003
+            ],
+            [
+              79.10065,
+              21.160650000000004
+            ],
+            [
+              79.1005,
+              21.160650000000004
+            ],
+            [
+              79.1005,
+              21.160500000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00023",
+        "RoofAreaSquareMeters": 152.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0756,
+              21.134400000000003
+            ],
+            [
+              79.07575,
+              21.134400000000003
+            ],
+            [
+              79.07575,
+              21.134550000000004
+            ],
+            [
+              79.0756,
+              21.134550000000004
+            ],
+            [
+              79.0756,
+              21.134400000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00024",
+        "RoofAreaSquareMeters": 181.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.08070000000001,
+              21.1383
+            ],
+            [
+              79.08085000000001,
+              21.1383
+            ],
+            [
+              79.08085000000001,
+              21.138450000000002
+            ],
+            [
+              79.08070000000001,
+              21.138450000000002
+            ],
+            [
+              79.08070000000001,
+              21.1383
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00025",
+        "RoofAreaSquareMeters": 210.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0858,
+              21.142200000000003
+            ],
+            [
+              79.08595000000001,
+              21.142200000000003
+            ],
+            [
+              79.08595000000001,
+              21.142350000000004
+            ],
+            [
+              79.0858,
+              21.142350000000004
+            ],
+            [
+              79.0858,
+              21.142200000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00026",
+        "RoofAreaSquareMeters": 239.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0909,
+              21.1461
+            ],
+            [
+              79.09105000000001,
+              21.1461
+            ],
+            [
+              79.09105000000001,
+              21.146250000000002
+            ],
+            [
+              79.0909,
+              21.146250000000002
+            ],
+            [
+              79.0909,
+              21.1461
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00027",
+        "RoofAreaSquareMeters": 268.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.096,
+              21.150000000000002
+            ],
+            [
+              79.09615000000001,
+              21.150000000000002
+            ],
+            [
+              79.09615000000001,
+              21.150150000000004
+            ],
+            [
+              79.096,
+              21.150150000000004
+            ],
+            [
+              79.096,
+              21.150000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00028",
+        "RoofAreaSquareMeters": 297.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.1011,
+              21.1539
+            ],
+            [
+              79.10125000000001,
+              21.1539
+            ],
+            [
+              79.10125000000001,
+              21.15405
+            ],
+            [
+              79.1011,
+              21.15405
+            ],
+            [
+              79.1011,
+              21.1539
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00029",
+        "RoofAreaSquareMeters": 326.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0762,
+              21.1578
+            ],
+            [
+              79.07635,
+              21.1578
+            ],
+            [
+              79.07635,
+              21.157950000000003
+            ],
+            [
+              79.0762,
+              21.157950000000003
+            ],
+            [
+              79.0762,
+              21.1578
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00030",
+        "RoofAreaSquareMeters": 355.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0813,
+              21.131700000000002
+            ],
+            [
+              79.08145,
+              21.131700000000002
+            ],
+            [
+              79.08145,
+              21.131850000000004
+            ],
+            [
+              79.0813,
+              21.131850000000004
+            ],
+            [
+              79.0813,
+              21.131700000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00031",
+        "RoofAreaSquareMeters": 384.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0864,
+              21.1356
+            ],
+            [
+              79.08655,
+              21.1356
+            ],
+            [
+              79.08655,
+              21.13575
+            ],
+            [
+              79.0864,
+              21.13575
+            ],
+            [
+              79.0864,
+              21.1356
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00032",
+        "RoofAreaSquareMeters": 413.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0915,
+              21.1395
+            ],
+            [
+              79.09165,
+              21.1395
+            ],
+            [
+              79.09165,
+              21.139650000000003
+            ],
+            [
+              79.0915,
+              21.139650000000003
+            ],
+            [
+              79.0915,
+              21.1395
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00033",
+        "RoofAreaSquareMeters": 442.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0966,
+              21.1434
+            ],
+            [
+              79.09675,
+              21.1434
+            ],
+            [
+              79.09675,
+              21.14355
+            ],
+            [
+              79.0966,
+              21.14355
+            ],
+            [
+              79.0966,
+              21.1434
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00034",
+        "RoofAreaSquareMeters": 471.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.1017,
+              21.1473
+            ],
+            [
+              79.10185,
+              21.1473
+            ],
+            [
+              79.10185,
+              21.147450000000003
+            ],
+            [
+              79.1017,
+              21.147450000000003
+            ],
+            [
+              79.1017,
+              21.1473
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00035",
+        "RoofAreaSquareMeters": 500.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0768,
+              21.151200000000003
+            ],
+            [
+              79.07695000000001,
+              21.151200000000003
+            ],
+            [
+              79.07695000000001,
+              21.151350000000004
+            ],
+            [
+              79.0768,
+              21.151350000000004
+            ],
+            [
+              79.0768,
+              21.151200000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00036",
+        "RoofAreaSquareMeters": 529.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0819,
+              21.1551
+            ],
+            [
+              79.08205000000001,
+              21.1551
+            ],
+            [
+              79.08205000000001,
+              21.155250000000002
+            ],
+            [
+              79.0819,
+              21.155250000000002
+            ],
+            [
+              79.0819,
+              21.1551
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00037",
+        "RoofAreaSquareMeters": 558.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.087,
+              21.159000000000002
+            ],
+            [
+              79.08715000000001,
+              21.159000000000002
+            ],
+            [
+              79.08715000000001,
+              21.159150000000004
+            ],
+            [
+              79.087,
+              21.159150000000004
+            ],
+            [
+              79.087,
+              21.159000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00038",
+        "RoofAreaSquareMeters": 37.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0921,
+              21.132900000000003
+            ],
+            [
+              79.09225,
+              21.132900000000003
+            ],
+            [
+              79.09225,
+              21.133050000000004
+            ],
+            [
+              79.0921,
+              21.133050000000004
+            ],
+            [
+              79.0921,
+              21.132900000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00039",
+        "RoofAreaSquareMeters": 66.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0972,
+              21.1368
+            ],
+            [
+              79.09735,
+              21.1368
+            ],
+            [
+              79.09735,
+              21.136950000000002
+            ],
+            [
+              79.0972,
+              21.136950000000002
+            ],
+            [
+              79.0972,
+              21.1368
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00040",
+        "RoofAreaSquareMeters": 95.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.1023,
+              21.140700000000002
+            ],
+            [
+              79.10245,
+              21.140700000000002
+            ],
+            [
+              79.10245,
+              21.140850000000004
+            ],
+            [
+              79.1023,
+              21.140850000000004
+            ],
+            [
+              79.1023,
+              21.140700000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00041",
+        "RoofAreaSquareMeters": 124.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0774,
+              21.1446
+            ],
+            [
+              79.07755,
+              21.1446
+            ],
+            [
+              79.07755,
+              21.144750000000002
+            ],
+            [
+              79.0774,
+              21.144750000000002
+            ],
+            [
+              79.0774,
+              21.1446
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00042",
+        "RoofAreaSquareMeters": 153.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0825,
+              21.148500000000002
+            ],
+            [
+              79.08265,
+              21.148500000000002
+            ],
+            [
+              79.08265,
+              21.148650000000004
+            ],
+            [
+              79.0825,
+              21.148650000000004
+            ],
+            [
+              79.0825,
+              21.148500000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00043",
+        "RoofAreaSquareMeters": 182.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0876,
+              21.1524
+            ],
+            [
+              79.08775,
+              21.1524
+            ],
+            [
+              79.08775,
+              21.15255
+            ],
+            [
+              79.0876,
+              21.15255
+            ],
+            [
+              79.0876,
+              21.1524
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00044",
+        "RoofAreaSquareMeters": 211.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0927,
+              21.1563
+            ],
+            [
+              79.09285,
+              21.1563
+            ],
+            [
+              79.09285,
+              21.156450000000003
+            ],
+            [
+              79.0927,
+              21.156450000000003
+            ],
+            [
+              79.0927,
+              21.1563
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00045",
+        "RoofAreaSquareMeters": 240.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0978,
+              21.1602
+            ],
+            [
+              79.09795000000001,
+              21.1602
+            ],
+            [
+              79.09795000000001,
+              21.16035
+            ],
+            [
+              79.0978,
+              21.16035
+            ],
+            [
+              79.0978,
+              21.1602
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00046",
+        "RoofAreaSquareMeters": 269.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.1029,
+              21.1341
+            ],
+            [
+              79.10305000000001,
+              21.1341
+            ],
+            [
+              79.10305000000001,
+              21.13425
+            ],
+            [
+              79.1029,
+              21.13425
+            ],
+            [
+              79.1029,
+              21.1341
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00047",
+        "RoofAreaSquareMeters": 298.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.078,
+              21.138
+            ],
+            [
+              79.07815000000001,
+              21.138
+            ],
+            [
+              79.07815000000001,
+              21.138150000000003
+            ],
+            [
+              79.078,
+              21.138150000000003
+            ],
+            [
+              79.078,
+              21.138
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00048",
+        "RoofAreaSquareMeters": 327.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0831,
+              21.1419
+            ],
+            [
+              79.08325,
+              21.1419
+            ],
+            [
+              79.08325,
+              21.14205
+            ],
+            [
+              79.0831,
+              21.14205
+            ],
+            [
+              79.0831,
+              21.1419
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00049",
+        "RoofAreaSquareMeters": 356.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0882,
+              21.1458
+            ],
+            [
+              79.08835,
+              21.1458
+            ],
+            [
+              79.08835,
+              21.145950000000003
+            ],
+            [
+              79.0882,
+              21.145950000000003
+            ],
+            [
+              79.0882,
+              21.1458
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00050",
+        "RoofAreaSquareMeters": 385.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0933,
+              21.149700000000003
+            ],
+            [
+              79.09345,
+              21.149700000000003
+            ],
+            [
+              79.09345,
+              21.149850000000004
+            ],
+            [
+              79.0933,
+              21.149850000000004
+            ],
+            [
+              79.0933,
+              21.149700000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00051",
+        "RoofAreaSquareMeters": 414.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0984,
+              21.1536
+            ],
+            [
+              79.09855,
+              21.1536
+            ],
+            [
+              79.09855,
+              21.153750000000002
+            ],
+            [
+              79.0984,
+              21.153750000000002
+            ],
+            [
+              79.0984,
+              21.1536
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00052",
+        "RoofAreaSquareMeters": 443.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0735,
+              21.157500000000002
+            ],
+            [
+              79.07365,
+              21.157500000000002
+            ],
+            [
+              79.07365,
+              21.157650000000004
+            ],
+            [
+              79.0735,
+              21.157650000000004
+            ],
+            [
+              79.0735,
+              21.157500000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00053",
+        "RoofAreaSquareMeters": 472.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0786,
+              21.131400000000003
+            ],
+            [
+              79.07875,
+              21.131400000000003
+            ],
+            [
+              79.07875,
+              21.131550000000004
+            ],
+            [
+              79.0786,
+              21.131550000000004
+            ],
+            [
+              79.0786,
+              21.131400000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00054",
+        "RoofAreaSquareMeters": 501.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.08370000000001,
+              21.1353
+            ],
+            [
+              79.08385000000001,
+              21.1353
+            ],
+            [
+              79.08385000000001,
+              21.135450000000002
+            ],
+            [
+              79.08370000000001,
+              21.135450000000002
+            ],
+            [
+              79.08370000000001,
+              21.1353
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00055",
+        "RoofAreaSquareMeters": 530.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0888,
+              21.139200000000002
+            ],
+            [
+              79.08895000000001,
+              21.139200000000002
+            ],
+            [
+              79.08895000000001,
+              21.139350000000004
+            ],
+            [
+              79.0888,
+              21.139350000000004
+            ],
+            [
+              79.0888,
+              21.139200000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00056",
+        "RoofAreaSquareMeters": 559.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0939,
+              21.1431
+            ],
+            [
+              79.09405000000001,
+              21.1431
+            ],
+            [
+              79.09405000000001,
+              21.143250000000002
+            ],
+            [
+              79.0939,
+              21.143250000000002
+            ],
+            [
+              79.0939,
+              21.1431
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00057",
+        "RoofAreaSquareMeters": 38.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.099,
+              21.147000000000002
+            ],
+            [
+              79.09915000000001,
+              21.147000000000002
+            ],
+            [
+              79.09915000000001,
+              21.147150000000003
+            ],
+            [
+              79.099,
+              21.147150000000003
+            ],
+            [
+              79.099,
+              21.147000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00058",
+        "RoofAreaSquareMeters": 67.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0741,
+              21.1509
+            ],
+            [
+              79.07425,
+              21.1509
+            ],
+            [
+              79.07425,
+              21.15105
+            ],
+            [
+              79.0741,
+              21.15105
+            ],
+            [
+              79.0741,
+              21.1509
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00059",
+        "RoofAreaSquareMeters": 96.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0792,
+              21.1548
+            ],
+            [
+              79.07935,
+              21.1548
+            ],
+            [
+              79.07935,
+              21.154950000000003
+            ],
+            [
+              79.0792,
+              21.154950000000003
+            ],
+            [
+              79.0792,
+              21.1548
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00060",
+        "RoofAreaSquareMeters": 125.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0843,
+              21.1587
+            ],
+            [
+              79.08445,
+              21.1587
+            ],
+            [
+              79.08445,
+              21.15885
+            ],
+            [
+              79.0843,
+              21.15885
+            ],
+            [
+              79.0843,
+              21.1587
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00061",
+        "RoofAreaSquareMeters": 154.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0894,
+              21.1326
+            ],
+            [
+              79.08955,
+              21.1326
+            ],
+            [
+              79.08955,
+              21.13275
+            ],
+            [
+              79.0894,
+              21.13275
+            ],
+            [
+              79.0894,
+              21.1326
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00062",
+        "RoofAreaSquareMeters": 183.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0945,
+              21.1365
+            ],
+            [
+              79.09465,
+              21.1365
+            ],
+            [
+              79.09465,
+              21.136650000000003
+            ],
+            [
+              79.0945,
+              21.136650000000003
+            ],
+            [
+              79.0945,
+              21.1365
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00063",
+        "RoofAreaSquareMeters": 212.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0996,
+              21.1404
+            ],
+            [
+              79.09975,
+              21.1404
+            ],
+            [
+              79.09975,
+              21.14055
+            ],
+            [
+              79.0996,
+              21.14055
+            ],
+            [
+              79.0996,
+              21.1404
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00064",
+        "RoofAreaSquareMeters": 241.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0747,
+              21.1443
+            ],
+            [
+              79.07485000000001,
+              21.1443
+            ],
+            [
+              79.07485000000001,
+              21.144450000000003
+            ],
+            [
+              79.0747,
+              21.144450000000003
+            ],
+            [
+              79.0747,
+              21.1443
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00065",
+        "RoofAreaSquareMeters": 270.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0798,
+              21.148200000000003
+            ],
+            [
+              79.07995000000001,
+              21.148200000000003
+            ],
+            [
+              79.07995000000001,
+              21.148350000000004
+            ],
+            [
+              79.0798,
+              21.148350000000004
+            ],
+            [
+              79.0798,
+              21.148200000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00066",
+        "RoofAreaSquareMeters": 299.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0849,
+              21.1521
+            ],
+            [
+              79.08505000000001,
+              21.1521
+            ],
+            [
+              79.08505000000001,
+              21.152250000000002
+            ],
+            [
+              79.0849,
+              21.152250000000002
+            ],
+            [
+              79.0849,
+              21.1521
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00067",
+        "RoofAreaSquareMeters": 328.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.09,
+              21.156000000000002
+            ],
+            [
+              79.09015000000001,
+              21.156000000000002
+            ],
+            [
+              79.09015000000001,
+              21.156150000000004
+            ],
+            [
+              79.09,
+              21.156150000000004
+            ],
+            [
+              79.09,
+              21.156000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00068",
+        "RoofAreaSquareMeters": 357.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0951,
+              21.1599
+            ],
+            [
+              79.09525000000001,
+              21.1599
+            ],
+            [
+              79.09525000000001,
+              21.160050000000002
+            ],
+            [
+              79.0951,
+              21.160050000000002
+            ],
+            [
+              79.0951,
+              21.1599
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00069",
+        "RoofAreaSquareMeters": 386.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.1002,
+              21.1338
+            ],
+            [
+              79.10035,
+              21.1338
+            ],
+            [
+              79.10035,
+              21.133950000000002
+            ],
+            [
+              79.1002,
+              21.133950000000002
+            ],
+            [
+              79.1002,
+              21.1338
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00070",
+        "RoofAreaSquareMeters": 415.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0753,
+              21.137700000000002
+            ],
+            [
+              79.07545,
+              21.137700000000002
+            ],
+            [
+              79.07545,
+              21.137850000000004
+            ],
+            [
+              79.0753,
+              21.137850000000004
+            ],
+            [
+              79.0753,
+              21.137700000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00071",
+        "RoofAreaSquareMeters": 444.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0804,
+              21.1416
+            ],
+            [
+              79.08055,
+              21.1416
+            ],
+            [
+              79.08055,
+              21.141750000000002
+            ],
+            [
+              79.0804,
+              21.141750000000002
+            ],
+            [
+              79.0804,
+              21.1416
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00072",
+        "RoofAreaSquareMeters": 473.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0855,
+              21.145500000000002
+            ],
+            [
+              79.08565,
+              21.145500000000002
+            ],
+            [
+              79.08565,
+              21.145650000000003
+            ],
+            [
+              79.0855,
+              21.145650000000003
+            ],
+            [
+              79.0855,
+              21.145500000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00073",
+        "RoofAreaSquareMeters": 502.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0906,
+              21.1494
+            ],
+            [
+              79.09075,
+              21.1494
+            ],
+            [
+              79.09075,
+              21.14955
+            ],
+            [
+              79.0906,
+              21.14955
+            ],
+            [
+              79.0906,
+              21.1494
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00074",
+        "RoofAreaSquareMeters": 531.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0957,
+              21.1533
+            ],
+            [
+              79.09585,
+              21.1533
+            ],
+            [
+              79.09585,
+              21.153450000000003
+            ],
+            [
+              79.0957,
+              21.153450000000003
+            ],
+            [
+              79.0957,
+              21.1533
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00075",
+        "RoofAreaSquareMeters": 560.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.1008,
+              21.1572
+            ],
+            [
+              79.10095000000001,
+              21.1572
+            ],
+            [
+              79.10095000000001,
+              21.15735
+            ],
+            [
+              79.1008,
+              21.15735
+            ],
+            [
+              79.1008,
+              21.1572
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00076",
+        "RoofAreaSquareMeters": 39.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0759,
+              21.1311
+            ],
+            [
+              79.07605000000001,
+              21.1311
+            ],
+            [
+              79.07605000000001,
+              21.13125
+            ],
+            [
+              79.0759,
+              21.13125
+            ],
+            [
+              79.0759,
+              21.1311
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00077",
+        "RoofAreaSquareMeters": 68.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.081,
+              21.135
+            ],
+            [
+              79.08115000000001,
+              21.135
+            ],
+            [
+              79.08115000000001,
+              21.135150000000003
+            ],
+            [
+              79.081,
+              21.135150000000003
+            ],
+            [
+              79.081,
+              21.135
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00078",
+        "RoofAreaSquareMeters": 97.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0861,
+              21.1389
+            ],
+            [
+              79.08625,
+              21.1389
+            ],
+            [
+              79.08625,
+              21.13905
+            ],
+            [
+              79.0861,
+              21.13905
+            ],
+            [
+              79.0861,
+              21.1389
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00079",
+        "RoofAreaSquareMeters": 126.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0912,
+              21.1428
+            ],
+            [
+              79.09135,
+              21.1428
+            ],
+            [
+              79.09135,
+              21.142950000000003
+            ],
+            [
+              79.0912,
+              21.142950000000003
+            ],
+            [
+              79.0912,
+              21.1428
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00080",
+        "RoofAreaSquareMeters": 155.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0963,
+              21.146700000000003
+            ],
+            [
+              79.09645,
+              21.146700000000003
+            ],
+            [
+              79.09645,
+              21.146850000000004
+            ],
+            [
+              79.0963,
+              21.146850000000004
+            ],
+            [
+              79.0963,
+              21.146700000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00081",
+        "RoofAreaSquareMeters": 184.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.1014,
+              21.1506
+            ],
+            [
+              79.10155,
+              21.1506
+            ],
+            [
+              79.10155,
+              21.150750000000002
+            ],
+            [
+              79.1014,
+              21.150750000000002
+            ],
+            [
+              79.1014,
+              21.1506
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00082",
+        "RoofAreaSquareMeters": 213.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0765,
+              21.154500000000002
+            ],
+            [
+              79.07665,
+              21.154500000000002
+            ],
+            [
+              79.07665,
+              21.154650000000004
+            ],
+            [
+              79.0765,
+              21.154650000000004
+            ],
+            [
+              79.0765,
+              21.154500000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00083",
+        "RoofAreaSquareMeters": 242.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0816,
+              21.1584
+            ],
+            [
+              79.08175,
+              21.1584
+            ],
+            [
+              79.08175,
+              21.15855
+            ],
+            [
+              79.0816,
+              21.15855
+            ],
+            [
+              79.0816,
+              21.1584
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00084",
+        "RoofAreaSquareMeters": 271.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.08670000000001,
+              21.1323
+            ],
+            [
+              79.08685000000001,
+              21.1323
+            ],
+            [
+              79.08685000000001,
+              21.132450000000002
+            ],
+            [
+              79.08670000000001,
+              21.132450000000002
+            ],
+            [
+              79.08670000000001,
+              21.1323
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00085",
+        "RoofAreaSquareMeters": 300.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0918,
+              21.136200000000002
+            ],
+            [
+              79.09195000000001,
+              21.136200000000002
+            ],
+            [
+              79.09195000000001,
+              21.136350000000004
+            ],
+            [
+              79.0918,
+              21.136350000000004
+            ],
+            [
+              79.0918,
+              21.136200000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00086",
+        "RoofAreaSquareMeters": 329.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0969,
+              21.1401
+            ],
+            [
+              79.09705000000001,
+              21.1401
+            ],
+            [
+              79.09705000000001,
+              21.14025
+            ],
+            [
+              79.0969,
+              21.14025
+            ],
+            [
+              79.0969,
+              21.1401
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00087",
+        "RoofAreaSquareMeters": 358.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.102,
+              21.144000000000002
+            ],
+            [
+              79.10215000000001,
+              21.144000000000002
+            ],
+            [
+              79.10215000000001,
+              21.144150000000003
+            ],
+            [
+              79.102,
+              21.144150000000003
+            ],
+            [
+              79.102,
+              21.144000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00088",
+        "RoofAreaSquareMeters": 387.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0771,
+              21.1479
+            ],
+            [
+              79.07725,
+              21.1479
+            ],
+            [
+              79.07725,
+              21.14805
+            ],
+            [
+              79.0771,
+              21.14805
+            ],
+            [
+              79.0771,
+              21.1479
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00089",
+        "RoofAreaSquareMeters": 416.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0822,
+              21.1518
+            ],
+            [
+              79.08235,
+              21.1518
+            ],
+            [
+              79.08235,
+              21.151950000000003
+            ],
+            [
+              79.0822,
+              21.151950000000003
+            ],
+            [
+              79.0822,
+              21.1518
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00090",
+        "RoofAreaSquareMeters": 445.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0873,
+              21.1557
+            ],
+            [
+              79.08745,
+              21.1557
+            ],
+            [
+              79.08745,
+              21.15585
+            ],
+            [
+              79.0873,
+              21.15585
+            ],
+            [
+              79.0873,
+              21.1557
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00091",
+        "RoofAreaSquareMeters": 474.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0924,
+              21.1596
+            ],
+            [
+              79.09255,
+              21.1596
+            ],
+            [
+              79.09255,
+              21.159750000000003
+            ],
+            [
+              79.0924,
+              21.159750000000003
+            ],
+            [
+              79.0924,
+              21.1596
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00092",
+        "RoofAreaSquareMeters": 503.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0975,
+              21.1335
+            ],
+            [
+              79.09765,
+              21.1335
+            ],
+            [
+              79.09765,
+              21.133650000000003
+            ],
+            [
+              79.0975,
+              21.133650000000003
+            ],
+            [
+              79.0975,
+              21.1335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00093",
+        "RoofAreaSquareMeters": 532.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.1026,
+              21.1374
+            ],
+            [
+              79.10275,
+              21.1374
+            ],
+            [
+              79.10275,
+              21.13755
+            ],
+            [
+              79.1026,
+              21.13755
+            ],
+            [
+              79.1026,
+              21.1374
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00094",
+        "RoofAreaSquareMeters": 561.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.07770000000001,
+              21.1413
+            ],
+            [
+              79.07785000000001,
+              21.1413
+            ],
+            [
+              79.07785000000001,
+              21.141450000000003
+            ],
+            [
+              79.07770000000001,
+              21.141450000000003
+            ],
+            [
+              79.07770000000001,
+              21.1413
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00095",
+        "RoofAreaSquareMeters": 40.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0828,
+              21.145200000000003
+            ],
+            [
+              79.08295000000001,
+              21.145200000000003
+            ],
+            [
+              79.08295000000001,
+              21.145350000000004
+            ],
+            [
+              79.0828,
+              21.145350000000004
+            ],
+            [
+              79.0828,
+              21.145200000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00096",
+        "RoofAreaSquareMeters": 69.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0879,
+              21.1491
+            ],
+            [
+              79.08805000000001,
+              21.1491
+            ],
+            [
+              79.08805000000001,
+              21.149250000000002
+            ],
+            [
+              79.0879,
+              21.149250000000002
+            ],
+            [
+              79.0879,
+              21.1491
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00097",
+        "RoofAreaSquareMeters": 98.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.093,
+              21.153000000000002
+            ],
+            [
+              79.09315000000001,
+              21.153000000000002
+            ],
+            [
+              79.09315000000001,
+              21.153150000000004
+            ],
+            [
+              79.093,
+              21.153150000000004
+            ],
+            [
+              79.093,
+              21.153000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00098",
+        "RoofAreaSquareMeters": 127.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0981,
+              21.1569
+            ],
+            [
+              79.09825000000001,
+              21.1569
+            ],
+            [
+              79.09825000000001,
+              21.15705
+            ],
+            [
+              79.0981,
+              21.15705
+            ],
+            [
+              79.0981,
+              21.1569
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00099",
+        "RoofAreaSquareMeters": 156.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0732,
+              21.1308
+            ],
+            [
+              79.07335,
+              21.1308
+            ],
+            [
+              79.07335,
+              21.130950000000002
+            ],
+            [
+              79.0732,
+              21.130950000000002
+            ],
+            [
+              79.0732,
+              21.1308
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00100",
+        "RoofAreaSquareMeters": 185.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0783,
+              21.134700000000002
+            ],
+            [
+              79.07845,
+              21.134700000000002
+            ],
+            [
+              79.07845,
+              21.134850000000004
+            ],
+            [
+              79.0783,
+              21.134850000000004
+            ],
+            [
+              79.0783,
+              21.134700000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00101",
+        "RoofAreaSquareMeters": 214.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0834,
+              21.1386
+            ],
+            [
+              79.08355,
+              21.1386
+            ],
+            [
+              79.08355,
+              21.13875
+            ],
+            [
+              79.0834,
+              21.13875
+            ],
+            [
+              79.0834,
+              21.1386
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00102",
+        "RoofAreaSquareMeters": 243.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0885,
+              21.142500000000002
+            ],
+            [
+              79.08865,
+              21.142500000000002
+            ],
+            [
+              79.08865,
+              21.142650000000003
+            ],
+            [
+              79.0885,
+              21.142650000000003
+            ],
+            [
+              79.0885,
+              21.142500000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00103",
+        "RoofAreaSquareMeters": 272.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0936,
+              21.1464
+            ],
+            [
+              79.09375,
+              21.1464
+            ],
+            [
+              79.09375,
+              21.14655
+            ],
+            [
+              79.0936,
+              21.14655
+            ],
+            [
+              79.0936,
+              21.1464
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00104",
+        "RoofAreaSquareMeters": 301.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0987,
+              21.1503
+            ],
+            [
+              79.09885,
+              21.1503
+            ],
+            [
+              79.09885,
+              21.150450000000003
+            ],
+            [
+              79.0987,
+              21.150450000000003
+            ],
+            [
+              79.0987,
+              21.1503
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00105",
+        "RoofAreaSquareMeters": 330.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0738,
+              21.154200000000003
+            ],
+            [
+              79.07395000000001,
+              21.154200000000003
+            ],
+            [
+              79.07395000000001,
+              21.154350000000004
+            ],
+            [
+              79.0738,
+              21.154350000000004
+            ],
+            [
+              79.0738,
+              21.154200000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00106",
+        "RoofAreaSquareMeters": 359.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0789,
+              21.1581
+            ],
+            [
+              79.07905000000001,
+              21.1581
+            ],
+            [
+              79.07905000000001,
+              21.158250000000002
+            ],
+            [
+              79.0789,
+              21.158250000000002
+            ],
+            [
+              79.0789,
+              21.1581
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00107",
+        "RoofAreaSquareMeters": 388.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.084,
+              21.132
+            ],
+            [
+              79.08415000000001,
+              21.132
+            ],
+            [
+              79.08415000000001,
+              21.132150000000003
+            ],
+            [
+              79.084,
+              21.132150000000003
+            ],
+            [
+              79.084,
+              21.132
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00108",
+        "RoofAreaSquareMeters": 417.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0891,
+              21.135900000000003
+            ],
+            [
+              79.08925,
+              21.135900000000003
+            ],
+            [
+              79.08925,
+              21.136050000000004
+            ],
+            [
+              79.0891,
+              21.136050000000004
+            ],
+            [
+              79.0891,
+              21.135900000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00109",
+        "RoofAreaSquareMeters": 446.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0942,
+              21.1398
+            ],
+            [
+              79.09435,
+              21.1398
+            ],
+            [
+              79.09435,
+              21.139950000000002
+            ],
+            [
+              79.0942,
+              21.139950000000002
+            ],
+            [
+              79.0942,
+              21.1398
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00110",
+        "RoofAreaSquareMeters": 475.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0993,
+              21.143700000000003
+            ],
+            [
+              79.09945,
+              21.143700000000003
+            ],
+            [
+              79.09945,
+              21.143850000000004
+            ],
+            [
+              79.0993,
+              21.143850000000004
+            ],
+            [
+              79.0993,
+              21.143700000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00111",
+        "RoofAreaSquareMeters": 504.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0744,
+              21.1476
+            ],
+            [
+              79.07455,
+              21.1476
+            ],
+            [
+              79.07455,
+              21.147750000000002
+            ],
+            [
+              79.0744,
+              21.147750000000002
+            ],
+            [
+              79.0744,
+              21.1476
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00112",
+        "RoofAreaSquareMeters": 533.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0795,
+              21.151500000000002
+            ],
+            [
+              79.07965,
+              21.151500000000002
+            ],
+            [
+              79.07965,
+              21.151650000000004
+            ],
+            [
+              79.0795,
+              21.151650000000004
+            ],
+            [
+              79.0795,
+              21.151500000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00113",
+        "RoofAreaSquareMeters": 562.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0846,
+              21.1554
+            ],
+            [
+              79.08475,
+              21.1554
+            ],
+            [
+              79.08475,
+              21.15555
+            ],
+            [
+              79.0846,
+              21.15555
+            ],
+            [
+              79.0846,
+              21.1554
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00114",
+        "RoofAreaSquareMeters": 41.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0897,
+              21.1593
+            ],
+            [
+              79.08985,
+              21.1593
+            ],
+            [
+              79.08985,
+              21.159450000000003
+            ],
+            [
+              79.0897,
+              21.159450000000003
+            ],
+            [
+              79.0897,
+              21.1593
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00115",
+        "RoofAreaSquareMeters": 70.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0948,
+              21.133200000000002
+            ],
+            [
+              79.09495000000001,
+              21.133200000000002
+            ],
+            [
+              79.09495000000001,
+              21.133350000000004
+            ],
+            [
+              79.0948,
+              21.133350000000004
+            ],
+            [
+              79.0948,
+              21.133200000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00116",
+        "RoofAreaSquareMeters": 99.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0999,
+              21.1371
+            ],
+            [
+              79.10005000000001,
+              21.1371
+            ],
+            [
+              79.10005000000001,
+              21.13725
+            ],
+            [
+              79.0999,
+              21.13725
+            ],
+            [
+              79.0999,
+              21.1371
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00117",
+        "RoofAreaSquareMeters": 128.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.075,
+              21.141000000000002
+            ],
+            [
+              79.07515000000001,
+              21.141000000000002
+            ],
+            [
+              79.07515000000001,
+              21.141150000000003
+            ],
+            [
+              79.075,
+              21.141150000000003
+            ],
+            [
+              79.075,
+              21.141000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00118",
+        "RoofAreaSquareMeters": 157.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0801,
+              21.1449
+            ],
+            [
+              79.08025,
+              21.1449
+            ],
+            [
+              79.08025,
+              21.14505
+            ],
+            [
+              79.0801,
+              21.14505
+            ],
+            [
+              79.0801,
+              21.1449
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00119",
+        "RoofAreaSquareMeters": 186.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0852,
+              21.1488
+            ],
+            [
+              79.08535,
+              21.1488
+            ],
+            [
+              79.08535,
+              21.148950000000003
+            ],
+            [
+              79.0852,
+              21.148950000000003
+            ],
+            [
+              79.0852,
+              21.1488
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00120",
+        "RoofAreaSquareMeters": 215.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0903,
+              21.152700000000003
+            ],
+            [
+              79.09045,
+              21.152700000000003
+            ],
+            [
+              79.09045,
+              21.152850000000004
+            ],
+            [
+              79.0903,
+              21.152850000000004
+            ],
+            [
+              79.0903,
+              21.152700000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00121",
+        "RoofAreaSquareMeters": 244.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0954,
+              21.1566
+            ],
+            [
+              79.09555,
+              21.1566
+            ],
+            [
+              79.09555,
+              21.156750000000002
+            ],
+            [
+              79.0954,
+              21.156750000000002
+            ],
+            [
+              79.0954,
+              21.1566
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00122",
+        "RoofAreaSquareMeters": 273.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.1005,
+              21.160500000000003
+            ],
+            [
+              79.10065,
+              21.160500000000003
+            ],
+            [
+              79.10065,
+              21.160650000000004
+            ],
+            [
+              79.1005,
+              21.160650000000004
+            ],
+            [
+              79.1005,
+              21.160500000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00123",
+        "RoofAreaSquareMeters": 302.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0756,
+              21.134400000000003
+            ],
+            [
+              79.07575,
+              21.134400000000003
+            ],
+            [
+              79.07575,
+              21.134550000000004
+            ],
+            [
+              79.0756,
+              21.134550000000004
+            ],
+            [
+              79.0756,
+              21.134400000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00124",
+        "RoofAreaSquareMeters": 331.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.08070000000001,
+              21.1383
+            ],
+            [
+              79.08085000000001,
+              21.1383
+            ],
+            [
+              79.08085000000001,
+              21.138450000000002
+            ],
+            [
+              79.08070000000001,
+              21.138450000000002
+            ],
+            [
+              79.08070000000001,
+              21.1383
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00125",
+        "RoofAreaSquareMeters": 360.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0858,
+              21.142200000000003
+            ],
+            [
+              79.08595000000001,
+              21.142200000000003
+            ],
+            [
+              79.08595000000001,
+              21.142350000000004
+            ],
+            [
+              79.0858,
+              21.142350000000004
+            ],
+            [
+              79.0858,
+              21.142200000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00126",
+        "RoofAreaSquareMeters": 389.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0909,
+              21.1461
+            ],
+            [
+              79.09105000000001,
+              21.1461
+            ],
+            [
+              79.09105000000001,
+              21.146250000000002
+            ],
+            [
+              79.0909,
+              21.146250000000002
+            ],
+            [
+              79.0909,
+              21.1461
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00127",
+        "RoofAreaSquareMeters": 418.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.096,
+              21.150000000000002
+            ],
+            [
+              79.09615000000001,
+              21.150000000000002
+            ],
+            [
+              79.09615000000001,
+              21.150150000000004
+            ],
+            [
+              79.096,
+              21.150150000000004
+            ],
+            [
+              79.096,
+              21.150000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00128",
+        "RoofAreaSquareMeters": 447.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.1011,
+              21.1539
+            ],
+            [
+              79.10125000000001,
+              21.1539
+            ],
+            [
+              79.10125000000001,
+              21.15405
+            ],
+            [
+              79.1011,
+              21.15405
+            ],
+            [
+              79.1011,
+              21.1539
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00129",
+        "RoofAreaSquareMeters": 476.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0762,
+              21.1578
+            ],
+            [
+              79.07635,
+              21.1578
+            ],
+            [
+              79.07635,
+              21.157950000000003
+            ],
+            [
+              79.0762,
+              21.157950000000003
+            ],
+            [
+              79.0762,
+              21.1578
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00130",
+        "RoofAreaSquareMeters": 505.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0813,
+              21.131700000000002
+            ],
+            [
+              79.08145,
+              21.131700000000002
+            ],
+            [
+              79.08145,
+              21.131850000000004
+            ],
+            [
+              79.0813,
+              21.131850000000004
+            ],
+            [
+              79.0813,
+              21.131700000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00131",
+        "RoofAreaSquareMeters": 534.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0864,
+              21.1356
+            ],
+            [
+              79.08655,
+              21.1356
+            ],
+            [
+              79.08655,
+              21.13575
+            ],
+            [
+              79.0864,
+              21.13575
+            ],
+            [
+              79.0864,
+              21.1356
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00132",
+        "RoofAreaSquareMeters": 563.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0915,
+              21.1395
+            ],
+            [
+              79.09165,
+              21.1395
+            ],
+            [
+              79.09165,
+              21.139650000000003
+            ],
+            [
+              79.0915,
+              21.139650000000003
+            ],
+            [
+              79.0915,
+              21.1395
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00133",
+        "RoofAreaSquareMeters": 42.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0966,
+              21.1434
+            ],
+            [
+              79.09675,
+              21.1434
+            ],
+            [
+              79.09675,
+              21.14355
+            ],
+            [
+              79.0966,
+              21.14355
+            ],
+            [
+              79.0966,
+              21.1434
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00134",
+        "RoofAreaSquareMeters": 71.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.1017,
+              21.1473
+            ],
+            [
+              79.10185,
+              21.1473
+            ],
+            [
+              79.10185,
+              21.147450000000003
+            ],
+            [
+              79.1017,
+              21.147450000000003
+            ],
+            [
+              79.1017,
+              21.1473
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00135",
+        "RoofAreaSquareMeters": 100.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0768,
+              21.151200000000003
+            ],
+            [
+              79.07695000000001,
+              21.151200000000003
+            ],
+            [
+              79.07695000000001,
+              21.151350000000004
+            ],
+            [
+              79.0768,
+              21.151350000000004
+            ],
+            [
+              79.0768,
+              21.151200000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00136",
+        "RoofAreaSquareMeters": 129.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0819,
+              21.1551
+            ],
+            [
+              79.08205000000001,
+              21.1551
+            ],
+            [
+              79.08205000000001,
+              21.155250000000002
+            ],
+            [
+              79.0819,
+              21.155250000000002
+            ],
+            [
+              79.0819,
+              21.1551
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00137",
+        "RoofAreaSquareMeters": 158.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.087,
+              21.159000000000002
+            ],
+            [
+              79.08715000000001,
+              21.159000000000002
+            ],
+            [
+              79.08715000000001,
+              21.159150000000004
+            ],
+            [
+              79.087,
+              21.159150000000004
+            ],
+            [
+              79.087,
+              21.159000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00138",
+        "RoofAreaSquareMeters": 187.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0921,
+              21.132900000000003
+            ],
+            [
+              79.09225,
+              21.132900000000003
+            ],
+            [
+              79.09225,
+              21.133050000000004
+            ],
+            [
+              79.0921,
+              21.133050000000004
+            ],
+            [
+              79.0921,
+              21.132900000000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00139",
+        "RoofAreaSquareMeters": 216.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0972,
+              21.1368
+            ],
+            [
+              79.09735,
+              21.1368
+            ],
+            [
+              79.09735,
+              21.136950000000002
+            ],
+            [
+              79.0972,
+              21.136950000000002
+            ],
+            [
+              79.0972,
+              21.1368
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00140",
+        "RoofAreaSquareMeters": 245.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.1023,
+              21.140700000000002
+            ],
+            [
+              79.10245,
+              21.140700000000002
+            ],
+            [
+              79.10245,
+              21.140850000000004
+            ],
+            [
+              79.1023,
+              21.140850000000004
+            ],
+            [
+              79.1023,
+              21.140700000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00141",
+        "RoofAreaSquareMeters": 274.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0774,
+              21.1446
+            ],
+            [
+              79.07755,
+              21.1446
+            ],
+            [
+              79.07755,
+              21.144750000000002
+            ],
+            [
+              79.0774,
+              21.144750000000002
+            ],
+            [
+              79.0774,
+              21.1446
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00142",
+        "RoofAreaSquareMeters": 303.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0825,
+              21.148500000000002
+            ],
+            [
+              79.08265,
+              21.148500000000002
+            ],
+            [
+              79.08265,
+              21.148650000000004
+            ],
+            [
+              79.0825,
+              21.148650000000004
+            ],
+            [
+              79.0825,
+              21.148500000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00143",
+        "RoofAreaSquareMeters": 332.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0876,
+              21.1524
+            ],
+            [
+              79.08775,
+              21.1524
+            ],
+            [
+              79.08775,
+              21.15255
+            ],
+            [
+              79.0876,
+              21.15255
+            ],
+            [
+              79.0876,
+              21.1524
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00144",
+        "RoofAreaSquareMeters": 361.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0927,
+              21.1563
+            ],
+            [
+              79.09285,
+              21.1563
+            ],
+            [
+              79.09285,
+              21.156450000000003
+            ],
+            [
+              79.0927,
+              21.156450000000003
+            ],
+            [
+              79.0927,
+              21.1563
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00145",
+        "RoofAreaSquareMeters": 390.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0978,
+              21.1602
+            ],
+            [
+              79.09795000000001,
+              21.1602
+            ],
+            [
+              79.09795000000001,
+              21.16035
+            ],
+            [
+              79.0978,
+              21.16035
+            ],
+            [
+              79.0978,
+              21.1602
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00146",
+        "RoofAreaSquareMeters": 419.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.1029,
+              21.1341
+            ],
+            [
+              79.10305000000001,
+              21.1341
+            ],
+            [
+              79.10305000000001,
+              21.13425
+            ],
+            [
+              79.1029,
+              21.13425
+            ],
+            [
+              79.1029,
+              21.1341
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00147",
+        "RoofAreaSquareMeters": 448.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.078,
+              21.138
+            ],
+            [
+              79.07815000000001,
+              21.138
+            ],
+            [
+              79.07815000000001,
+              21.138150000000003
+            ],
+            [
+              79.078,
+              21.138150000000003
+            ],
+            [
+              79.078,
+              21.138
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00148",
+        "RoofAreaSquareMeters": 477.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0831,
+              21.1419
+            ],
+            [
+              79.08325,
+              21.1419
+            ],
+            [
+              79.08325,
+              21.14205
+            ],
+            [
+              79.0831,
+              21.14205
+            ],
+            [
+              79.0831,
+              21.1419
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00149",
+        "RoofAreaSquareMeters": 506.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0882,
+              21.1458
+            ],
+            [
+              79.08835,
+              21.1458
+            ],
+            [
+              79.08835,
+              21.145950000000003
+            ],
+            [
+              79.0882,
+              21.145950000000003
+            ],
+            [
+              79.0882,
+              21.1458
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_NAG_00150",
+        "RoofAreaSquareMeters": 535.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    }
+  ]
+}

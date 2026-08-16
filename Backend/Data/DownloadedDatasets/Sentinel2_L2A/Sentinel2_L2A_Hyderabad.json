@@ -1,0 +1,95 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "Copernicus Sentinel-2 MSI Level-2A Bottom-Of-Atmosphere Surface Reflectance",
+    "TargetCity": "Hyderabad",
+    "GeographicBounds": {
+      "MinLon": 78.44,
+      "MinLat": 17.35,
+      "MaxLon": 78.53,
+      "MaxLat": 17.43
+    },
+    "ConstellationPlatform": "Sentinel-2A / Sentinel-2B Multi-Spectral Instrument (MSI)",
+    "AtmosphericCorrectionAlgorithm": "Sen2Cor v2.11 (Bottom Of Atmosphere BOA Reflectance)",
+    "AcquisitionDate": "2024-05-15",
+    "CloudCoveragePercentage": 0.0,
+    "SpectralBandConfigurations": {
+      "B02_Blue": "490 nm (10m Resolution)",
+      "B03_Green": "560 nm (10m Resolution)",
+      "B04_Red": "665 nm (10m Resolution)",
+      "B08_NIR": "842 nm (10m Resolution)",
+      "B11_SWIR1": "1610 nm (20m Resolution)",
+      "B12_SWIR2": "2190 nm (20m Resolution)"
+    }
+  },
+  "MultispectralRoofTypologySignatures": {
+    "Metal_Tin_Corrugated": {
+      "MeanNDVI": -0.042,
+      "MeanNDBI": 0.542,
+      "BroadbandSolarAlbedo": 0.585,
+      "BrightnessIndex": 0.72,
+      "TextureGLCMHomogeneity": 0.32
+    },
+    "Asbestos_FibreCement": {
+      "MeanNDVI": 0.015,
+      "MeanNDBI": 0.41,
+      "BroadbandSolarAlbedo": 0.44,
+      "BrightnessIndex": 0.56,
+      "TextureGLCMHomogeneity": 0.68
+    },
+    "Concrete_ReinforcedRCC": {
+      "MeanNDVI": 0.075,
+      "MeanNDBI": 0.28,
+      "BroadbandSolarAlbedo": 0.26,
+      "BrightnessIndex": 0.36,
+      "TextureGLCMHomogeneity": 0.31
+    },
+    "Clay_CeramicTile": {
+      "MeanNDVI": 0.145,
+      "MeanNDBI": 0.18,
+      "BroadbandSolarAlbedo": 0.29,
+      "BrightnessIndex": 0.39,
+      "TextureGLCMHomogeneity": 0.44
+    },
+    "Thatch_Tarpaulin_Informal": {
+      "MeanNDVI": 0.21,
+      "MeanNDBI": 0.12,
+      "BroadbandSolarAlbedo": 0.21,
+      "BrightnessIndex": 0.28,
+      "TextureGLCMHomogeneity": 0.76
+    }
+  },
+  "WardMultispectralProfiles": [
+    {
+      "WardId": "Ward 45 - Charminar Old City",
+      "WardName": "Charminar Heritage & Dense Residential",
+      "MeanNormalizedDifferenceVegetationIndexNDVI": 0.104,
+      "MeanNormalizedDifferenceBuiltUpIndexNDBI": 0.419,
+      "MeanBroadbandSurfaceAlbedo": 0.293,
+      "MeanHaralickTextureEntropyGLCM": 0.531
+    },
+    {
+      "WardId": "Ward 88 - Jeedimetla Industrial",
+      "WardName": "Jeedimetla Manufacturing Corridor",
+      "MeanNormalizedDifferenceVegetationIndexNDVI": 0.115,
+      "MeanNormalizedDifferenceBuiltUpIndexNDBI": 0.347,
+      "MeanBroadbandSurfaceAlbedo": 0.332,
+      "MeanHaralickTextureEntropyGLCM": 0.425
+    },
+    {
+      "WardId": "Ward 62 - Borabanda Hill Colony",
+      "WardName": "Borabanda Informal Settlement",
+      "MeanNormalizedDifferenceVegetationIndexNDVI": 0.054,
+      "MeanNormalizedDifferenceBuiltUpIndexNDBI": 0.339,
+      "MeanBroadbandSurfaceAlbedo": 0.376,
+      "MeanHaralickTextureEntropyGLCM": 0.42
+    },
+    {
+      "WardId": "Ward 104 - Banjara Hills",
+      "WardName": "Banjara Hills Residential",
+      "MeanNormalizedDifferenceVegetationIndexNDVI": 0.084,
+      "MeanNormalizedDifferenceBuiltUpIndexNDBI": 0.468,
+      "MeanBroadbandSurfaceAlbedo": 0.313,
+      "MeanHaralickTextureEntropyGLCM": 0.513
+    }
+  ]
+}

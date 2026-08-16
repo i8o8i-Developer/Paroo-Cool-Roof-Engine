@@ -1,0 +1,4 @@
+WardId,WardName,MetalProportion,AsbestosProportion,ConcreteProportion,TileProportion,ThatchProportion,DensityPerHectare
+Ward G/N - Dharavi Central,Dharavi High Density Settlement,0.46,0.32,0.14,0.03,0.05,980
+Ward M/E - Govandi Slum,Govandi Resettlement Colony,0.42,0.36,0.15,0.02,0.05,850
+Ward H/W - Bandra West,Bandra Coastal Residential,0.08,0.08,0.8,0.03,0.01,290

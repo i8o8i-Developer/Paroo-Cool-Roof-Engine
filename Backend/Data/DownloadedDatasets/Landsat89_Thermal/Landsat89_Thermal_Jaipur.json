@@ -1,0 +1,71 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "USGS Landsat 8/9 OLI/TIRS Collection 2 Level-2 Surface Temperature",
+    "TargetCity": "Jaipur",
+    "GeographicBounds": {
+      "MinLon": 75.75,
+      "MinLat": 26.88,
+      "MaxLon": 75.83,
+      "MaxLat": 26.95,
+      "CenterCoordinates": [
+        26.9124,
+        75.7873
+      ]
+    },
+    "SensorPlatform": "Landsat-9 TIRS-2 (Thermal Infrared Sensor)",
+    "SpatialResolutionMeters": 30.0,
+    "AcquisitionTimestampUTC": "2024-05-18T05:32:14Z",
+    "SolarZenithAngleDegrees": 18.4,
+    "MeanAtmosphericTransmittance": 0.88,
+    "MeanEmissivity": 0.942,
+    "QualityAssessmentMask": "100% Clear Sky (Zero Cloud Shadow/Contamination)"
+  },
+  "ThermalCalibrationParameters": {
+    "K1_ConstantBand10": 774.8853,
+    "K2_ConstantBand10": 1321.0789,
+    "RadianceMultiBand10": 0.0003342,
+    "RadianceAddBand10": 0.1
+  },
+  "UrbanWardThermalTelemetry": [
+    {
+      "WardId": "Ward 12 - Johari Walled City",
+      "WardName": "Johari Bazar & Walled City",
+      "MeanDaySurfaceTemperatureCelsius": 49.35,
+      "PeakPixelSurfaceTemperatureCelsius": 51.87,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 4.35,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 11.483,
+      "NarrowbandEmissivityBand10": 0.941,
+      "ExtremeHeatExposureAlertLevel": "Severe Red Alert"
+    },
+    {
+      "WardId": "Ward 24 - Sanganer Industrial",
+      "WardName": "Sanganer Textile & Craft Zone",
+      "MeanDaySurfaceTemperatureCelsius": 50.17,
+      "PeakPixelSurfaceTemperatureCelsius": 55.18,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 5.17,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 11.631,
+      "NarrowbandEmissivityBand10": 0.97,
+      "ExtremeHeatExposureAlertLevel": "Severe Red Alert"
+    },
+    {
+      "WardId": "Ward 35 - Jhotwara Resettlement",
+      "WardName": "Jhotwara Dense Settlement",
+      "MeanDaySurfaceTemperatureCelsius": 49.71,
+      "PeakPixelSurfaceTemperatureCelsius": 52.59,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 4.71,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 11.548,
+      "NarrowbandEmissivityBand10": 0.939,
+      "ExtremeHeatExposureAlertLevel": "Severe Red Alert"
+    },
+    {
+      "WardId": "Ward 48 - Mansarovar Sector 7",
+      "WardName": "Mansarovar Mixed Residential",
+      "MeanDaySurfaceTemperatureCelsius": 46.87,
+      "PeakPixelSurfaceTemperatureCelsius": 50.52,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 1.87,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 11.037,
+      "NarrowbandEmissivityBand10": 0.938,
+      "ExtremeHeatExposureAlertLevel": "High Orange Alert"
+    }
+  ]
+}

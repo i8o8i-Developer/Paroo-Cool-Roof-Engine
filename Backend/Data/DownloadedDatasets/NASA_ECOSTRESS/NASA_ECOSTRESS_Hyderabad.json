@@ -1,0 +1,85 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "NASA JPL ECOSTRESS Space Station Thermal Radiometer Experiment",
+    "TargetCity": "Hyderabad",
+    "GeographicBounds": {
+      "MinLon": 78.44,
+      "MinLat": 17.35,
+      "MaxLon": 78.53,
+      "MaxLat": 17.43
+    },
+    "OrbitType": "International Space Station (ISS) Precessing Low Earth Orbit",
+    "SpatialResolutionMeters": 70.0,
+    "ProductType": "ECO2LSTE (Land Surface Temperature & Emissivity) & ECO3ETPTJPL (Evapotranspiration)",
+    "NocturnalOverpassTimestampUTC": "2024-05-19T21:14:08Z (02:44 AM IST Local)",
+    "DaytimeOverpassTimestampUTC": "2024-05-20T08:22:31Z (13:52 PM IST Local)"
+  },
+  "DiurnalThermalOverpasses": [
+    {
+      "PassTimeIST": "02:44 AM (Deep Midnight / Nocturnal Minimum)",
+      "MeanUrbanLSTCelsius": 32.6,
+      "HotspotSlumClustersCelsius": 35.7,
+      "ThermalInversionIndex": 0.82
+    },
+    {
+      "PassTimeIST": "06:15 AM (Dawn Baseline)",
+      "MeanUrbanLSTCelsius": 29.3,
+      "HotspotSlumClustersCelsius": 31.4,
+      "ThermalInversionIndex": 0.45
+    },
+    {
+      "PassTimeIST": "13:52 PM (Peak Solar Insolation)",
+      "MeanUrbanLSTCelsius": 46.8,
+      "HotspotSlumClustersCelsius": 51.0,
+      "ThermalInversionIndex": 0.94
+    },
+    {
+      "PassTimeIST": "21:30 PM (Post-Sunset Heat Trapping)",
+      "MeanUrbanLSTCelsius": 34.2,
+      "HotspotSlumClustersCelsius": 36.9,
+      "ThermalInversionIndex": 0.89
+    }
+  ],
+  "WardDiurnalRetentionMatrix": [
+    {
+      "WardId": "Ward 45 - Charminar Old City",
+      "WardName": "Charminar Heritage & Dense Residential",
+      "MidnightSurfaceTemperatureCelsius": 32.97,
+      "NocturnalHeatRetentionAnomalyCelsius": 2.97,
+      "DiurnalThermalAmplitudeCelsius": 13.83,
+      "EvaporativeStressIndexESI": 0.216,
+      "WaterDeficitIndexWDI": 0.863,
+      "PhysiologicalHeatRecoveryInhibited": false
+    },
+    {
+      "WardId": "Ward 88 - Jeedimetla Industrial",
+      "WardName": "Jeedimetla Manufacturing Corridor",
+      "MidnightSurfaceTemperatureCelsius": 31.92,
+      "NocturnalHeatRetentionAnomalyCelsius": 1.92,
+      "DiurnalThermalAmplitudeCelsius": 14.88,
+      "EvaporativeStressIndexESI": 0.223,
+      "WaterDeficitIndexWDI": 0.851,
+      "PhysiologicalHeatRecoveryInhibited": false
+    },
+    {
+      "WardId": "Ward 62 - Borabanda Hill Colony",
+      "WardName": "Borabanda Informal Settlement",
+      "MidnightSurfaceTemperatureCelsius": 32.92,
+      "NocturnalHeatRetentionAnomalyCelsius": 2.92,
+      "DiurnalThermalAmplitudeCelsius": 13.88,
+      "EvaporativeStressIndexESI": 0.218,
+      "WaterDeficitIndexWDI": 0.855,
+      "PhysiologicalHeatRecoveryInhibited": false
+    },
+    {
+      "WardId": "Ward 104 - Banjara Hills",
+      "WardName": "Banjara Hills Residential",
+      "MidnightSurfaceTemperatureCelsius": 30.88,
+      "NocturnalHeatRetentionAnomalyCelsius": 0.88,
+      "DiurnalThermalAmplitudeCelsius": 15.92,
+      "EvaporativeStressIndexESI": 0.214,
+      "WaterDeficitIndexWDI": 0.865,
+      "PhysiologicalHeatRecoveryInhibited": false
+    }
+  ]
+}

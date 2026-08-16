@@ -1,0 +1,95 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "Copernicus Sentinel-2 MSI Level-2A Bottom-Of-Atmosphere Surface Reflectance",
+    "TargetCity": "Delhi NCR",
+    "GeographicBounds": {
+      "MinLon": 77.17,
+      "MinLat": 28.57,
+      "MaxLon": 77.26,
+      "MaxLat": 28.66
+    },
+    "ConstellationPlatform": "Sentinel-2A / Sentinel-2B Multi-Spectral Instrument (MSI)",
+    "AtmosphericCorrectionAlgorithm": "Sen2Cor v2.11 (Bottom Of Atmosphere BOA Reflectance)",
+    "AcquisitionDate": "2024-05-15",
+    "CloudCoveragePercentage": 0.0,
+    "SpectralBandConfigurations": {
+      "B02_Blue": "490 nm (10m Resolution)",
+      "B03_Green": "560 nm (10m Resolution)",
+      "B04_Red": "665 nm (10m Resolution)",
+      "B08_NIR": "842 nm (10m Resolution)",
+      "B11_SWIR1": "1610 nm (20m Resolution)",
+      "B12_SWIR2": "2190 nm (20m Resolution)"
+    }
+  },
+  "MultispectralRoofTypologySignatures": {
+    "Metal_Tin_Corrugated": {
+      "MeanNDVI": -0.042,
+      "MeanNDBI": 0.542,
+      "BroadbandSolarAlbedo": 0.585,
+      "BrightnessIndex": 0.72,
+      "TextureGLCMHomogeneity": 0.32
+    },
+    "Asbestos_FibreCement": {
+      "MeanNDVI": 0.015,
+      "MeanNDBI": 0.41,
+      "BroadbandSolarAlbedo": 0.44,
+      "BrightnessIndex": 0.56,
+      "TextureGLCMHomogeneity": 0.68
+    },
+    "Concrete_ReinforcedRCC": {
+      "MeanNDVI": 0.075,
+      "MeanNDBI": 0.28,
+      "BroadbandSolarAlbedo": 0.26,
+      "BrightnessIndex": 0.36,
+      "TextureGLCMHomogeneity": 0.31
+    },
+    "Clay_CeramicTile": {
+      "MeanNDVI": 0.145,
+      "MeanNDBI": 0.18,
+      "BroadbandSolarAlbedo": 0.29,
+      "BrightnessIndex": 0.39,
+      "TextureGLCMHomogeneity": 0.44
+    },
+    "Thatch_Tarpaulin_Informal": {
+      "MeanNDVI": 0.21,
+      "MeanNDBI": 0.12,
+      "BroadbandSolarAlbedo": 0.21,
+      "BrightnessIndex": 0.28,
+      "TextureGLCMHomogeneity": 0.76
+    }
+  },
+  "WardMultispectralProfiles": [
+    {
+      "WardId": "Ward 81 - Sangam Vihar South",
+      "WardName": "Sangam Vihar High Density Resettlement",
+      "MeanNormalizedDifferenceVegetationIndexNDVI": 0.093,
+      "MeanNormalizedDifferenceBuiltUpIndexNDBI": 0.471,
+      "MeanBroadbandSurfaceAlbedo": 0.366,
+      "MeanHaralickTextureEntropyGLCM": 0.511
+    },
+    {
+      "WardId": "Ward 55 - Okhla Phase II",
+      "WardName": "Okhla Industrial & Informal Corridor",
+      "MeanNormalizedDifferenceVegetationIndexNDVI": 0.071,
+      "MeanNormalizedDifferenceBuiltUpIndexNDBI": 0.489,
+      "MeanBroadbandSurfaceAlbedo": 0.373,
+      "MeanHaralickTextureEntropyGLCM": 0.547
+    },
+    {
+      "WardId": "Ward 32 - Seelampur East",
+      "WardName": "Seelampur Trans-Yamuna Cluster",
+      "MeanNormalizedDifferenceVegetationIndexNDVI": 0.069,
+      "MeanNormalizedDifferenceBuiltUpIndexNDBI": 0.332,
+      "MeanBroadbandSurfaceAlbedo": 0.308,
+      "MeanHaralickTextureEntropyGLCM": 0.566
+    },
+    {
+      "WardId": "Ward 14 - Connaught Core",
+      "WardName": "Central Commercial & Institutional",
+      "MeanNormalizedDifferenceVegetationIndexNDVI": 0.096,
+      "MeanNormalizedDifferenceBuiltUpIndexNDBI": 0.435,
+      "MeanBroadbandSurfaceAlbedo": 0.389,
+      "MeanHaralickTextureEntropyGLCM": 0.572
+    }
+  ]
+}

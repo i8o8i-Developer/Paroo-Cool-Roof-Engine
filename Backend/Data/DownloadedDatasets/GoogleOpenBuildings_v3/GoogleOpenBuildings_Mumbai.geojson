@@ -1,0 +1,5556 @@
+{
+  "type": "FeatureCollection",
+  "city": "Mumbai",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8678,
+              19.0649
+            ],
+            [
+              72.86795000000001,
+              19.0649
+            ],
+            [
+              72.86795000000001,
+              19.065050000000003
+            ],
+            [
+              72.8678,
+              19.065050000000003
+            ],
+            [
+              72.8678,
+              19.0649
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00001",
+        "RoofAreaSquareMeters": 64.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8729,
+              19.0688
+            ],
+            [
+              72.87305,
+              19.0688
+            ],
+            [
+              72.87305,
+              19.06895
+            ],
+            [
+              72.8729,
+              19.06895
+            ],
+            [
+              72.8729,
+              19.0688
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00002",
+        "RoofAreaSquareMeters": 93.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.878,
+              19.0727
+            ],
+            [
+              72.87815,
+              19.0727
+            ],
+            [
+              72.87815,
+              19.072850000000003
+            ],
+            [
+              72.878,
+              19.072850000000003
+            ],
+            [
+              72.878,
+              19.0727
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00003",
+        "RoofAreaSquareMeters": 122.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8831,
+              19.0766
+            ],
+            [
+              72.88325,
+              19.0766
+            ],
+            [
+              72.88325,
+              19.07675
+            ],
+            [
+              72.8831,
+              19.07675
+            ],
+            [
+              72.8831,
+              19.0766
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00004",
+        "RoofAreaSquareMeters": 151.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8882,
+              19.0805
+            ],
+            [
+              72.88835,
+              19.0805
+            ],
+            [
+              72.88835,
+              19.080650000000002
+            ],
+            [
+              72.8882,
+              19.080650000000002
+            ],
+            [
+              72.8882,
+              19.0805
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00005",
+        "RoofAreaSquareMeters": 180.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.86330000000001,
+              19.084400000000002
+            ],
+            [
+              72.86345000000001,
+              19.084400000000002
+            ],
+            [
+              72.86345000000001,
+              19.084550000000004
+            ],
+            [
+              72.86330000000001,
+              19.084550000000004
+            ],
+            [
+              72.86330000000001,
+              19.084400000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00006",
+        "RoofAreaSquareMeters": 209.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.86840000000001,
+              19.0883
+            ],
+            [
+              72.86855000000001,
+              19.0883
+            ],
+            [
+              72.86855000000001,
+              19.08845
+            ],
+            [
+              72.86840000000001,
+              19.08845
+            ],
+            [
+              72.86840000000001,
+              19.0883
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00007",
+        "RoofAreaSquareMeters": 238.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8735,
+              19.0622
+            ],
+            [
+              72.87365000000001,
+              19.0622
+            ],
+            [
+              72.87365000000001,
+              19.062350000000002
+            ],
+            [
+              72.8735,
+              19.062350000000002
+            ],
+            [
+              72.8735,
+              19.0622
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00008",
+        "RoofAreaSquareMeters": 267.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8786,
+              19.066100000000002
+            ],
+            [
+              72.87875000000001,
+              19.066100000000002
+            ],
+            [
+              72.87875000000001,
+              19.066250000000004
+            ],
+            [
+              72.8786,
+              19.066250000000004
+            ],
+            [
+              72.8786,
+              19.066100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00009",
+        "RoofAreaSquareMeters": 296.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8837,
+              19.07
+            ],
+            [
+              72.88385000000001,
+              19.07
+            ],
+            [
+              72.88385000000001,
+              19.07015
+            ],
+            [
+              72.8837,
+              19.07015
+            ],
+            [
+              72.8837,
+              19.07
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00010",
+        "RoofAreaSquareMeters": 325.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8888,
+              19.073900000000002
+            ],
+            [
+              72.88895000000001,
+              19.073900000000002
+            ],
+            [
+              72.88895000000001,
+              19.074050000000003
+            ],
+            [
+              72.8888,
+              19.074050000000003
+            ],
+            [
+              72.8888,
+              19.073900000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00011",
+        "RoofAreaSquareMeters": 354.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8639,
+              19.0778
+            ],
+            [
+              72.86405,
+              19.0778
+            ],
+            [
+              72.86405,
+              19.07795
+            ],
+            [
+              72.8639,
+              19.07795
+            ],
+            [
+              72.8639,
+              19.0778
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00012",
+        "RoofAreaSquareMeters": 383.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.869,
+              19.0817
+            ],
+            [
+              72.86915,
+              19.0817
+            ],
+            [
+              72.86915,
+              19.081850000000003
+            ],
+            [
+              72.869,
+              19.081850000000003
+            ],
+            [
+              72.869,
+              19.0817
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00013",
+        "RoofAreaSquareMeters": 412.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8741,
+              19.0856
+            ],
+            [
+              72.87425,
+              19.0856
+            ],
+            [
+              72.87425,
+              19.08575
+            ],
+            [
+              72.8741,
+              19.08575
+            ],
+            [
+              72.8741,
+              19.0856
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00014",
+        "RoofAreaSquareMeters": 441.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8792,
+              19.0895
+            ],
+            [
+              72.87935,
+              19.0895
+            ],
+            [
+              72.87935,
+              19.089650000000002
+            ],
+            [
+              72.8792,
+              19.089650000000002
+            ],
+            [
+              72.8792,
+              19.0895
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00015",
+        "RoofAreaSquareMeters": 470.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.88430000000001,
+              19.0634
+            ],
+            [
+              72.88445000000002,
+              19.0634
+            ],
+            [
+              72.88445000000002,
+              19.063550000000003
+            ],
+            [
+              72.88430000000001,
+              19.063550000000003
+            ],
+            [
+              72.88430000000001,
+              19.0634
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00016",
+        "RoofAreaSquareMeters": 499.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.88940000000001,
+              19.0673
+            ],
+            [
+              72.88955000000001,
+              19.0673
+            ],
+            [
+              72.88955000000001,
+              19.06745
+            ],
+            [
+              72.88940000000001,
+              19.06745
+            ],
+            [
+              72.88940000000001,
+              19.0673
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00017",
+        "RoofAreaSquareMeters": 528.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8645,
+              19.0712
+            ],
+            [
+              72.86465000000001,
+              19.0712
+            ],
+            [
+              72.86465000000001,
+              19.071350000000002
+            ],
+            [
+              72.8645,
+              19.071350000000002
+            ],
+            [
+              72.8645,
+              19.0712
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00018",
+        "RoofAreaSquareMeters": 557.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8696,
+              19.0751
+            ],
+            [
+              72.86975000000001,
+              19.0751
+            ],
+            [
+              72.86975000000001,
+              19.07525
+            ],
+            [
+              72.8696,
+              19.07525
+            ],
+            [
+              72.8696,
+              19.0751
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00019",
+        "RoofAreaSquareMeters": 36.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8747,
+              19.079
+            ],
+            [
+              72.87485000000001,
+              19.079
+            ],
+            [
+              72.87485000000001,
+              19.079150000000002
+            ],
+            [
+              72.8747,
+              19.079150000000002
+            ],
+            [
+              72.8747,
+              19.079
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00020",
+        "RoofAreaSquareMeters": 65.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8798,
+              19.082900000000002
+            ],
+            [
+              72.87995000000001,
+              19.082900000000002
+            ],
+            [
+              72.87995000000001,
+              19.083050000000004
+            ],
+            [
+              72.8798,
+              19.083050000000004
+            ],
+            [
+              72.8798,
+              19.082900000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00021",
+        "RoofAreaSquareMeters": 94.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8849,
+              19.0868
+            ],
+            [
+              72.88505,
+              19.0868
+            ],
+            [
+              72.88505,
+              19.08695
+            ],
+            [
+              72.8849,
+              19.08695
+            ],
+            [
+              72.8849,
+              19.0868
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00022",
+        "RoofAreaSquareMeters": 123.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.89,
+              19.090700000000002
+            ],
+            [
+              72.89015,
+              19.090700000000002
+            ],
+            [
+              72.89015,
+              19.090850000000003
+            ],
+            [
+              72.89,
+              19.090850000000003
+            ],
+            [
+              72.89,
+              19.090700000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00023",
+        "RoofAreaSquareMeters": 152.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8651,
+              19.064600000000002
+            ],
+            [
+              72.86525,
+              19.064600000000002
+            ],
+            [
+              72.86525,
+              19.064750000000004
+            ],
+            [
+              72.8651,
+              19.064750000000004
+            ],
+            [
+              72.8651,
+              19.064600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00024",
+        "RoofAreaSquareMeters": 181.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.87020000000001,
+              19.0685
+            ],
+            [
+              72.87035000000002,
+              19.0685
+            ],
+            [
+              72.87035000000002,
+              19.06865
+            ],
+            [
+              72.87020000000001,
+              19.06865
+            ],
+            [
+              72.87020000000001,
+              19.0685
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00025",
+        "RoofAreaSquareMeters": 210.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.87530000000001,
+              19.072400000000002
+            ],
+            [
+              72.87545000000001,
+              19.072400000000002
+            ],
+            [
+              72.87545000000001,
+              19.072550000000003
+            ],
+            [
+              72.87530000000001,
+              19.072550000000003
+            ],
+            [
+              72.87530000000001,
+              19.072400000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00026",
+        "RoofAreaSquareMeters": 239.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.88040000000001,
+              19.0763
+            ],
+            [
+              72.88055000000001,
+              19.0763
+            ],
+            [
+              72.88055000000001,
+              19.07645
+            ],
+            [
+              72.88040000000001,
+              19.07645
+            ],
+            [
+              72.88040000000001,
+              19.0763
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00027",
+        "RoofAreaSquareMeters": 268.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.88550000000001,
+              19.0802
+            ],
+            [
+              72.88565000000001,
+              19.0802
+            ],
+            [
+              72.88565000000001,
+              19.080350000000003
+            ],
+            [
+              72.88550000000001,
+              19.080350000000003
+            ],
+            [
+              72.88550000000001,
+              19.0802
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00028",
+        "RoofAreaSquareMeters": 297.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8906,
+              19.0841
+            ],
+            [
+              72.89075000000001,
+              19.0841
+            ],
+            [
+              72.89075000000001,
+              19.08425
+            ],
+            [
+              72.8906,
+              19.08425
+            ],
+            [
+              72.8906,
+              19.0841
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00029",
+        "RoofAreaSquareMeters": 326.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8657,
+              19.088
+            ],
+            [
+              72.86585000000001,
+              19.088
+            ],
+            [
+              72.86585000000001,
+              19.088150000000002
+            ],
+            [
+              72.8657,
+              19.088150000000002
+            ],
+            [
+              72.8657,
+              19.088
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00030",
+        "RoofAreaSquareMeters": 355.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8708,
+              19.0619
+            ],
+            [
+              72.87095000000001,
+              19.0619
+            ],
+            [
+              72.87095000000001,
+              19.062050000000003
+            ],
+            [
+              72.8708,
+              19.062050000000003
+            ],
+            [
+              72.8708,
+              19.0619
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00031",
+        "RoofAreaSquareMeters": 384.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8759,
+              19.0658
+            ],
+            [
+              72.87605,
+              19.0658
+            ],
+            [
+              72.87605,
+              19.06595
+            ],
+            [
+              72.8759,
+              19.06595
+            ],
+            [
+              72.8759,
+              19.0658
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00032",
+        "RoofAreaSquareMeters": 413.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.881,
+              19.0697
+            ],
+            [
+              72.88115,
+              19.0697
+            ],
+            [
+              72.88115,
+              19.069850000000002
+            ],
+            [
+              72.881,
+              19.069850000000002
+            ],
+            [
+              72.881,
+              19.0697
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00033",
+        "RoofAreaSquareMeters": 442.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8861,
+              19.0736
+            ],
+            [
+              72.88625,
+              19.0736
+            ],
+            [
+              72.88625,
+              19.07375
+            ],
+            [
+              72.8861,
+              19.07375
+            ],
+            [
+              72.8861,
+              19.0736
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00034",
+        "RoofAreaSquareMeters": 471.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8912,
+              19.0775
+            ],
+            [
+              72.89135,
+              19.0775
+            ],
+            [
+              72.89135,
+              19.077650000000002
+            ],
+            [
+              72.8912,
+              19.077650000000002
+            ],
+            [
+              72.8912,
+              19.0775
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00035",
+        "RoofAreaSquareMeters": 500.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.86630000000001,
+              19.081400000000002
+            ],
+            [
+              72.86645000000001,
+              19.081400000000002
+            ],
+            [
+              72.86645000000001,
+              19.081550000000004
+            ],
+            [
+              72.86630000000001,
+              19.081550000000004
+            ],
+            [
+              72.86630000000001,
+              19.081400000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00036",
+        "RoofAreaSquareMeters": 529.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.87140000000001,
+              19.0853
+            ],
+            [
+              72.87155000000001,
+              19.0853
+            ],
+            [
+              72.87155000000001,
+              19.08545
+            ],
+            [
+              72.87140000000001,
+              19.08545
+            ],
+            [
+              72.87140000000001,
+              19.0853
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00037",
+        "RoofAreaSquareMeters": 558.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.87650000000001,
+              19.0892
+            ],
+            [
+              72.87665000000001,
+              19.0892
+            ],
+            [
+              72.87665000000001,
+              19.089350000000003
+            ],
+            [
+              72.87650000000001,
+              19.089350000000003
+            ],
+            [
+              72.87650000000001,
+              19.0892
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00038",
+        "RoofAreaSquareMeters": 37.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8816,
+              19.063100000000002
+            ],
+            [
+              72.88175000000001,
+              19.063100000000002
+            ],
+            [
+              72.88175000000001,
+              19.063250000000004
+            ],
+            [
+              72.8816,
+              19.063250000000004
+            ],
+            [
+              72.8816,
+              19.063100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00039",
+        "RoofAreaSquareMeters": 66.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8867,
+              19.067
+            ],
+            [
+              72.88685000000001,
+              19.067
+            ],
+            [
+              72.88685000000001,
+              19.06715
+            ],
+            [
+              72.8867,
+              19.06715
+            ],
+            [
+              72.8867,
+              19.067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00040",
+        "RoofAreaSquareMeters": 95.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8918,
+              19.0709
+            ],
+            [
+              72.89195000000001,
+              19.0709
+            ],
+            [
+              72.89195000000001,
+              19.071050000000003
+            ],
+            [
+              72.8918,
+              19.071050000000003
+            ],
+            [
+              72.8918,
+              19.0709
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00041",
+        "RoofAreaSquareMeters": 124.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8669,
+              19.0748
+            ],
+            [
+              72.86705,
+              19.0748
+            ],
+            [
+              72.86705,
+              19.07495
+            ],
+            [
+              72.8669,
+              19.07495
+            ],
+            [
+              72.8669,
+              19.0748
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00042",
+        "RoofAreaSquareMeters": 153.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.872,
+              19.0787
+            ],
+            [
+              72.87215,
+              19.0787
+            ],
+            [
+              72.87215,
+              19.078850000000003
+            ],
+            [
+              72.872,
+              19.078850000000003
+            ],
+            [
+              72.872,
+              19.0787
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00043",
+        "RoofAreaSquareMeters": 182.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8771,
+              19.0826
+            ],
+            [
+              72.87725,
+              19.0826
+            ],
+            [
+              72.87725,
+              19.08275
+            ],
+            [
+              72.8771,
+              19.08275
+            ],
+            [
+              72.8771,
+              19.0826
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00044",
+        "RoofAreaSquareMeters": 211.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8822,
+              19.0865
+            ],
+            [
+              72.88235,
+              19.0865
+            ],
+            [
+              72.88235,
+              19.086650000000002
+            ],
+            [
+              72.8822,
+              19.086650000000002
+            ],
+            [
+              72.8822,
+              19.0865
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00045",
+        "RoofAreaSquareMeters": 240.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.88730000000001,
+              19.0904
+            ],
+            [
+              72.88745000000002,
+              19.0904
+            ],
+            [
+              72.88745000000002,
+              19.09055
+            ],
+            [
+              72.88730000000001,
+              19.09055
+            ],
+            [
+              72.88730000000001,
+              19.0904
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00046",
+        "RoofAreaSquareMeters": 269.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.89240000000001,
+              19.0643
+            ],
+            [
+              72.89255000000001,
+              19.0643
+            ],
+            [
+              72.89255000000001,
+              19.06445
+            ],
+            [
+              72.89240000000001,
+              19.06445
+            ],
+            [
+              72.89240000000001,
+              19.0643
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00047",
+        "RoofAreaSquareMeters": 298.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8675,
+              19.0682
+            ],
+            [
+              72.86765000000001,
+              19.0682
+            ],
+            [
+              72.86765000000001,
+              19.068350000000002
+            ],
+            [
+              72.8675,
+              19.068350000000002
+            ],
+            [
+              72.8675,
+              19.0682
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00048",
+        "RoofAreaSquareMeters": 327.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8726,
+              19.0721
+            ],
+            [
+              72.87275000000001,
+              19.0721
+            ],
+            [
+              72.87275000000001,
+              19.07225
+            ],
+            [
+              72.8726,
+              19.07225
+            ],
+            [
+              72.8726,
+              19.0721
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00049",
+        "RoofAreaSquareMeters": 356.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8777,
+              19.076
+            ],
+            [
+              72.87785000000001,
+              19.076
+            ],
+            [
+              72.87785000000001,
+              19.076150000000002
+            ],
+            [
+              72.8777,
+              19.076150000000002
+            ],
+            [
+              72.8777,
+              19.076
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00050",
+        "RoofAreaSquareMeters": 385.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8828,
+              19.079900000000002
+            ],
+            [
+              72.88295000000001,
+              19.079900000000002
+            ],
+            [
+              72.88295000000001,
+              19.080050000000004
+            ],
+            [
+              72.8828,
+              19.080050000000004
+            ],
+            [
+              72.8828,
+              19.079900000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00051",
+        "RoofAreaSquareMeters": 414.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8879,
+              19.0838
+            ],
+            [
+              72.88805,
+              19.0838
+            ],
+            [
+              72.88805,
+              19.08395
+            ],
+            [
+              72.8879,
+              19.08395
+            ],
+            [
+              72.8879,
+              19.0838
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00052",
+        "RoofAreaSquareMeters": 443.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.863,
+              19.0877
+            ],
+            [
+              72.86315,
+              19.0877
+            ],
+            [
+              72.86315,
+              19.087850000000003
+            ],
+            [
+              72.863,
+              19.087850000000003
+            ],
+            [
+              72.863,
+              19.0877
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00053",
+        "RoofAreaSquareMeters": 472.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8681,
+              19.061600000000002
+            ],
+            [
+              72.86825,
+              19.061600000000002
+            ],
+            [
+              72.86825,
+              19.061750000000004
+            ],
+            [
+              72.8681,
+              19.061750000000004
+            ],
+            [
+              72.8681,
+              19.061600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00054",
+        "RoofAreaSquareMeters": 501.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.87320000000001,
+              19.0655
+            ],
+            [
+              72.87335000000002,
+              19.0655
+            ],
+            [
+              72.87335000000002,
+              19.06565
+            ],
+            [
+              72.87320000000001,
+              19.06565
+            ],
+            [
+              72.87320000000001,
+              19.0655
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00055",
+        "RoofAreaSquareMeters": 530.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.87830000000001,
+              19.0694
+            ],
+            [
+              72.87845000000002,
+              19.0694
+            ],
+            [
+              72.87845000000002,
+              19.069550000000003
+            ],
+            [
+              72.87830000000001,
+              19.069550000000003
+            ],
+            [
+              72.87830000000001,
+              19.0694
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00056",
+        "RoofAreaSquareMeters": 559.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.88340000000001,
+              19.0733
+            ],
+            [
+              72.88355000000001,
+              19.0733
+            ],
+            [
+              72.88355000000001,
+              19.07345
+            ],
+            [
+              72.88340000000001,
+              19.07345
+            ],
+            [
+              72.88340000000001,
+              19.0733
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00057",
+        "RoofAreaSquareMeters": 38.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.88850000000001,
+              19.0772
+            ],
+            [
+              72.88865000000001,
+              19.0772
+            ],
+            [
+              72.88865000000001,
+              19.077350000000003
+            ],
+            [
+              72.88850000000001,
+              19.077350000000003
+            ],
+            [
+              72.88850000000001,
+              19.0772
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00058",
+        "RoofAreaSquareMeters": 67.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8636,
+              19.0811
+            ],
+            [
+              72.86375000000001,
+              19.0811
+            ],
+            [
+              72.86375000000001,
+              19.08125
+            ],
+            [
+              72.8636,
+              19.08125
+            ],
+            [
+              72.8636,
+              19.0811
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00059",
+        "RoofAreaSquareMeters": 96.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8687,
+              19.085
+            ],
+            [
+              72.86885000000001,
+              19.085
+            ],
+            [
+              72.86885000000001,
+              19.085150000000002
+            ],
+            [
+              72.8687,
+              19.085150000000002
+            ],
+            [
+              72.8687,
+              19.085
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00060",
+        "RoofAreaSquareMeters": 125.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8738,
+              19.0889
+            ],
+            [
+              72.87395000000001,
+              19.0889
+            ],
+            [
+              72.87395000000001,
+              19.08905
+            ],
+            [
+              72.8738,
+              19.08905
+            ],
+            [
+              72.8738,
+              19.0889
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00061",
+        "RoofAreaSquareMeters": 154.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8789,
+              19.0628
+            ],
+            [
+              72.87905,
+              19.0628
+            ],
+            [
+              72.87905,
+              19.06295
+            ],
+            [
+              72.8789,
+              19.06295
+            ],
+            [
+              72.8789,
+              19.0628
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00062",
+        "RoofAreaSquareMeters": 183.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.884,
+              19.0667
+            ],
+            [
+              72.88415,
+              19.0667
+            ],
+            [
+              72.88415,
+              19.066850000000002
+            ],
+            [
+              72.884,
+              19.066850000000002
+            ],
+            [
+              72.884,
+              19.0667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00063",
+        "RoofAreaSquareMeters": 212.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8891,
+              19.0706
+            ],
+            [
+              72.88925,
+              19.0706
+            ],
+            [
+              72.88925,
+              19.07075
+            ],
+            [
+              72.8891,
+              19.07075
+            ],
+            [
+              72.8891,
+              19.0706
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00064",
+        "RoofAreaSquareMeters": 241.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.86420000000001,
+              19.0745
+            ],
+            [
+              72.86435000000002,
+              19.0745
+            ],
+            [
+              72.86435000000002,
+              19.074650000000002
+            ],
+            [
+              72.86420000000001,
+              19.074650000000002
+            ],
+            [
+              72.86420000000001,
+              19.0745
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00065",
+        "RoofAreaSquareMeters": 270.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.86930000000001,
+              19.078400000000002
+            ],
+            [
+              72.86945000000001,
+              19.078400000000002
+            ],
+            [
+              72.86945000000001,
+              19.078550000000003
+            ],
+            [
+              72.86930000000001,
+              19.078550000000003
+            ],
+            [
+              72.86930000000001,
+              19.078400000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00066",
+        "RoofAreaSquareMeters": 299.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.87440000000001,
+              19.0823
+            ],
+            [
+              72.87455000000001,
+              19.0823
+            ],
+            [
+              72.87455000000001,
+              19.08245
+            ],
+            [
+              72.87440000000001,
+              19.08245
+            ],
+            [
+              72.87440000000001,
+              19.0823
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00067",
+        "RoofAreaSquareMeters": 328.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.87950000000001,
+              19.0862
+            ],
+            [
+              72.87965000000001,
+              19.0862
+            ],
+            [
+              72.87965000000001,
+              19.086350000000003
+            ],
+            [
+              72.87950000000001,
+              19.086350000000003
+            ],
+            [
+              72.87950000000001,
+              19.0862
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00068",
+        "RoofAreaSquareMeters": 357.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8846,
+              19.0901
+            ],
+            [
+              72.88475000000001,
+              19.0901
+            ],
+            [
+              72.88475000000001,
+              19.09025
+            ],
+            [
+              72.8846,
+              19.09025
+            ],
+            [
+              72.8846,
+              19.0901
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00069",
+        "RoofAreaSquareMeters": 386.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8897,
+              19.064
+            ],
+            [
+              72.88985000000001,
+              19.064
+            ],
+            [
+              72.88985000000001,
+              19.06415
+            ],
+            [
+              72.8897,
+              19.06415
+            ],
+            [
+              72.8897,
+              19.064
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00070",
+        "RoofAreaSquareMeters": 415.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8648,
+              19.0679
+            ],
+            [
+              72.86495000000001,
+              19.0679
+            ],
+            [
+              72.86495000000001,
+              19.068050000000003
+            ],
+            [
+              72.8648,
+              19.068050000000003
+            ],
+            [
+              72.8648,
+              19.0679
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00071",
+        "RoofAreaSquareMeters": 444.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8699,
+              19.0718
+            ],
+            [
+              72.87005,
+              19.0718
+            ],
+            [
+              72.87005,
+              19.07195
+            ],
+            [
+              72.8699,
+              19.07195
+            ],
+            [
+              72.8699,
+              19.0718
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00072",
+        "RoofAreaSquareMeters": 473.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.875,
+              19.0757
+            ],
+            [
+              72.87515,
+              19.0757
+            ],
+            [
+              72.87515,
+              19.075850000000003
+            ],
+            [
+              72.875,
+              19.075850000000003
+            ],
+            [
+              72.875,
+              19.0757
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00073",
+        "RoofAreaSquareMeters": 502.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8801,
+              19.0796
+            ],
+            [
+              72.88025,
+              19.0796
+            ],
+            [
+              72.88025,
+              19.07975
+            ],
+            [
+              72.8801,
+              19.07975
+            ],
+            [
+              72.8801,
+              19.0796
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00074",
+        "RoofAreaSquareMeters": 531.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8852,
+              19.0835
+            ],
+            [
+              72.88535,
+              19.0835
+            ],
+            [
+              72.88535,
+              19.083650000000002
+            ],
+            [
+              72.8852,
+              19.083650000000002
+            ],
+            [
+              72.8852,
+              19.0835
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00075",
+        "RoofAreaSquareMeters": 560.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.89030000000001,
+              19.0874
+            ],
+            [
+              72.89045000000002,
+              19.0874
+            ],
+            [
+              72.89045000000002,
+              19.08755
+            ],
+            [
+              72.89030000000001,
+              19.08755
+            ],
+            [
+              72.89030000000001,
+              19.0874
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00076",
+        "RoofAreaSquareMeters": 39.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.86540000000001,
+              19.0613
+            ],
+            [
+              72.86555000000001,
+              19.0613
+            ],
+            [
+              72.86555000000001,
+              19.06145
+            ],
+            [
+              72.86540000000001,
+              19.06145
+            ],
+            [
+              72.86540000000001,
+              19.0613
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00077",
+        "RoofAreaSquareMeters": 68.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8705,
+              19.0652
+            ],
+            [
+              72.87065000000001,
+              19.0652
+            ],
+            [
+              72.87065000000001,
+              19.065350000000002
+            ],
+            [
+              72.8705,
+              19.065350000000002
+            ],
+            [
+              72.8705,
+              19.0652
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00078",
+        "RoofAreaSquareMeters": 97.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8756,
+              19.0691
+            ],
+            [
+              72.87575000000001,
+              19.0691
+            ],
+            [
+              72.87575000000001,
+              19.06925
+            ],
+            [
+              72.8756,
+              19.06925
+            ],
+            [
+              72.8756,
+              19.0691
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00079",
+        "RoofAreaSquareMeters": 126.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8807,
+              19.073
+            ],
+            [
+              72.88085000000001,
+              19.073
+            ],
+            [
+              72.88085000000001,
+              19.073150000000002
+            ],
+            [
+              72.8807,
+              19.073150000000002
+            ],
+            [
+              72.8807,
+              19.073
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00080",
+        "RoofAreaSquareMeters": 155.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8858,
+              19.076900000000002
+            ],
+            [
+              72.88595000000001,
+              19.076900000000002
+            ],
+            [
+              72.88595000000001,
+              19.077050000000003
+            ],
+            [
+              72.8858,
+              19.077050000000003
+            ],
+            [
+              72.8858,
+              19.076900000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00081",
+        "RoofAreaSquareMeters": 184.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8909,
+              19.0808
+            ],
+            [
+              72.89105,
+              19.0808
+            ],
+            [
+              72.89105,
+              19.08095
+            ],
+            [
+              72.8909,
+              19.08095
+            ],
+            [
+              72.8909,
+              19.0808
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00082",
+        "RoofAreaSquareMeters": 213.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.866,
+              19.0847
+            ],
+            [
+              72.86615,
+              19.0847
+            ],
+            [
+              72.86615,
+              19.084850000000003
+            ],
+            [
+              72.866,
+              19.084850000000003
+            ],
+            [
+              72.866,
+              19.0847
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00083",
+        "RoofAreaSquareMeters": 242.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8711,
+              19.0886
+            ],
+            [
+              72.87125,
+              19.0886
+            ],
+            [
+              72.87125,
+              19.08875
+            ],
+            [
+              72.8711,
+              19.08875
+            ],
+            [
+              72.8711,
+              19.0886
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00084",
+        "RoofAreaSquareMeters": 271.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.87620000000001,
+              19.0625
+            ],
+            [
+              72.87635000000002,
+              19.0625
+            ],
+            [
+              72.87635000000002,
+              19.06265
+            ],
+            [
+              72.87620000000001,
+              19.06265
+            ],
+            [
+              72.87620000000001,
+              19.0625
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00085",
+        "RoofAreaSquareMeters": 300.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.88130000000001,
+              19.0664
+            ],
+            [
+              72.88145000000002,
+              19.0664
+            ],
+            [
+              72.88145000000002,
+              19.066550000000003
+            ],
+            [
+              72.88130000000001,
+              19.066550000000003
+            ],
+            [
+              72.88130000000001,
+              19.0664
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00086",
+        "RoofAreaSquareMeters": 329.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.88640000000001,
+              19.0703
+            ],
+            [
+              72.88655000000001,
+              19.0703
+            ],
+            [
+              72.88655000000001,
+              19.07045
+            ],
+            [
+              72.88640000000001,
+              19.07045
+            ],
+            [
+              72.88640000000001,
+              19.0703
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00087",
+        "RoofAreaSquareMeters": 358.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.89150000000001,
+              19.0742
+            ],
+            [
+              72.89165000000001,
+              19.0742
+            ],
+            [
+              72.89165000000001,
+              19.074350000000003
+            ],
+            [
+              72.89150000000001,
+              19.074350000000003
+            ],
+            [
+              72.89150000000001,
+              19.0742
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00088",
+        "RoofAreaSquareMeters": 387.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8666,
+              19.0781
+            ],
+            [
+              72.86675000000001,
+              19.0781
+            ],
+            [
+              72.86675000000001,
+              19.07825
+            ],
+            [
+              72.8666,
+              19.07825
+            ],
+            [
+              72.8666,
+              19.0781
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00089",
+        "RoofAreaSquareMeters": 416.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8717,
+              19.082
+            ],
+            [
+              72.87185000000001,
+              19.082
+            ],
+            [
+              72.87185000000001,
+              19.082150000000002
+            ],
+            [
+              72.8717,
+              19.082150000000002
+            ],
+            [
+              72.8717,
+              19.082
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00090",
+        "RoofAreaSquareMeters": 445.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8768,
+              19.0859
+            ],
+            [
+              72.87695000000001,
+              19.0859
+            ],
+            [
+              72.87695000000001,
+              19.08605
+            ],
+            [
+              72.8768,
+              19.08605
+            ],
+            [
+              72.8768,
+              19.0859
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00091",
+        "RoofAreaSquareMeters": 474.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8819,
+              19.0898
+            ],
+            [
+              72.88205,
+              19.0898
+            ],
+            [
+              72.88205,
+              19.08995
+            ],
+            [
+              72.8819,
+              19.08995
+            ],
+            [
+              72.8819,
+              19.0898
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00092",
+        "RoofAreaSquareMeters": 503.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.887,
+              19.0637
+            ],
+            [
+              72.88715,
+              19.0637
+            ],
+            [
+              72.88715,
+              19.063850000000002
+            ],
+            [
+              72.887,
+              19.063850000000002
+            ],
+            [
+              72.887,
+              19.0637
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00093",
+        "RoofAreaSquareMeters": 532.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8921,
+              19.0676
+            ],
+            [
+              72.89225,
+              19.0676
+            ],
+            [
+              72.89225,
+              19.06775
+            ],
+            [
+              72.8921,
+              19.06775
+            ],
+            [
+              72.8921,
+              19.0676
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00094",
+        "RoofAreaSquareMeters": 561.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.86720000000001,
+              19.0715
+            ],
+            [
+              72.86735000000002,
+              19.0715
+            ],
+            [
+              72.86735000000002,
+              19.07165
+            ],
+            [
+              72.86720000000001,
+              19.07165
+            ],
+            [
+              72.86720000000001,
+              19.0715
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00095",
+        "RoofAreaSquareMeters": 40.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.87230000000001,
+              19.075400000000002
+            ],
+            [
+              72.87245000000001,
+              19.075400000000002
+            ],
+            [
+              72.87245000000001,
+              19.075550000000003
+            ],
+            [
+              72.87230000000001,
+              19.075550000000003
+            ],
+            [
+              72.87230000000001,
+              19.075400000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00096",
+        "RoofAreaSquareMeters": 69.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.87740000000001,
+              19.0793
+            ],
+            [
+              72.87755000000001,
+              19.0793
+            ],
+            [
+              72.87755000000001,
+              19.07945
+            ],
+            [
+              72.87740000000001,
+              19.07945
+            ],
+            [
+              72.87740000000001,
+              19.0793
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00097",
+        "RoofAreaSquareMeters": 98.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.88250000000001,
+              19.0832
+            ],
+            [
+              72.88265000000001,
+              19.0832
+            ],
+            [
+              72.88265000000001,
+              19.083350000000003
+            ],
+            [
+              72.88250000000001,
+              19.083350000000003
+            ],
+            [
+              72.88250000000001,
+              19.0832
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00098",
+        "RoofAreaSquareMeters": 127.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8876,
+              19.0871
+            ],
+            [
+              72.88775000000001,
+              19.0871
+            ],
+            [
+              72.88775000000001,
+              19.08725
+            ],
+            [
+              72.8876,
+              19.08725
+            ],
+            [
+              72.8876,
+              19.0871
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00099",
+        "RoofAreaSquareMeters": 156.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8627,
+              19.061
+            ],
+            [
+              72.86285000000001,
+              19.061
+            ],
+            [
+              72.86285000000001,
+              19.06115
+            ],
+            [
+              72.8627,
+              19.06115
+            ],
+            [
+              72.8627,
+              19.061
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00100",
+        "RoofAreaSquareMeters": 185.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8678,
+              19.0649
+            ],
+            [
+              72.86795000000001,
+              19.0649
+            ],
+            [
+              72.86795000000001,
+              19.065050000000003
+            ],
+            [
+              72.8678,
+              19.065050000000003
+            ],
+            [
+              72.8678,
+              19.0649
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00101",
+        "RoofAreaSquareMeters": 214.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8729,
+              19.0688
+            ],
+            [
+              72.87305,
+              19.0688
+            ],
+            [
+              72.87305,
+              19.06895
+            ],
+            [
+              72.8729,
+              19.06895
+            ],
+            [
+              72.8729,
+              19.0688
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00102",
+        "RoofAreaSquareMeters": 243.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.878,
+              19.0727
+            ],
+            [
+              72.87815,
+              19.0727
+            ],
+            [
+              72.87815,
+              19.072850000000003
+            ],
+            [
+              72.878,
+              19.072850000000003
+            ],
+            [
+              72.878,
+              19.0727
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00103",
+        "RoofAreaSquareMeters": 272.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8831,
+              19.0766
+            ],
+            [
+              72.88325,
+              19.0766
+            ],
+            [
+              72.88325,
+              19.07675
+            ],
+            [
+              72.8831,
+              19.07675
+            ],
+            [
+              72.8831,
+              19.0766
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00104",
+        "RoofAreaSquareMeters": 301.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8882,
+              19.0805
+            ],
+            [
+              72.88835,
+              19.0805
+            ],
+            [
+              72.88835,
+              19.080650000000002
+            ],
+            [
+              72.8882,
+              19.080650000000002
+            ],
+            [
+              72.8882,
+              19.0805
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00105",
+        "RoofAreaSquareMeters": 330.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.86330000000001,
+              19.084400000000002
+            ],
+            [
+              72.86345000000001,
+              19.084400000000002
+            ],
+            [
+              72.86345000000001,
+              19.084550000000004
+            ],
+            [
+              72.86330000000001,
+              19.084550000000004
+            ],
+            [
+              72.86330000000001,
+              19.084400000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00106",
+        "RoofAreaSquareMeters": 359.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.86840000000001,
+              19.0883
+            ],
+            [
+              72.86855000000001,
+              19.0883
+            ],
+            [
+              72.86855000000001,
+              19.08845
+            ],
+            [
+              72.86840000000001,
+              19.08845
+            ],
+            [
+              72.86840000000001,
+              19.0883
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00107",
+        "RoofAreaSquareMeters": 388.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8735,
+              19.0622
+            ],
+            [
+              72.87365000000001,
+              19.0622
+            ],
+            [
+              72.87365000000001,
+              19.062350000000002
+            ],
+            [
+              72.8735,
+              19.062350000000002
+            ],
+            [
+              72.8735,
+              19.0622
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00108",
+        "RoofAreaSquareMeters": 417.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8786,
+              19.066100000000002
+            ],
+            [
+              72.87875000000001,
+              19.066100000000002
+            ],
+            [
+              72.87875000000001,
+              19.066250000000004
+            ],
+            [
+              72.8786,
+              19.066250000000004
+            ],
+            [
+              72.8786,
+              19.066100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00109",
+        "RoofAreaSquareMeters": 446.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8837,
+              19.07
+            ],
+            [
+              72.88385000000001,
+              19.07
+            ],
+            [
+              72.88385000000001,
+              19.07015
+            ],
+            [
+              72.8837,
+              19.07015
+            ],
+            [
+              72.8837,
+              19.07
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00110",
+        "RoofAreaSquareMeters": 475.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8888,
+              19.073900000000002
+            ],
+            [
+              72.88895000000001,
+              19.073900000000002
+            ],
+            [
+              72.88895000000001,
+              19.074050000000003
+            ],
+            [
+              72.8888,
+              19.074050000000003
+            ],
+            [
+              72.8888,
+              19.073900000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00111",
+        "RoofAreaSquareMeters": 504.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8639,
+              19.0778
+            ],
+            [
+              72.86405,
+              19.0778
+            ],
+            [
+              72.86405,
+              19.07795
+            ],
+            [
+              72.8639,
+              19.07795
+            ],
+            [
+              72.8639,
+              19.0778
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00112",
+        "RoofAreaSquareMeters": 533.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.869,
+              19.0817
+            ],
+            [
+              72.86915,
+              19.0817
+            ],
+            [
+              72.86915,
+              19.081850000000003
+            ],
+            [
+              72.869,
+              19.081850000000003
+            ],
+            [
+              72.869,
+              19.0817
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00113",
+        "RoofAreaSquareMeters": 562.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8741,
+              19.0856
+            ],
+            [
+              72.87425,
+              19.0856
+            ],
+            [
+              72.87425,
+              19.08575
+            ],
+            [
+              72.8741,
+              19.08575
+            ],
+            [
+              72.8741,
+              19.0856
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00114",
+        "RoofAreaSquareMeters": 41.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8792,
+              19.0895
+            ],
+            [
+              72.87935,
+              19.0895
+            ],
+            [
+              72.87935,
+              19.089650000000002
+            ],
+            [
+              72.8792,
+              19.089650000000002
+            ],
+            [
+              72.8792,
+              19.0895
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00115",
+        "RoofAreaSquareMeters": 70.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.88430000000001,
+              19.0634
+            ],
+            [
+              72.88445000000002,
+              19.0634
+            ],
+            [
+              72.88445000000002,
+              19.063550000000003
+            ],
+            [
+              72.88430000000001,
+              19.063550000000003
+            ],
+            [
+              72.88430000000001,
+              19.0634
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00116",
+        "RoofAreaSquareMeters": 99.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.88940000000001,
+              19.0673
+            ],
+            [
+              72.88955000000001,
+              19.0673
+            ],
+            [
+              72.88955000000001,
+              19.06745
+            ],
+            [
+              72.88940000000001,
+              19.06745
+            ],
+            [
+              72.88940000000001,
+              19.0673
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00117",
+        "RoofAreaSquareMeters": 128.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8645,
+              19.0712
+            ],
+            [
+              72.86465000000001,
+              19.0712
+            ],
+            [
+              72.86465000000001,
+              19.071350000000002
+            ],
+            [
+              72.8645,
+              19.071350000000002
+            ],
+            [
+              72.8645,
+              19.0712
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00118",
+        "RoofAreaSquareMeters": 157.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8696,
+              19.0751
+            ],
+            [
+              72.86975000000001,
+              19.0751
+            ],
+            [
+              72.86975000000001,
+              19.07525
+            ],
+            [
+              72.8696,
+              19.07525
+            ],
+            [
+              72.8696,
+              19.0751
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00119",
+        "RoofAreaSquareMeters": 186.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8747,
+              19.079
+            ],
+            [
+              72.87485000000001,
+              19.079
+            ],
+            [
+              72.87485000000001,
+              19.079150000000002
+            ],
+            [
+              72.8747,
+              19.079150000000002
+            ],
+            [
+              72.8747,
+              19.079
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00120",
+        "RoofAreaSquareMeters": 215.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8798,
+              19.082900000000002
+            ],
+            [
+              72.87995000000001,
+              19.082900000000002
+            ],
+            [
+              72.87995000000001,
+              19.083050000000004
+            ],
+            [
+              72.8798,
+              19.083050000000004
+            ],
+            [
+              72.8798,
+              19.082900000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00121",
+        "RoofAreaSquareMeters": 244.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8849,
+              19.0868
+            ],
+            [
+              72.88505,
+              19.0868
+            ],
+            [
+              72.88505,
+              19.08695
+            ],
+            [
+              72.8849,
+              19.08695
+            ],
+            [
+              72.8849,
+              19.0868
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00122",
+        "RoofAreaSquareMeters": 273.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.89,
+              19.090700000000002
+            ],
+            [
+              72.89015,
+              19.090700000000002
+            ],
+            [
+              72.89015,
+              19.090850000000003
+            ],
+            [
+              72.89,
+              19.090850000000003
+            ],
+            [
+              72.89,
+              19.090700000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00123",
+        "RoofAreaSquareMeters": 302.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8651,
+              19.064600000000002
+            ],
+            [
+              72.86525,
+              19.064600000000002
+            ],
+            [
+              72.86525,
+              19.064750000000004
+            ],
+            [
+              72.8651,
+              19.064750000000004
+            ],
+            [
+              72.8651,
+              19.064600000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00124",
+        "RoofAreaSquareMeters": 331.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.87020000000001,
+              19.0685
+            ],
+            [
+              72.87035000000002,
+              19.0685
+            ],
+            [
+              72.87035000000002,
+              19.06865
+            ],
+            [
+              72.87020000000001,
+              19.06865
+            ],
+            [
+              72.87020000000001,
+              19.0685
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00125",
+        "RoofAreaSquareMeters": 360.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.87530000000001,
+              19.072400000000002
+            ],
+            [
+              72.87545000000001,
+              19.072400000000002
+            ],
+            [
+              72.87545000000001,
+              19.072550000000003
+            ],
+            [
+              72.87530000000001,
+              19.072550000000003
+            ],
+            [
+              72.87530000000001,
+              19.072400000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00126",
+        "RoofAreaSquareMeters": 389.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.88040000000001,
+              19.0763
+            ],
+            [
+              72.88055000000001,
+              19.0763
+            ],
+            [
+              72.88055000000001,
+              19.07645
+            ],
+            [
+              72.88040000000001,
+              19.07645
+            ],
+            [
+              72.88040000000001,
+              19.0763
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00127",
+        "RoofAreaSquareMeters": 418.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.88550000000001,
+              19.0802
+            ],
+            [
+              72.88565000000001,
+              19.0802
+            ],
+            [
+              72.88565000000001,
+              19.080350000000003
+            ],
+            [
+              72.88550000000001,
+              19.080350000000003
+            ],
+            [
+              72.88550000000001,
+              19.0802
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00128",
+        "RoofAreaSquareMeters": 447.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8906,
+              19.0841
+            ],
+            [
+              72.89075000000001,
+              19.0841
+            ],
+            [
+              72.89075000000001,
+              19.08425
+            ],
+            [
+              72.8906,
+              19.08425
+            ],
+            [
+              72.8906,
+              19.0841
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00129",
+        "RoofAreaSquareMeters": 476.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8657,
+              19.088
+            ],
+            [
+              72.86585000000001,
+              19.088
+            ],
+            [
+              72.86585000000001,
+              19.088150000000002
+            ],
+            [
+              72.8657,
+              19.088150000000002
+            ],
+            [
+              72.8657,
+              19.088
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00130",
+        "RoofAreaSquareMeters": 505.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8708,
+              19.0619
+            ],
+            [
+              72.87095000000001,
+              19.0619
+            ],
+            [
+              72.87095000000001,
+              19.062050000000003
+            ],
+            [
+              72.8708,
+              19.062050000000003
+            ],
+            [
+              72.8708,
+              19.0619
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00131",
+        "RoofAreaSquareMeters": 534.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8759,
+              19.0658
+            ],
+            [
+              72.87605,
+              19.0658
+            ],
+            [
+              72.87605,
+              19.06595
+            ],
+            [
+              72.8759,
+              19.06595
+            ],
+            [
+              72.8759,
+              19.0658
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00132",
+        "RoofAreaSquareMeters": 563.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.881,
+              19.0697
+            ],
+            [
+              72.88115,
+              19.0697
+            ],
+            [
+              72.88115,
+              19.069850000000002
+            ],
+            [
+              72.881,
+              19.069850000000002
+            ],
+            [
+              72.881,
+              19.0697
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00133",
+        "RoofAreaSquareMeters": 42.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8861,
+              19.0736
+            ],
+            [
+              72.88625,
+              19.0736
+            ],
+            [
+              72.88625,
+              19.07375
+            ],
+            [
+              72.8861,
+              19.07375
+            ],
+            [
+              72.8861,
+              19.0736
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00134",
+        "RoofAreaSquareMeters": 71.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8912,
+              19.0775
+            ],
+            [
+              72.89135,
+              19.0775
+            ],
+            [
+              72.89135,
+              19.077650000000002
+            ],
+            [
+              72.8912,
+              19.077650000000002
+            ],
+            [
+              72.8912,
+              19.0775
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00135",
+        "RoofAreaSquareMeters": 100.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.86630000000001,
+              19.081400000000002
+            ],
+            [
+              72.86645000000001,
+              19.081400000000002
+            ],
+            [
+              72.86645000000001,
+              19.081550000000004
+            ],
+            [
+              72.86630000000001,
+              19.081550000000004
+            ],
+            [
+              72.86630000000001,
+              19.081400000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00136",
+        "RoofAreaSquareMeters": 129.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.87140000000001,
+              19.0853
+            ],
+            [
+              72.87155000000001,
+              19.0853
+            ],
+            [
+              72.87155000000001,
+              19.08545
+            ],
+            [
+              72.87140000000001,
+              19.08545
+            ],
+            [
+              72.87140000000001,
+              19.0853
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00137",
+        "RoofAreaSquareMeters": 158.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.87650000000001,
+              19.0892
+            ],
+            [
+              72.87665000000001,
+              19.0892
+            ],
+            [
+              72.87665000000001,
+              19.089350000000003
+            ],
+            [
+              72.87650000000001,
+              19.089350000000003
+            ],
+            [
+              72.87650000000001,
+              19.0892
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00138",
+        "RoofAreaSquareMeters": 187.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8816,
+              19.063100000000002
+            ],
+            [
+              72.88175000000001,
+              19.063100000000002
+            ],
+            [
+              72.88175000000001,
+              19.063250000000004
+            ],
+            [
+              72.8816,
+              19.063250000000004
+            ],
+            [
+              72.8816,
+              19.063100000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00139",
+        "RoofAreaSquareMeters": 216.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8867,
+              19.067
+            ],
+            [
+              72.88685000000001,
+              19.067
+            ],
+            [
+              72.88685000000001,
+              19.06715
+            ],
+            [
+              72.8867,
+              19.06715
+            ],
+            [
+              72.8867,
+              19.067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00140",
+        "RoofAreaSquareMeters": 245.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8918,
+              19.0709
+            ],
+            [
+              72.89195000000001,
+              19.0709
+            ],
+            [
+              72.89195000000001,
+              19.071050000000003
+            ],
+            [
+              72.8918,
+              19.071050000000003
+            ],
+            [
+              72.8918,
+              19.0709
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00141",
+        "RoofAreaSquareMeters": 274.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8669,
+              19.0748
+            ],
+            [
+              72.86705,
+              19.0748
+            ],
+            [
+              72.86705,
+              19.07495
+            ],
+            [
+              72.8669,
+              19.07495
+            ],
+            [
+              72.8669,
+              19.0748
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00142",
+        "RoofAreaSquareMeters": 303.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.872,
+              19.0787
+            ],
+            [
+              72.87215,
+              19.0787
+            ],
+            [
+              72.87215,
+              19.078850000000003
+            ],
+            [
+              72.872,
+              19.078850000000003
+            ],
+            [
+              72.872,
+              19.0787
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00143",
+        "RoofAreaSquareMeters": 332.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8771,
+              19.0826
+            ],
+            [
+              72.87725,
+              19.0826
+            ],
+            [
+              72.87725,
+              19.08275
+            ],
+            [
+              72.8771,
+              19.08275
+            ],
+            [
+              72.8771,
+              19.0826
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00144",
+        "RoofAreaSquareMeters": 361.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8822,
+              19.0865
+            ],
+            [
+              72.88235,
+              19.0865
+            ],
+            [
+              72.88235,
+              19.086650000000002
+            ],
+            [
+              72.8822,
+              19.086650000000002
+            ],
+            [
+              72.8822,
+              19.0865
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00145",
+        "RoofAreaSquareMeters": 390.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.88730000000001,
+              19.0904
+            ],
+            [
+              72.88745000000002,
+              19.0904
+            ],
+            [
+              72.88745000000002,
+              19.09055
+            ],
+            [
+              72.88730000000001,
+              19.09055
+            ],
+            [
+              72.88730000000001,
+              19.0904
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00146",
+        "RoofAreaSquareMeters": 419.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.89240000000001,
+              19.0643
+            ],
+            [
+              72.89255000000001,
+              19.0643
+            ],
+            [
+              72.89255000000001,
+              19.06445
+            ],
+            [
+              72.89240000000001,
+              19.06445
+            ],
+            [
+              72.89240000000001,
+              19.0643
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00147",
+        "RoofAreaSquareMeters": 448.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8675,
+              19.0682
+            ],
+            [
+              72.86765000000001,
+              19.0682
+            ],
+            [
+              72.86765000000001,
+              19.068350000000002
+            ],
+            [
+              72.8675,
+              19.068350000000002
+            ],
+            [
+              72.8675,
+              19.0682
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00148",
+        "RoofAreaSquareMeters": 477.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8726,
+              19.0721
+            ],
+            [
+              72.87275000000001,
+              19.0721
+            ],
+            [
+              72.87275000000001,
+              19.07225
+            ],
+            [
+              72.8726,
+              19.07225
+            ],
+            [
+              72.8726,
+              19.0721
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00149",
+        "RoofAreaSquareMeters": 506.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8777,
+              19.076
+            ],
+            [
+              72.87785000000001,
+              19.076
+            ],
+            [
+              72.87785000000001,
+              19.076150000000002
+            ],
+            [
+              72.8777,
+              19.076150000000002
+            ],
+            [
+              72.8777,
+              19.076
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_MUM_00150",
+        "RoofAreaSquareMeters": 535.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    }
+  ]
+}

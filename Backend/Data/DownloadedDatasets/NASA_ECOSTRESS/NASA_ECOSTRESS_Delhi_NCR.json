@@ -1,0 +1,85 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "NASA JPL ECOSTRESS Space Station Thermal Radiometer Experiment",
+    "TargetCity": "Delhi NCR",
+    "GeographicBounds": {
+      "MinLon": 77.17,
+      "MinLat": 28.57,
+      "MaxLon": 77.26,
+      "MaxLat": 28.66
+    },
+    "OrbitType": "International Space Station (ISS) Precessing Low Earth Orbit",
+    "SpatialResolutionMeters": 70.0,
+    "ProductType": "ECO2LSTE (Land Surface Temperature & Emissivity) & ECO3ETPTJPL (Evapotranspiration)",
+    "NocturnalOverpassTimestampUTC": "2024-05-19T21:14:08Z (02:44 AM IST Local)",
+    "DaytimeOverpassTimestampUTC": "2024-05-20T08:22:31Z (13:52 PM IST Local)"
+  },
+  "DiurnalThermalOverpasses": [
+    {
+      "PassTimeIST": "02:44 AM (Deep Midnight / Nocturnal Minimum)",
+      "MeanUrbanLSTCelsius": 36.2,
+      "HotspotSlumClustersCelsius": 39.3,
+      "ThermalInversionIndex": 0.82
+    },
+    {
+      "PassTimeIST": "06:15 AM (Dawn Baseline)",
+      "MeanUrbanLSTCelsius": 32.9,
+      "HotspotSlumClustersCelsius": 35.0,
+      "ThermalInversionIndex": 0.45
+    },
+    {
+      "PassTimeIST": "13:52 PM (Peak Solar Insolation)",
+      "MeanUrbanLSTCelsius": 50.1,
+      "HotspotSlumClustersCelsius": 54.3,
+      "ThermalInversionIndex": 0.94
+    },
+    {
+      "PassTimeIST": "21:30 PM (Post-Sunset Heat Trapping)",
+      "MeanUrbanLSTCelsius": 37.8,
+      "HotspotSlumClustersCelsius": 40.5,
+      "ThermalInversionIndex": 0.89
+    }
+  ],
+  "WardDiurnalRetentionMatrix": [
+    {
+      "WardId": "Ward 81 - Sangam Vihar South",
+      "WardName": "Sangam Vihar High Density Resettlement",
+      "MidnightSurfaceTemperatureCelsius": 34.22,
+      "NocturnalHeatRetentionAnomalyCelsius": 0.62,
+      "DiurnalThermalAmplitudeCelsius": 15.88,
+      "EvaporativeStressIndexESI": 0.246,
+      "WaterDeficitIndexWDI": 0.834,
+      "PhysiologicalHeatRecoveryInhibited": true
+    },
+    {
+      "WardId": "Ward 55 - Okhla Phase II",
+      "WardName": "Okhla Industrial & Informal Corridor",
+      "MidnightSurfaceTemperatureCelsius": 34.4,
+      "NocturnalHeatRetentionAnomalyCelsius": 0.8,
+      "DiurnalThermalAmplitudeCelsius": 15.7,
+      "EvaporativeStressIndexESI": 0.265,
+      "WaterDeficitIndexWDI": 0.851,
+      "PhysiologicalHeatRecoveryInhibited": true
+    },
+    {
+      "WardId": "Ward 32 - Seelampur East",
+      "WardName": "Seelampur Trans-Yamuna Cluster",
+      "MidnightSurfaceTemperatureCelsius": 35.18,
+      "NocturnalHeatRetentionAnomalyCelsius": 1.58,
+      "DiurnalThermalAmplitudeCelsius": 14.92,
+      "EvaporativeStressIndexESI": 0.227,
+      "WaterDeficitIndexWDI": 0.838,
+      "PhysiologicalHeatRecoveryInhibited": true
+    },
+    {
+      "WardId": "Ward 14 - Connaught Core",
+      "WardName": "Central Commercial & Institutional",
+      "MidnightSurfaceTemperatureCelsius": 36.67,
+      "NocturnalHeatRetentionAnomalyCelsius": 3.07,
+      "DiurnalThermalAmplitudeCelsius": 13.43,
+      "EvaporativeStressIndexESI": 0.267,
+      "WaterDeficitIndexWDI": 0.834,
+      "PhysiologicalHeatRecoveryInhibited": true
+    }
+  ]
+}

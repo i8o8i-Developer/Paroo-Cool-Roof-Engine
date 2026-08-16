@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PARoo — Satellite Rooftop Heat-Vulnerability Classifier & Cool-Roof Engine</title>
+  
+  <!-- Leaflet Map CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <!-- Leaflet Draw CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.css" />
+  
+  <!-- Custom Styling -->
+  <link rel="stylesheet" href="/Static/Style.css">
+  
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+
+  <!-- ====================================================== -->
+  <!-- TOP APPLICATION HEADER & HUD                           -->
+  <!-- ====================================================== -->
+  <header class="app-header">
+    <div class="brand-section">
+      <div class="brand-logo">
+        <i data-lucide="flame"></i>
+      </div>
+      <div class="brand-title-group">
+        <h1>PARoo Intelligence</h1>
+        <p>Satellite Rooftop Heat Vulnerability & Cool-Roof Engine</p>
+      </div>
+    </div>
+
+    <!-- Live Header Aggregate Metrics -->
+    <div class="header-center-metrics">
+      <div class="stat-pill">
+        <span class="stat-pill-label">Target Municipality</span>
+        <span class="stat-pill-value" id="HeaderCityName">Jaipur</span>
+      </div>
+      <div class="stat-pill">
+        <span class="stat-pill-label">Critical Hazard Roofs</span>
+        <span class="stat-pill-value" id="HeaderCriticalRoofs" style="color: var(--accent-red);">--</span>
+      </div>
+      <div class="stat-pill">
+        <span class="stat-pill-label">Protected Residents</span>
+        <span class="stat-pill-value" id="HeaderProtectedPop" style="color: var(--accent-emerald);">--</span>
+      </div>
+      <div class="stat-pill">
+        <span class="stat-pill-label">Budget Allocated</span>
+        <span class="stat-pill-value" id="HeaderBudgetAllocated">--</span>
+      </div>
+      <div class="stat-pill">
+        <span class="stat-pill-label">Mean Ward KL (LLP)</span>
+        <span class="stat-pill-value" id="HeaderMeanKL" style="color: var(--accent-purple);">--</span>
+      </div>
+    </div>
+
+    <!-- Action Group -->
+    <div class="header-action-group">
+      <select id="CitySelector" class="city-select-dropdown">
+        <option value="Jaipur">Jaipur (Rajasthan)</option>
+        <option value="Ahmedabad">Ahmedabad (Gujarat)</option>
+        <option value="Delhi NCR">Delhi NCR (Capital Region)</option>
+        <option value="Hyderabad">Hyderabad (Telangana)</option>
+        <option value="Nagpur">Nagpur (Vidarbha Core)</option>
+        <option value="Mumbai">Mumbai (Maharashtra)</option>
+        <option value="Surat">Surat (Gujarat)</option>
+        <option value="Bengaluru">Bengaluru (Karnataka)</option>
+      </select>
+
+      <button id="BtnRunPipeline" class="btn-primary">
+        <i data-lucide="play" style="width: 14px; height: 14px;"></i>
+        <span>Run Pipeline</span>
+      </button>
+
+      <button id="BtnExportCSV" class="btn-secondary">
+        <i data-lucide="download" style="width: 14px; height: 14px;"></i>
+        <span>Export CSV</span>
+      </button>
+
+      <button id="BtnOpenDatasetGuide" class="btn-accent" title="6 Datasets & Satellite APIs Documentation">
+        <i data-lucide="satellite" style="width: 14px; height: 14px;"></i>
+        <span>Satellite & API Guide</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- ====================================================== -->
+  <!-- MAIN 3-PANEL WORKSPACE                                 -->
+  <!-- ====================================================== -->
+  <main class="app-workspace">
+
+    <!-- LEFT PANEL: CONTROLS & WEIGHT STUDIO -->
+    <aside class="left-hud-panel">
+      <!-- Active Visualization Layer -->
+      <div>
+        <div class="hud-section-title">
+          <i data-lucide="layers" style="width: 14px; height: 14px;"></i>
+          <span>Active Map Layer</span>
+        </div>
+        <div class="layer-toggle-grid">
+          <button class="layer-btn active" data-layer="CompositeRisk">Composite Risk</button>
+          <button class="layer-btn" data-layer="Material">Roof Material</button>
+          <button class="layer-btn" data-layer="DayLST">Day LST (°C)</button>
+          <button class="layer-btn" data-layer="NightRetention">Night Retention</button>
+          <button class="layer-btn" data-layer="Population">Population Density</button>
+        </div>
+      </div>
+
+      <!-- Live Weight Tuner (Formula Breakdown) -->
+      <div>
+        <div class="hud-section-title">
+          <i data-lucide="sliders" style="width: 14px; height: 14px;"></i>
+          <span>Multi-Factor Risk Weights</span>
+        </div>
+        <div class="slider-group">
+          <div class="slider-item">
+            <div class="slider-label-row">
+              <span>w1: Roof Material Hazard</span>
+              <span id="ValWeightMaterial">0.30</span>
+            </div>
+            <input type="range" id="WeightMaterial" class="styled-range" min="0" max="1" step="0.05" value="0.30">
+          </div>
+
+          <div class="slider-item">
+            <div class="slider-label-row">
+              <span>w2: Day LST Anomaly</span>
+              <span id="ValWeightLST">0.25</span>
+            </div>
+            <input type="range" id="WeightLST" class="styled-range" min="0" max="1" step="0.05" value="0.25">
+          </div>
+
+          <div class="slider-item">
+            <div class="slider-label-row">
+              <span>w3: Night Heat Retention</span>
+              <span id="ValWeightNight">0.20</span>
+            </div>
+            <input type="range" id="WeightNight" class="styled-range" min="0" max="1" step="0.05" value="0.20">
+          </div>
+
+          <div class="slider-item">
+            <div class="slider-label-row">
+              <span>w4: Density & Height Trap</span>
+              <span id="ValWeightDensity">0.15</span>
+            </div>
+            <input type="range" id="WeightDensity" class="styled-range" min="0" max="1" step="0.05" value="0.15">
+          </div>
+
+          <div class="slider-item">
+            <div class="slider-label-row">
+              <span>w5: Occupancy Vulnerability</span>
+              <span id="ValWeightOccupancy">0.10</span>
+            </div>
+            <input type="range" id="WeightOccupancy" class="styled-range" min="0" max="1" step="0.05" value="0.10">
+          </div>
+        </div>
+      </div>
+
+      <!-- Municipal Budget Envelope Simulator -->
+      <div>
+        <div class="hud-section-title">
+          <i data-lucide="wallet" style="width: 14px; height: 14px;"></i>
+          <span>Municipal Budget Cap</span>
+        </div>
+        <div class="slider-item">
+          <div class="slider-label-row">
+            <span>Budget Envelope (INR)</span>
+            <span id="ValBudgetCap" style="color: var(--accent-emerald); font-weight: 700;">₹10,00,000</span>
+          </div>
+          <input type="range" id="BudgetCapSlider" class="styled-range" min="100000" max="5000000" step="50000" value="1000000">
+        </div>
+      </div>
+
+      <!-- Coating Specification -->
+      <div>
+        <div class="hud-section-title">
+          <i data-lucide="paint-bucket" style="width: 14px; height: 14px;"></i>
+          <span>Cool-Roof Coating Spec</span>
+        </div>
+        <select id="CoatingSpecSelector" class="city-select-dropdown" style="width: 100%;">
+          <option value="High-Albedo Elastomeric Cool Roof Coating (Dual Coat)">Elastomeric High-Albedo (₹150/m²)</option>
+          <option value="Traditional High-Reflectance Lime Wash (Economic)">Traditional Lime Wash (₹80/m²)</option>
+          <option value="Fibre-Reinforced Solar Reflective Membrane (Asbestos Encapsulation)">Asbestos Encapsulation (₹220/m²)</option>
+        </select>
+      </div>
+    </aside>
+
+    <!-- CENTER MAP CONTAINER -->
+    <section class="center-map-container">
+      <div id="LeafletMapInstance"></div>
+
+      <!-- Sleek Floating Geospatial Processing HUD Banner with Dynamic Multi-Stage Progress Bar -->
+      <div id="MapRadarLoader" class="map-radar-loader-overlay">
+        <div class="radar-spinner-ring"></div>
+        <div class="radar-content-group">
+          <div class="radar-loader-title" id="RadarLoaderText">
+            <i data-lucide="satellite" style="width: 14px; height: 14px; color: var(--accent-cyan);"></i>
+            <span>Analyzing Satellite Rooftops</span>
+          </div>
+          <div class="radar-loader-subtitle" id="RadarStepBadge">
+            Extracting Multispectral Bands & Thermal Signatures...
+          </div>
+          <div class="hud-progress-track">
+            <div id="RadarProgressBar" class="hud-progress-fill" style="width: 0%;"></div>
+          </div>
+        </div>
+        <div id="RadarProgressPercent" class="hud-progress-percent">0%</div>
+      </div>
+
+      <!-- Unified Floating Map Interactive Controls & Quick Wards Bar -->
+      <div class="map-floating-toolbar">
+        <button id="BtnDrawRectangle" class="btn-secondary" style="font-size: 0.72rem; padding: 4px 8px;" title="Drag a Rectangle Bounding Box on Map">
+          <i data-lucide="box-select" style="width: 13px; height: 13px;"></i>
+          <span>Draw AOI</span>
+        </button>
+        <button id="BtnToggleSatelliteBase" class="btn-secondary" style="font-size: 0.72rem; padding: 4px 8px;" title="Switch Satellite Imagery / Dark Canvas">
+          <i data-lucide="globe" style="width: 13px; height: 13px;"></i>
+          <span>Satellite Base</span>
+        </button>
+        <button id="BtnResetMapView" class="btn-secondary" style="font-size: 0.72rem; padding: 4px 8px;" title="Reset Map View">
+          <i data-lucide="refresh-cw" style="width: 13px; height: 13px;"></i>
+          <span>Reset</span>
+        </button>
+        
+        <div class="toolbar-divider"></div>
+
+        <button class="aoi-chip-btn" data-city="Jaipur" data-bbox="[75.815, 26.915, 75.835, 26.930]">Johari Walled City</button>
+        <button class="aoi-chip-btn" data-city="Jaipur" data-bbox="[75.800, 26.910, 75.820, 26.925]">Bapu Bazaar</button>
+        <button class="aoi-chip-btn" data-city="Jaipur" data-bbox="[75.760, 26.820, 75.785, 26.845]">Sanganer Roofs</button>
+        <button class="aoi-chip-btn" data-city="Ahmedabad" data-bbox="[72.580, 23.020, 72.600, 23.035]">Ahmedabad Pols</button>
+        <button class="aoi-chip-btn" data-city="Delhi NCR" data-bbox="[77.210, 28.645, 77.235, 28.665]">Chandni Chowk</button>
+      </div>
+
+      <!-- Floating Map Legend -->
+      <div class="map-floating-legend" id="MapLegendContainer">
+        <div class="legend-title" id="LegendTitle">Composite Heat-Risk Tiers</div>
+        <div class="legend-items" id="LegendItemsList">
+          <div class="legend-row"><span class="legend-dot" style="background: #EF4444;"></span><span>Critical Priority (Risk ≥ 0.75)</span></div>
+          <div class="legend-row"><span class="legend-dot" style="background: #F97316;"></span><span>High Priority (0.55 - 0.74)</span></div>
+          <div class="legend-row"><span class="legend-dot" style="background: #FBBF24;"></span><span>Moderate Priority (0.40 - 0.54)</span></div>
+          <div class="legend-row"><span class="legend-dot" style="background: #10B981;"></span><span>Low / Stable (&lt; 0.40)</span></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- RIGHT PANEL: ACTIVE BUILDING DOSSIER & RADAR -->
+    <aside class="right-hud-panel">
+      <div class="hud-section-title">
+        <i data-lucide="info" style="width: 14px; height: 14px;"></i>
+        <span>Building Intelligence Dossier</span>
+      </div>
+
+      <div id="InspectorEmptyState" class="inspector-empty-state">
+        <i data-lucide="mouse-pointer-click" style="width: 32px; height: 32px; color: var(--accent-cyan);"></i>
+        <span>Click Any Building Polygon On The Geospatial Map To Inspect Deep Diagnostics</span>
+      </div>
+
+      <div id="InspectorCardContent" class="inspector-card" style="display: none;">
+        <div class="dossier-header">
+          <div>
+            <div class="building-badge" id="InspBuildingId">OB_JAI_00016</div>
+            <div style="font-size: 0.7rem; color: var(--text-secondary);" id="InspWardName">Johari Walled City</div>
+          </div>
+          <span class="rank-tag" id="InspRankBadge">Rank #1</span>
+        </div>
+
+        <!-- Metric Grid -->
+        <div class="dossier-grid">
+          <div class="dossier-item">
+            <span class="dossier-label">Predicted Material</span>
+            <span class="dossier-value" id="InspMaterial" style="color: var(--accent-red);">Metal / Tin</span>
+          </div>
+          <div class="dossier-item">
+            <span class="dossier-label">ML Confidence</span>
+            <span class="dossier-value" id="InspConfidence">84%</span>
+          </div>
+          <div class="dossier-item">
+            <span class="dossier-label">Composite Risk</span>
+            <span class="dossier-value" id="InspRiskScore" style="color: var(--accent-red); font-weight: 800;">0.86</span>
+          </div>
+          <div class="dossier-item">
+            <span class="dossier-label">Roof Surface Area</span>
+            <span class="dossier-value" id="InspRoofArea">794 m²</span>
+          </div>
+          <div class="dossier-item">
+            <span class="dossier-label">Day LST (Landsat)</span>
+            <span class="dossier-value" id="InspDayLST">51.2 °C</span>
+          </div>
+          <div class="dossier-item">
+            <span class="dossier-label">Night LST (ECOSTRESS)</span>
+            <span class="dossier-value" id="InspNightLST">36.8 °C</span>
+          </div>
+        </div>
+
+        <!-- Radar Chart For Soft Material Probabilities -->
+        <div style="margin-top: 4px;">
+          <div style="font-size: 0.70rem; color: var(--text-muted); margin-bottom: 2px; font-weight: 600;">Material Probability Distribution (LLP)</div>
+          <div style="height: 150px; width: 100%;">
+            <canvas id="MaterialRadarChart"></canvas>
+          </div>
+        </div>
+
+        <!-- Work-Order Action Summary -->
+        <div style="background: rgba(6, 182, 212, 0.08); border: 1px solid var(--accent-cyan-glow); padding: 8px; border-radius: 6px;">
+          <div style="font-size: 0.70rem; color: var(--accent-cyan); font-weight: 700; margin-bottom: 2px;">Recommended Cool-Roof Action</div>
+          <div style="font-size: 0.74rem; color: #FFFFFF; font-weight: 600;" id="InspCoating">High-Albedo Elastomeric (Dual Coat)</div>
+          <div style="display: flex; justify-content: space-between; margin-top: 4px; font-size: 0.70rem;">
+            <span>Estimated Cost: <b id="InspCost" style="color: #FFFFFF;">₹1,19,160</b></span>
+            <span>Residents Protected: <b id="InspPop" style="color: var(--accent-emerald);">191</b></span>
+          </div>
+        </div>
+      </div>
+    </aside>
+  </main>
+
+  <!-- ====================================================== -->
+  <!-- BOTTOM DRAWER TABS & EXPANDABLE MULTI-DATASET STUDIO    -->
+  <!-- ====================================================== -->
+  <footer class="bottom-dock">
+    <div class="dock-tabs">
+      <button class="dock-tab-btn" data-drawer="WorkOrder">
+        <i data-lucide="clipboard-list" style="width: 13px; height: 13px; display: inline-block; vertical-align: middle;"></i>
+        <span>Work-Order Queue</span>
+      </button>
+      <button class="dock-tab-btn" data-drawer="DS1OpenBuildings">
+        <i data-lucide="building-2" style="width: 13px; height: 13px; display: inline-block; vertical-align: middle;"></i>
+        <span>1. Open Buildings</span>
+      </button>
+      <button class="dock-tab-btn" data-drawer="DS2Sentinel">
+        <i data-lucide="eye" style="width: 13px; height: 13px; display: inline-block; vertical-align: middle;"></i>
+        <span>2. Sentinel-2</span>
+      </button>
+      <button class="dock-tab-btn" data-drawer="DS3Landsat">
+        <i data-lucide="sun" style="width: 13px; height: 13px; display: inline-block; vertical-align: middle;"></i>
+        <span>3. Landsat 8/9 LST</span>
+      </button>
+      <button class="dock-tab-btn" data-drawer="DS4Ecostress">
+        <i data-lucide="moon" style="width: 13px; height: 13px; display: inline-block; vertical-align: middle;"></i>
+        <span>4. ECOSTRESS Diurnal</span>
+      </button>
+      <button class="dock-tab-btn" data-drawer="DS5Census">
+        <i data-lucide="pie-chart" style="width: 13px; height: 13px; display: inline-block; vertical-align: middle;"></i>
+        <span>5. Census 2011 (LLP)</span>
+      </button>
+      <button class="dock-tab-btn" data-drawer="DS6WorldPop">
+        <i data-lucide="users" style="width: 13px; height: 13px; display: inline-block; vertical-align: middle;"></i>
+        <span>6. WorldPop Shielding</span>
+      </button>
+      <button class="dock-tab-btn" data-drawer="ExecutivePlan">
+        <i data-lucide="file-text" style="width: 13px; height: 13px; display: inline-block; vertical-align: middle;"></i>
+        <span>Executive Heat Action Plan</span>
+      </button>
+    </div>
+    <div class="dock-footer-badge">
+      PARoo v2.0 • 6 Datasets • 3 Satellites
+    </div>
+  </footer>
+
+  <!-- DRAWER OVERLAYS -->
+  <!-- 1. Work Order Table Drawer -->
+  <div id="DrawerWorkOrder" class="drawer-overlay">
+    <div class="drawer-resize-handle" title="Drag to Resize Drawer Height">
+      <div class="drawer-resize-pill"></div>
+    </div>
+    <div class="drawer-header">
+      <div class="drawer-title">Municipal Contractor Work-Order Queue</div>
+      <div class="drawer-header-actions">
+        <button id="BtnDownloadWorkOrderCSV" class="btn-primary" style="padding: 5px 10px; font-size: 0.75rem;">
+          <i data-lucide="download" style="width: 13px; height: 13px;"></i> Download CSV
+        </button>
+        <button class="btn-drawer-icon BtnMinimizeDrawer" title="Collapse / Minimize Height">
+          <i data-lucide="chevron-down" style="width: 14px; height: 14px;"></i>
+        </button>
+        <button class="btn-drawer-icon BtnMaximizeDrawer" title="Maximize Height">
+          <i data-lucide="maximize-2" style="width: 13px; height: 13px;"></i>
+        </button>
+        <button class="btn-secondary BtnCloseDrawer" style="padding: 5px 8px; font-size: 0.75rem;">Close</button>
+      </div>
+    </div>
+    <div class="table-responsive">
+      <table class="workorder-table">
+        <thead>
+          <tr>
+            <th>Rank</th>
+            <th>Building ID</th>
+            <th>Ward</th>
+            <th>Predicted Material</th>
+            <th>Confidence</th>
+            <th>Risk Score</th>
+            <th>Tier</th>
+            <th>Area (m²)</th>
+            <th>Coating Type</th>
+            <th>Estimated Cost (INR)</th>
+            <th>Residents</th>
+            <th>Cost / Person</th>
+            <th>Budget Status</th>
+          </tr>
+        </thead>
+        <tbody id="WorkOrderTableBody">
+          <!-- Populated Dynamically -->
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- 2. Dataset 1: Google Open Buildings Drawer -->
+  <div id="DrawerDS1OpenBuildings" class="drawer-overlay">
+    <div class="drawer-resize-handle" title="Drag to Resize Drawer Height">
+      <div class="drawer-resize-pill"></div>
+    </div>
+    <div class="drawer-header">
+      <div class="drawer-title">Dataset 1: Google Open Buildings v3 (+ 2.5D Temporal Layer) Morphological Analysis</div>
+      <div class="drawer-header-actions">
+        <button class="btn-primary BtnDownloadDataset" data-dataset="1" style="padding: 5px 10px; font-size: 0.75rem;">
+          <i data-lucide="download" style="width: 13px; height: 13px;"></i> Download Footprints (GeoJSON)
+        </button>
+        <button class="btn-drawer-icon BtnMinimizeDrawer" title="Collapse / Minimize Height">
+          <i data-lucide="chevron-down" style="width: 14px; height: 14px;"></i>
+        </button>
+        <button class="btn-drawer-icon BtnMaximizeDrawer" title="Maximize Height">
+          <i data-lucide="maximize-2" style="width: 13px; height: 13px;"></i>
+        </button>
+        <button class="btn-secondary BtnCloseDrawer" style="padding: 5px 8px; font-size: 0.75rem;">Close</button>
+      </div>
+    </div>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; height: calc(100% - 40px);">
+      <div style="background: rgba(30, 41, 59, 0.4); padding: 14px; border-radius: 8px;">
+        <div style="font-size: 0.78rem; font-weight: 700; color: var(--accent-cyan); margin-bottom: 8px;">Roof Footprint Area Distribution (m²)</div>
+        <div style="height: 240px;"><canvas id="ChartDS1Area"></canvas></div>
+      </div>
+      <div style="background: rgba(30, 41, 59, 0.4); padding: 16px; border-radius: 8px; font-size: 0.80rem; line-height: 1.6; color: var(--text-secondary); overflow-y: auto;">
+        <div style="font-weight: 800; color: #FFFFFF; font-size: 0.90rem; margin-bottom: 8px; border-bottom: 1px solid rgba(148, 163, 184, 0.15); padding-bottom: 4px;">
+          Google Open Buildings v3 Geometric & Structural Modeling
+        </div>
+        <p style="margin-bottom: 8px;">• <b>Spatial Geometry & Precision:</b> Building Footprints Are Ingested From Google Open Buildings v3 With Sub-Meter Polygon Vertex Alignment, Providing Exact Rooftop Boundary Perimeters, Geometric Compactness Ratios, And Planar Surface Areas (m²).</p>
+        <p style="margin-bottom: 8px;">• <b>2.5D Temporal Height & Storey Inference:</b> Shadow-Length Analysis And Stereo-Photogrammetric Temporal Passes Provide Structural Height Estimates (h), Enabling Accurate Categorization Into Single-Storey Informal Settlements Vs Multi-Storey RCC Complexes.</p>
+        <p style="margin-bottom: 8px;">• <b>Quality Control Filtering:</b> Every Building Polygon Undergoes Rigorous Machine Learning Quality Verification With A Strict Confidence Score Threshold (≥ 0.70) To Eliminate False Artifacts, Tree Canopies, And Road Segments.</p>
+        <div style="background: rgba(15, 23, 42, 0.6); padding: 10px; border-radius: 6px; margin-top: 10px; border-left: 3px solid var(--accent-cyan);">
+          <span style="font-weight: 700; color: #FFFFFF;">Operational Impact:</span> Exact Rooftop Surface Area Quantification Prevents Procurement Over-Budgeting And Ensures Precise Contractor Paint Volume Calculations (Liters = Area × Coverage Rate).
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 3. Dataset 2: Sentinel-2 Multispectral Drawer -->
+  <div id="DrawerDS2Sentinel" class="drawer-overlay">
+    <div class="drawer-resize-handle" title="Drag to Resize Drawer Height">
+      <div class="drawer-resize-pill"></div>
+    </div>
+    <div class="drawer-header">
+      <div class="drawer-title">Dataset 2: Sentinel-2 L2A (10m Optical Satellite) Multispectral Reflectance Profile</div>
+      <div class="drawer-header-actions">
+        <button class="btn-primary BtnDownloadDataset" data-dataset="2" style="padding: 5px 10px; font-size: 0.75rem;">
+          <i data-lucide="download" style="width: 13px; height: 13px;"></i> Download Spectral Table (CSV)
+        </button>
+        <button class="btn-drawer-icon BtnMinimizeDrawer" title="Collapse / Minimize Height">
+          <i data-lucide="chevron-down" style="width: 14px; height: 14px;"></i>
+        </button>
+        <button class="btn-drawer-icon BtnMaximizeDrawer" title="Maximize Height">
+          <i data-lucide="maximize-2" style="width: 13px; height: 13px;"></i>
+        </button>
+        <button class="btn-secondary BtnCloseDrawer" style="padding: 5px 8px; font-size: 0.75rem;">Close</button>
+      </div>
+    </div>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; height: calc(100% - 40px);">
+      <div style="background: rgba(30, 41, 59, 0.4); padding: 14px; border-radius: 8px;">
+        <div style="font-size: 0.78rem; font-weight: 700; color: var(--accent-cyan); margin-bottom: 8px;">Material Spectral Indices (NDVI, NDBI, Albedo, Brightness, GLCM Texture)</div>
+        <div style="height: 240px;"><canvas id="ChartDS2Radar"></canvas></div>
+      </div>
+      <div style="background: rgba(30, 41, 59, 0.4); padding: 16px; border-radius: 8px; font-size: 0.80rem; line-height: 1.6; color: var(--text-secondary); overflow-y: auto;">
+        <div style="font-weight: 800; color: #FFFFFF; font-size: 0.90rem; margin-bottom: 8px; border-bottom: 1px solid rgba(148, 163, 184, 0.15); padding-bottom: 4px;">
+          ESA Copernicus Sentinel-2 L2A Multispectral Physics
+        </div>
+        <p style="margin-bottom: 8px;">• <b>Optical Band Radiometry:</b> Utilizes 10m Blue (B02 490nm), Green (B03 560nm), Red (B04 665nm), Near-Infrared (B08 842nm), And 20m Short-Wave Infrared (B11 1610nm) Bottom-Of-Atmosphere Surface Reflectance.</p>
+        <p style="margin-bottom: 8px;">• <b>Solar Albedo Formulation:</b> Broad-Band Shortwave Surface Albedo Is Calculated As α = 0.356·B02 + 0.130·B04 + 0.373·B08 + 0.085·B11, Identifying Low-Reflectance Thermal Absorbers.</p>
+        <p style="margin-bottom: 8px;">• <b>Normalized Difference Built-Up Index (NDBI):</b> Separates High-Density Metallic Corrugated Sheets (NDBI > 0.45) From Vegetative Roofs And Surrounding Open Soil.</p>
+        <p style="margin-bottom: 8px;">• <b>GLCM Texture Roughness:</b> Gray-Level Co-Occurrence Matrix Contrast And Homogeneity Metrics Detect Corrugated Asbestos Grooves And Corrugated Iron Sheets Vs Flat Cast RCC Concrete.</p>
+        <div style="background: rgba(15, 23, 42, 0.6); padding: 10px; border-radius: 6px; margin-top: 10px; border-left: 3px solid var(--accent-purple);">
+          <span style="font-weight: 700; color: #FFFFFF;">Discriminative Power:</span> Enables 94%+ Classification Accuracy In Separating Tin Sheets From Concrete Without Requiring Expensive Drone Flights.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4. Dataset 3: Landsat 8/9 Thermal Drawer -->
+  <div id="DrawerDS3Landsat" class="drawer-overlay">
+    <div class="drawer-resize-handle" title="Drag to Resize Drawer Height">
+      <div class="drawer-resize-pill"></div>
+    </div>
+    <div class="drawer-header">
+      <div class="drawer-title">Dataset 3: Landsat 8/9 TIRS (Thermal Infrared Sensor) Day vs Night Temperature Anomalies</div>
+      <div class="drawer-header-actions">
+        <button class="btn-primary BtnDownloadDataset" data-dataset="3" style="padding: 5px 10px; font-size: 0.75rem;">
+          <i data-lucide="download" style="width: 13px; height: 13px;"></i> Download Thermal Data (CSV)
+        </button>
+        <button class="btn-drawer-icon BtnMinimizeDrawer" title="Collapse / Minimize Height">
+          <i data-lucide="chevron-down" style="width: 14px; height: 14px;"></i>
+        </button>
+        <button class="btn-drawer-icon BtnMaximizeDrawer" title="Maximize Height">
+          <i data-lucide="maximize-2" style="width: 13px; height: 13px;"></i>
+        </button>
+        <button class="btn-secondary BtnCloseDrawer" style="padding: 5px 8px; font-size: 0.75rem;">Close</button>
+      </div>
+    </div>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; height: calc(100% - 40px);">
+      <div style="background: rgba(30, 41, 59, 0.4); padding: 14px; border-radius: 8px;">
+        <div style="font-size: 0.78rem; font-weight: 700; color: var(--accent-red); margin-bottom: 8px;">Day LST vs Night Surface Temperature (°C)</div>
+        <div style="height: 240px;"><canvas id="ChartDS3Scatter"></canvas></div>
+      </div>
+      <div style="background: rgba(30, 41, 59, 0.4); padding: 16px; border-radius: 8px; font-size: 0.80rem; line-height: 1.6; color: var(--text-secondary); overflow-y: auto;">
+        <div style="font-weight: 800; color: #FFFFFF; font-size: 0.90rem; margin-bottom: 8px; border-bottom: 1px solid rgba(148, 163, 184, 0.15); padding-bottom: 4px;">
+          USGS / NASA Landsat 8/9 TIRS Thermal Infrared Radiometry
+        </div>
+        <p style="margin-bottom: 8px;">• <b>Split-Window Infrared Physics:</b> Landsat TIRS Band 10 (10.60–11.19 µm) And Band 11 (11.50–12.51 µm) Capture Thermal Infrared Radiation Emitted By Heated Rooftop Envelopes.</p>
+        <p style="margin-bottom: 8px;">• <b>Land Surface Temperature (LST) Inversion:</b> Inverts Top-Of-Atmosphere Radiance Via Planck's Law Combined With Split-Window Atmospheric Correction Algorithms To Determine Physical Surface Temperature (Ts).</p>
+        <p style="margin-bottom: 8px;">• <b>Thermal Anomaly Z-Score:</b> Compares Each Rooftop's Temperature Against The Ward-Level Baseline (Z = (Ts - Mean) / StdDev), Pinpointing Severe Localized Micro-Urban Heat Island Hotspots Exceeding 48°C.</p>
+        <div style="background: rgba(15, 23, 42, 0.6); padding: 10px; border-radius: 6px; margin-top: 10px; border-left: 3px solid var(--accent-red);">
+          <span style="font-weight: 700; color: #FFFFFF;">Thermal Validation:</span> Prevents False Positive Classifications By Confirming Whether A Roof Predicted As Metal Actually Exhibits Severe Daytime Thermal Spikes.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 5. Dataset 4: ECOSTRESS Diurnal Cycle Drawer -->
+  <div id="DrawerDS4Ecostress" class="drawer-overlay">
+    <div class="drawer-resize-handle" title="Drag to Resize Drawer Height">
+      <div class="drawer-resize-pill"></div>
+    </div>
+    <div class="drawer-header">
+      <div class="drawer-title">Dataset 4: NASA JPL ECOSTRESS (ISS Space Station) 24-Hour Diurnal Heat Retention Curves</div>
+      <div class="drawer-header-actions">
+        <button class="btn-primary BtnDownloadDataset" data-dataset="4" style="padding: 5px 10px; font-size: 0.75rem;">
+          <i data-lucide="download" style="width: 13px; height: 13px;"></i> Download Diurnal Profile (JSON)
+        </button>
+        <button class="btn-drawer-icon BtnMinimizeDrawer" title="Collapse / Minimize Height">
+          <i data-lucide="chevron-down" style="width: 14px; height: 14px;"></i>
+        </button>
+        <button class="btn-drawer-icon BtnMaximizeDrawer" title="Maximize Height">
+          <i data-lucide="maximize-2" style="width: 13px; height: 13px;"></i>
+        </button>
+        <button class="btn-secondary BtnCloseDrawer" style="padding: 5px 8px; font-size: 0.75rem;">Close</button>
+      </div>
+    </div>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; height: calc(100% - 40px);">
+      <div style="background: rgba(30, 41, 59, 0.4); padding: 14px; border-radius: 8px;">
+        <div style="font-size: 0.78rem; font-weight: 700; color: var(--accent-amber); margin-bottom: 8px;">Diurnal Heat Trapping (24-Hour Thermal Progression Across Materials)</div>
+        <div style="height: 240px;"><canvas id="ChartDS4Diurnal"></canvas></div>
+      </div>
+      <div style="background: rgba(30, 41, 59, 0.4); padding: 16px; border-radius: 8px; font-size: 0.80rem; line-height: 1.6; color: var(--text-secondary); overflow-y: auto;">
+        <div style="font-weight: 800; color: #FFFFFF; font-size: 0.90rem; margin-bottom: 8px; border-bottom: 1px solid rgba(148, 163, 184, 0.15); padding-bottom: 4px;">
+          NASA JPL ECOSTRESS Diurnal Thermal Dynamics & Night Heat Retention
+        </div>
+        <p style="margin-bottom: 8px;">• <b>Space Station Precessing Orbit:</b> ECOSTRESS Aboard The International Space Station Captures Non-Sun-Synchronous Thermal Passes At Varying Hours (00:00, 06:00, 12:00, 15:00, 21:00), Providing 70m High-Resolution Diurnal Curves.</p>
+        <p style="margin-bottom: 8px;">• <b>Nocturnal Heat Trapping Physics:</b> While Thin Uninsulated Sheet Metal Heats Up Drastically During Peak Sun (15:00) And Dissipates Quickly After Sunset, Heavy Concrete (RCC) Retains Daytime Solar Irradiance And Re-Radiates Heat Late Into The Night (21:00–03:00).</p>
+        <p style="margin-bottom: 8px;">• <b>Physiological Recovery Danger:</b> Nocturnal Heat Trapping Above 33°C Prevents The Human Cardiovascular System From Cooling Down During Sleep, Drastically Multiplying Heatstroke Morbidity.</p>
+        <div style="background: rgba(15, 23, 42, 0.6); padding: 10px; border-radius: 6px; margin-top: 10px; border-left: 3px solid var(--accent-amber);">
+          <span style="font-weight: 700; color: #FFFFFF;">Critical Life Metric:</span> Incorporates Nocturnal Retention Directly Into The Multi-Factor Risk Score To Protect Dense Tenements Where Nighttime Mortality Is Highest.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 6. Dataset 5: Census 2011 (LLP AI) Drawer -->
+  <div id="DrawerDS5Census" class="drawer-overlay">
+    <div class="drawer-resize-handle" title="Drag to Resize Drawer Height">
+      <div class="drawer-resize-pill"></div>
+    </div>
+    <div class="drawer-header">
+      <div class="drawer-title">Dataset 5: Census 2011 Houselisting Tables & Weakly-Supervised LLP Model Alignment</div>
+      <div class="drawer-header-actions">
+        <button class="btn-primary BtnDownloadDataset" data-dataset="5" style="padding: 5px 10px; font-size: 0.75rem;">
+          <i data-lucide="download" style="width: 13px; height: 13px;"></i> Download Census Data (CSV)
+        </button>
+        <button class="btn-drawer-icon BtnMinimizeDrawer" title="Collapse / Minimize Height">
+          <i data-lucide="chevron-down" style="width: 14px; height: 14px;"></i>
+        </button>
+        <button class="btn-drawer-icon BtnMaximizeDrawer" title="Maximize Height">
+          <i data-lucide="maximize-2" style="width: 13px; height: 13px;"></i>
+        </button>
+        <button class="btn-secondary BtnCloseDrawer" style="padding: 5px 8px; font-size: 0.75rem;">Close</button>
+      </div>
+    </div>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; height: calc(100% - 40px);">
+      <div style="background: rgba(30, 41, 59, 0.4); padding: 14px; border-radius: 8px;">
+        <div style="font-size: 0.78rem; font-weight: 700; color: var(--accent-purple); margin-bottom: 8px;">Ward Census 2011 Ground Distribution vs Predicted LLP Proportions</div>
+        <div style="height: 240px;"><canvas id="ChartDS5Census"></canvas></div>
+      </div>
+      <div style="background: rgba(30, 41, 59, 0.4); padding: 16px; border-radius: 8px; font-size: 0.80rem; line-height: 1.6; color: var(--text-secondary); overflow-y: auto;">
+        <div style="font-weight: 800; color: #FFFFFF; font-size: 0.90rem; margin-bottom: 8px; border-bottom: 1px solid rgba(148, 163, 184, 0.15); padding-bottom: 4px;">
+          Weakly Supervised Learning From Label Proportions (LLP)
+        </div>
+        <p style="margin-bottom: 8px;">• <b>Solving The Missing Ground-Truth Dilemma:</b> In Developing Nations, Per-Building Roof Material Labels Do Not Exist. However, Census Of India 2011 Table H-02 Records Ward-Level Aggregate Percentages Of Roof Materials.</p>
+        <p style="margin-bottom: 8px;">• <b>Bag-Level KL Divergence Optimization:</b> The Neural Classifier Groups Buildings By Municipal Wards And Optimizes A Bag-Level Kullback-Leibler Divergence Loss Function (L_LLP = D_KL(P_Ward || Mean_Predictions)).</p>
+        <p style="margin-bottom: 8px;">• <b>Calibrated Probabilities:</b> Softmax Temperature Scaling Produces Calibrated Probability Vectors Across 5 Classes (Metal / Tin, Asbestos, Concrete, Clay Tile, Thatch), Achieving Low Mean Ward KL Divergence (< 0.30).</p>
+        <div style="background: rgba(15, 23, 42, 0.6); padding: 10px; border-radius: 6px; margin-top: 10px; border-left: 3px solid var(--accent-purple);">
+          <span style="font-weight: 700; color: #FFFFFF;">AI Breakthrough:</span> Enables 100% Automated Rooftop Material Mapping Across Entire Indian Megacities With Zero Manual Ground Annotation Expense.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 7. Dataset 6: WorldPop Pareto Shielding Drawer -->
+  <div id="DrawerDS6WorldPop" class="drawer-overlay">
+    <div class="drawer-resize-handle" title="Drag to Resize Drawer Height">
+      <div class="drawer-resize-pill"></div>
+    </div>
+    <div class="drawer-header">
+      <div class="drawer-title">Dataset 6: WorldPop Gridded Density & Municipal Budget Pareto Frontier</div>
+      <div class="drawer-header-actions">
+        <button class="btn-primary BtnDownloadDataset" data-dataset="6" style="padding: 5px 10px; font-size: 0.75rem;">
+          <i data-lucide="download" style="width: 13px; height: 13px;"></i> Download Demographics (CSV)
+        </button>
+        <button class="btn-drawer-icon BtnMinimizeDrawer" title="Collapse / Minimize Height">
+          <i data-lucide="chevron-down" style="width: 14px; height: 14px;"></i>
+        </button>
+        <button class="btn-drawer-icon BtnMaximizeDrawer" title="Maximize Height">
+          <i data-lucide="maximize-2" style="width: 13px; height: 13px;"></i>
+        </button>
+        <button class="btn-secondary BtnCloseDrawer" style="padding: 5px 8px; font-size: 0.75rem;">Close</button>
+      </div>
+    </div>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; height: calc(100% - 40px);">
+      <div style="background: rgba(30, 41, 59, 0.4); padding: 14px; border-radius: 8px;">
+        <div style="font-size: 0.78rem; font-weight: 700; color: var(--accent-emerald); margin-bottom: 8px;">Pareto Knapsack Curve: Cumulative INR Budget vs Protected Residents</div>
+        <div style="height: 240px;"><canvas id="ChartDS6WorldPop"></canvas></div>
+      </div>
+      <div style="background: rgba(30, 41, 59, 0.4); padding: 16px; border-radius: 8px; font-size: 0.80rem; line-height: 1.6; color: var(--text-secondary); overflow-y: auto;">
+        <div style="font-weight: 800; color: #FFFFFF; font-size: 0.90rem; margin-bottom: 8px; border-bottom: 1px solid rgba(148, 163, 184, 0.15); padding-bottom: 4px;">
+          WorldPop 100m Gridded Demographics & Knapsack Optimization
+        </div>
+        <p style="margin-bottom: 8px;">• <b>Demographic Spatial Disaggregation:</b> Ingests WorldPop 100m Spatial Demographic Rasters Combined With Census Ward Census Figures To Calculate Exact Local Residential Density Per Hectare.</p>
+        <p style="margin-bottom: 8px;">• <b>Occupancy & Shielding Proxy:</b> Estimates The Number Of Human Lives Protected Beneath Each Rooftop Based On Habitable Floor Space (14 m²/Person), Building Height/Storeys, And Local Density.</p>
+        <p style="margin-bottom: 8px;">• <b>Budget Knapsack Optimization:</b> Solves The 0/1 Fractional Knapsack Problem, Selecting Rooftops That Maximize Composite Risk Mitigation And Protected Lives Per Rupee (₹) Of Municipal Expenditure.</p>
+        <div style="background: rgba(15, 23, 42, 0.6); padding: 10px; border-radius: 6px; margin-top: 10px; border-left: 3px solid var(--accent-emerald);">
+          <span style="font-weight: 700; color: #FFFFFF;">Social Equity:</span> Prioritizes High-Density Informal Slum Settlements, Ensuring That Public Heat Relief Subsidies Deliver Maximum Human Life Impact.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 8. Executive Action Plan Drawer -->
+  <div id="DrawerExecutivePlan" class="drawer-overlay">
+    <div class="drawer-resize-handle" title="Drag to Resize Drawer Height">
+      <div class="drawer-resize-pill"></div>
+    </div>
+    <div class="drawer-header">
+      <div class="drawer-title">Official Municipal Heat Action Briefing</div>
+      <div class="drawer-header-actions">
+        <button onclick="window.print()" class="btn-primary" style="padding: 5px 10px; font-size: 0.75rem;">
+          <i data-lucide="printer" style="width: 13px; height: 13px;"></i> Print / PDF Report
+        </button>
+        <button class="btn-drawer-icon BtnMinimizeDrawer" title="Collapse / Minimize Height">
+          <i data-lucide="chevron-down" style="width: 14px; height: 14px;"></i>
+        </button>
+        <button class="btn-drawer-icon BtnMaximizeDrawer" title="Maximize Height">
+          <i data-lucide="maximize-2" style="width: 13px; height: 13px;"></i>
+        </button>
+        <button class="btn-secondary BtnCloseDrawer" style="padding: 5px 8px; font-size: 0.75rem;">Close</button>
+      </div>
+    </div>
+    <div id="ExecutiveBriefingContent" style="background: rgba(30, 41, 59, 0.4); padding: 20px; border-radius: 8px; font-size: 0.82rem; line-height: 1.6; color: var(--text-primary); overflow-y: auto;">
+      <!-- Populated Dynamically -->
+    </div>
+  </div>
+
+  <!-- ====================================================== -->
+  <!-- MODAL DIALOG: 6 DATASETS & SATELLITE APIS GUIDE        -->
+  <!-- ====================================================== -->
+  <div id="ModalDatasetGuide" class="modal-backdrop">
+    <div class="modal-container">
+      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px;">
+        <div>
+          <h2 style="font-size: 1.15rem; color: #FFFFFF; font-weight: 800;">Satellite & Geospatial Datasets Technical Documentation Guide</h2>
+          <p style="font-size: 0.75rem; color: var(--text-secondary);">Complete Catalog Of All 6 Required Datasets And 3 Satellite Sensor Sources</p>
+        </div>
+        <button id="BtnCloseDatasetGuideModal" class="btn-secondary" style="padding: 6px 12px;">Close</button>
+      </div>
+      <div id="DatasetGuideCardsList" style="display: flex; flex-direction: column; gap: 14px;">
+        <!-- Populated Dynamically From /Api/Datasets/Guide -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Leaflet Map JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <!-- Leaflet Draw JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.js"></script>
+  <!-- Application JS -->
+  <script src="/Static/App.js"></script>
+  
+  <script>
+    // Initialize Lucide Icons
+    lucide.createIcons();
+  </script>
+</body>
+</html>

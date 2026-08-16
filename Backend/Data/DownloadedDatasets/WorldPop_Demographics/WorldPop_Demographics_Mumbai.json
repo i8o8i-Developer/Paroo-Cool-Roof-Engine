@@ -1,0 +1,61 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "WorldPop High-Resolution 100m Gridded Human Population & Demographic Heat Vulnerability",
+    "TargetCity": "Mumbai",
+    "GeographicBounds": {
+      "MinLon": 72.84,
+      "MinLat": 19.03,
+      "MaxLon": 72.92,
+      "MaxLat": 19.11
+    },
+    "SpatialResolutionMeters": 100.0,
+    "ReferenceCensusYear": "2020/2025 Projected Baseline",
+    "TotalMunicipalPopulation": 12442373,
+    "DemographicStratification": {
+      "GeriatricElderlyAbove65YearsPercentage": 7.8,
+      "PediatricInfantsBelow5YearsPercentage": 9.4,
+      "InformalSettlementSlumPopulationPercentage": 31.6
+    }
+  },
+  "WardDemographicShieldingTelemetry": [
+    {
+      "WardId": "Ward G/N - Dharavi Central",
+      "WardName": "Dharavi High Density Settlement",
+      "PopulationDensityPerHectare": 980,
+      "EstimatedWardPopulation": 215600,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 17679,
+        "ChildrenUnder5Count": 21128,
+        "InformalTinRoofSettlementResidents": 109956
+      },
+      "BuildingOccupancyMultiplier": 6.24,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 50.4
+    },
+    {
+      "WardId": "Ward M/E - Govandi Slum",
+      "WardName": "Govandi Resettlement Colony",
+      "PopulationDensityPerHectare": 850,
+      "EstimatedWardPopulation": 187000,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 15334,
+        "ChildrenUnder5Count": 18326,
+        "InformalTinRoofSettlementResidents": 87890
+      },
+      "BuildingOccupancyMultiplier": 5.41,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 43.7
+    },
+    {
+      "WardId": "Ward H/W - Bandra West",
+      "WardName": "Bandra Coastal Residential",
+      "PopulationDensityPerHectare": 290,
+      "EstimatedWardPopulation": 63800,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 5231,
+        "ChildrenUnder5Count": 6252,
+        "InformalTinRoofSettlementResidents": 5742
+      },
+      "BuildingOccupancyMultiplier": 1.85,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 14.9
+    }
+  ]
+}

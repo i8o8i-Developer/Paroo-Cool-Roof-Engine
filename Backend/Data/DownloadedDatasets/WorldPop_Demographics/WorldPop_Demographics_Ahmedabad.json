@@ -1,0 +1,74 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "WorldPop High-Resolution 100m Gridded Human Population & Demographic Heat Vulnerability",
+    "TargetCity": "Ahmedabad",
+    "GeographicBounds": {
+      "MinLon": 72.53,
+      "MinLat": 22.99,
+      "MaxLon": 72.62,
+      "MaxLat": 23.06
+    },
+    "SpatialResolutionMeters": 100.0,
+    "ReferenceCensusYear": "2020/2025 Projected Baseline",
+    "TotalMunicipalPopulation": 5633927,
+    "DemographicStratification": {
+      "GeriatricElderlyAbove65YearsPercentage": 7.8,
+      "PediatricInfantsBelow5YearsPercentage": 9.4,
+      "InformalSettlementSlumPopulationPercentage": 31.6
+    }
+  },
+  "WardDemographicShieldingTelemetry": [
+    {
+      "WardId": "Ward 07 - Naroda Industrial",
+      "WardName": "Naroda GIDC Manufacturing Area",
+      "PopulationDensityPerHectare": 310,
+      "EstimatedWardPopulation": 68200,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 5592,
+        "ChildrenUnder5Count": 6683,
+        "InformalTinRoofSettlementResidents": 36828
+      },
+      "BuildingOccupancyMultiplier": 1.97,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 15.9
+    },
+    {
+      "WardId": "Ward 18 - Danilimda Slum Cluster",
+      "WardName": "Danilimda Informal Settlement",
+      "PopulationDensityPerHectare": 540,
+      "EstimatedWardPopulation": 118800,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 9741,
+        "ChildrenUnder5Count": 11642,
+        "InformalTinRoofSettlementResidents": 55836
+      },
+      "BuildingOccupancyMultiplier": 3.44,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 27.8
+    },
+    {
+      "WardId": "Ward 29 - Behrampura South",
+      "WardName": "Behrampura High-Density Residential",
+      "PopulationDensityPerHectare": 460,
+      "EstimatedWardPopulation": 101200,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 8298,
+        "ChildrenUnder5Count": 9917,
+        "InformalTinRoofSettlementResidents": 35420
+      },
+      "BuildingOccupancyMultiplier": 2.93,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 23.7
+    },
+    {
+      "WardId": "Ward 42 - Navrangpura Commercial",
+      "WardName": "Navrangpura Urban Core",
+      "PopulationDensityPerHectare": 175,
+      "EstimatedWardPopulation": 38500,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 3157,
+        "ChildrenUnder5Count": 3773,
+        "InformalTinRoofSettlementResidents": 3465
+      },
+      "BuildingOccupancyMultiplier": 1.11,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 9.0
+    }
+  ]
+}

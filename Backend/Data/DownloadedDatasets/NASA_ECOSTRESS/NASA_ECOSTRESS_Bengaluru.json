@@ -1,0 +1,75 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "NASA JPL ECOSTRESS Space Station Thermal Radiometer Experiment",
+    "TargetCity": "Bengaluru",
+    "GeographicBounds": {
+      "MinLon": 77.55,
+      "MinLat": 12.93,
+      "MaxLon": 77.64,
+      "MaxLat": 13.01
+    },
+    "OrbitType": "International Space Station (ISS) Precessing Low Earth Orbit",
+    "SpatialResolutionMeters": 70.0,
+    "ProductType": "ECO2LSTE (Land Surface Temperature & Emissivity) & ECO3ETPTJPL (Evapotranspiration)",
+    "NocturnalOverpassTimestampUTC": "2024-05-19T21:14:08Z (02:44 AM IST Local)",
+    "DaytimeOverpassTimestampUTC": "2024-05-20T08:22:31Z (13:52 PM IST Local)"
+  },
+  "DiurnalThermalOverpasses": [
+    {
+      "PassTimeIST": "02:44 AM (Deep Midnight / Nocturnal Minimum)",
+      "MeanUrbanLSTCelsius": 29.3,
+      "HotspotSlumClustersCelsius": 32.4,
+      "ThermalInversionIndex": 0.82
+    },
+    {
+      "PassTimeIST": "06:15 AM (Dawn Baseline)",
+      "MeanUrbanLSTCelsius": 26.0,
+      "HotspotSlumClustersCelsius": 28.1,
+      "ThermalInversionIndex": 0.45
+    },
+    {
+      "PassTimeIST": "13:52 PM (Peak Solar Insolation)",
+      "MeanUrbanLSTCelsius": 42.1,
+      "HotspotSlumClustersCelsius": 46.3,
+      "ThermalInversionIndex": 0.94
+    },
+    {
+      "PassTimeIST": "21:30 PM (Post-Sunset Heat Trapping)",
+      "MeanUrbanLSTCelsius": 30.9,
+      "HotspotSlumClustersCelsius": 33.6,
+      "ThermalInversionIndex": 0.89
+    }
+  ],
+  "WardDiurnalRetentionMatrix": [
+    {
+      "WardId": "Ward 40 - Peenya Industrial Stage 1",
+      "WardName": "Peenya Manufacturing Zone",
+      "MidnightSurfaceTemperatureCelsius": 29.64,
+      "NocturnalHeatRetentionAnomalyCelsius": 2.94,
+      "DiurnalThermalAmplitudeCelsius": 12.46,
+      "EvaporativeStressIndexESI": 0.243,
+      "WaterDeficitIndexWDI": 0.871,
+      "PhysiologicalHeatRecoveryInhibited": false
+    },
+    {
+      "WardId": "Ward 92 - Shivajinagar Dense",
+      "WardName": "Shivajinagar Historic Settlement",
+      "MidnightSurfaceTemperatureCelsius": 31.33,
+      "NocturnalHeatRetentionAnomalyCelsius": 4.63,
+      "DiurnalThermalAmplitudeCelsius": 10.77,
+      "EvaporativeStressIndexESI": 0.17,
+      "WaterDeficitIndexWDI": 0.908,
+      "PhysiologicalHeatRecoveryInhibited": false
+    },
+    {
+      "WardId": "Ward 174 - HSR Sector 2",
+      "WardName": "HSR Layout Modern Residential",
+      "MidnightSurfaceTemperatureCelsius": 29.42,
+      "NocturnalHeatRetentionAnomalyCelsius": 2.72,
+      "DiurnalThermalAmplitudeCelsius": 12.68,
+      "EvaporativeStressIndexESI": 0.239,
+      "WaterDeficitIndexWDI": 0.845,
+      "PhysiologicalHeatRecoveryInhibited": false
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "USGS Landsat 8/9 OLI/TIRS Collection 2 Level-2 Surface Temperature",
+    "TargetCity": "Bengaluru",
+    "GeographicBounds": {
+      "MinLon": 77.55,
+      "MinLat": 12.93,
+      "MaxLon": 77.64,
+      "MaxLat": 13.01,
+      "CenterCoordinates": [
+        12.9716,
+        77.5946
+      ]
+    },
+    "SensorPlatform": "Landsat-9 TIRS-2 (Thermal Infrared Sensor)",
+    "SpatialResolutionMeters": 30.0,
+    "AcquisitionTimestampUTC": "2024-05-18T05:32:14Z",
+    "SolarZenithAngleDegrees": 18.4,
+    "MeanAtmosphericTransmittance": 0.88,
+    "MeanEmissivity": 0.942,
+    "QualityAssessmentMask": "100% Clear Sky (Zero Cloud Shadow/Contamination)"
+  },
+  "ThermalCalibrationParameters": {
+    "K1_ConstantBand10": 774.8853,
+    "K2_ConstantBand10": 1321.0789,
+    "RadianceMultiBand10": 0.0003342,
+    "RadianceAddBand10": 0.1
+  },
+  "UrbanWardThermalTelemetry": [
+    {
+      "WardId": "Ward 40 - Peenya Industrial Stage 1",
+      "WardName": "Peenya Manufacturing Zone",
+      "MeanDaySurfaceTemperatureCelsius": 43.07,
+      "PeakPixelSurfaceTemperatureCelsius": 46.04,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 4.47,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 10.353,
+      "NarrowbandEmissivityBand10": 0.955,
+      "ExtremeHeatExposureAlertLevel": "High Orange Alert"
+    },
+    {
+      "WardId": "Ward 92 - Shivajinagar Dense",
+      "WardName": "Shivajinagar Historic Settlement",
+      "MeanDaySurfaceTemperatureCelsius": 43.87,
+      "PeakPixelSurfaceTemperatureCelsius": 48.01,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 5.27,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 10.497,
+      "NarrowbandEmissivityBand10": 0.943,
+      "ExtremeHeatExposureAlertLevel": "High Orange Alert"
+    },
+    {
+      "WardId": "Ward 174 - HSR Sector 2",
+      "WardName": "HSR Layout Modern Residential",
+      "MeanDaySurfaceTemperatureCelsius": 41.88,
+      "PeakPixelSurfaceTemperatureCelsius": 44.61,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 3.28,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 10.138,
+      "NarrowbandEmissivityBand10": 0.962,
+      "ExtremeHeatExposureAlertLevel": "High Orange Alert"
+    }
+  ]
+}

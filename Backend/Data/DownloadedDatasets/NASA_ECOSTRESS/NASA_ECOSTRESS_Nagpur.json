@@ -1,0 +1,75 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "NASA JPL ECOSTRESS Space Station Thermal Radiometer Experiment",
+    "TargetCity": "Nagpur",
+    "GeographicBounds": {
+      "MinLon": 79.05,
+      "MinLat": 21.11,
+      "MaxLon": 79.13,
+      "MaxLat": 21.18
+    },
+    "OrbitType": "International Space Station (ISS) Precessing Low Earth Orbit",
+    "SpatialResolutionMeters": 70.0,
+    "ProductType": "ECO2LSTE (Land Surface Temperature & Emissivity) & ECO3ETPTJPL (Evapotranspiration)",
+    "NocturnalOverpassTimestampUTC": "2024-05-19T21:14:08Z (02:44 AM IST Local)",
+    "DaytimeOverpassTimestampUTC": "2024-05-20T08:22:31Z (13:52 PM IST Local)"
+  },
+  "DiurnalThermalOverpasses": [
+    {
+      "PassTimeIST": "02:44 AM (Deep Midnight / Nocturnal Minimum)",
+      "MeanUrbanLSTCelsius": 35.6,
+      "HotspotSlumClustersCelsius": 38.7,
+      "ThermalInversionIndex": 0.82
+    },
+    {
+      "PassTimeIST": "06:15 AM (Dawn Baseline)",
+      "MeanUrbanLSTCelsius": 32.3,
+      "HotspotSlumClustersCelsius": 34.4,
+      "ThermalInversionIndex": 0.45
+    },
+    {
+      "PassTimeIST": "13:52 PM (Peak Solar Insolation)",
+      "MeanUrbanLSTCelsius": 49.8,
+      "HotspotSlumClustersCelsius": 54.0,
+      "ThermalInversionIndex": 0.94
+    },
+    {
+      "PassTimeIST": "21:30 PM (Post-Sunset Heat Trapping)",
+      "MeanUrbanLSTCelsius": 37.2,
+      "HotspotSlumClustersCelsius": 39.9,
+      "ThermalInversionIndex": 0.89
+    }
+  ],
+  "WardDiurnalRetentionMatrix": [
+    {
+      "WardId": "Ward 15 - Hingna MIDC",
+      "WardName": "Hingna Industrial Zone",
+      "MidnightSurfaceTemperatureCelsius": 36.48,
+      "NocturnalHeatRetentionAnomalyCelsius": 3.48,
+      "DiurnalThermalAmplitudeCelsius": 13.32,
+      "EvaporativeStressIndexESI": 0.239,
+      "WaterDeficitIndexWDI": 0.875,
+      "PhysiologicalHeatRecoveryInhibited": true
+    },
+    {
+      "WardId": "Ward 22 - Pardi Settlement",
+      "WardName": "Pardi Dense Low-Income Colony",
+      "MidnightSurfaceTemperatureCelsius": 34.91,
+      "NocturnalHeatRetentionAnomalyCelsius": 1.91,
+      "DiurnalThermalAmplitudeCelsius": 14.89,
+      "EvaporativeStressIndexESI": 0.211,
+      "WaterDeficitIndexWDI": 0.898,
+      "PhysiologicalHeatRecoveryInhibited": true
+    },
+    {
+      "WardId": "Ward 04 - Sitabuldi Central",
+      "WardName": "Sitabuldi Commercial Core",
+      "MidnightSurfaceTemperatureCelsius": 37.72,
+      "NocturnalHeatRetentionAnomalyCelsius": 4.72,
+      "DiurnalThermalAmplitudeCelsius": 12.08,
+      "EvaporativeStressIndexESI": 0.24,
+      "WaterDeficitIndexWDI": 0.908,
+      "PhysiologicalHeatRecoveryInhibited": true
+    }
+  ]
+}

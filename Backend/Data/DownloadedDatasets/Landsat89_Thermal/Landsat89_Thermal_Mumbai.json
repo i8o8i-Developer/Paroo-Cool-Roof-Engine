@@ -1,0 +1,61 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "USGS Landsat 8/9 OLI/TIRS Collection 2 Level-2 Surface Temperature",
+    "TargetCity": "Mumbai",
+    "GeographicBounds": {
+      "MinLon": 72.84,
+      "MinLat": 19.03,
+      "MaxLon": 72.92,
+      "MaxLat": 19.11,
+      "CenterCoordinates": [
+        19.076,
+        72.8777
+      ]
+    },
+    "SensorPlatform": "Landsat-9 TIRS-2 (Thermal Infrared Sensor)",
+    "SpatialResolutionMeters": 30.0,
+    "AcquisitionTimestampUTC": "2024-05-18T05:32:14Z",
+    "SolarZenithAngleDegrees": 18.4,
+    "MeanAtmosphericTransmittance": 0.88,
+    "MeanEmissivity": 0.942,
+    "QualityAssessmentMask": "100% Clear Sky (Zero Cloud Shadow/Contamination)"
+  },
+  "ThermalCalibrationParameters": {
+    "K1_ConstantBand10": 774.8853,
+    "K2_ConstantBand10": 1321.0789,
+    "RadianceMultiBand10": 0.0003342,
+    "RadianceAddBand10": 0.1
+  },
+  "UrbanWardThermalTelemetry": [
+    {
+      "WardId": "Ward G/N - Dharavi Central",
+      "WardName": "Dharavi High Density Settlement",
+      "MeanDaySurfaceTemperatureCelsius": 42.29,
+      "PeakPixelSurfaceTemperatureCelsius": 46.33,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 2.29,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 10.212,
+      "NarrowbandEmissivityBand10": 0.953,
+      "ExtremeHeatExposureAlertLevel": "High Orange Alert"
+    },
+    {
+      "WardId": "Ward M/E - Govandi Slum",
+      "WardName": "Govandi Resettlement Colony",
+      "MeanDaySurfaceTemperatureCelsius": 44.77,
+      "PeakPixelSurfaceTemperatureCelsius": 48.68,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 4.77,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 10.659,
+      "NarrowbandEmissivityBand10": 0.937,
+      "ExtremeHeatExposureAlertLevel": "High Orange Alert"
+    },
+    {
+      "WardId": "Ward H/W - Bandra West",
+      "WardName": "Bandra Coastal Residential",
+      "MeanDaySurfaceTemperatureCelsius": 41.77,
+      "PeakPixelSurfaceTemperatureCelsius": 44.44,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 1.77,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 10.119,
+      "NarrowbandEmissivityBand10": 0.962,
+      "ExtremeHeatExposureAlertLevel": "High Orange Alert"
+    }
+  ]
+}

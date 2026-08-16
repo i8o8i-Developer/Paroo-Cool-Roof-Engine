@@ -1,0 +1,71 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "USGS Landsat 8/9 OLI/TIRS Collection 2 Level-2 Surface Temperature",
+    "TargetCity": "Ahmedabad",
+    "GeographicBounds": {
+      "MinLon": 72.53,
+      "MinLat": 22.99,
+      "MaxLon": 72.62,
+      "MaxLat": 23.06,
+      "CenterCoordinates": [
+        23.0225,
+        72.5714
+      ]
+    },
+    "SensorPlatform": "Landsat-9 TIRS-2 (Thermal Infrared Sensor)",
+    "SpatialResolutionMeters": 30.0,
+    "AcquisitionTimestampUTC": "2024-05-18T05:32:14Z",
+    "SolarZenithAngleDegrees": 18.4,
+    "MeanAtmosphericTransmittance": 0.88,
+    "MeanEmissivity": 0.942,
+    "QualityAssessmentMask": "100% Clear Sky (Zero Cloud Shadow/Contamination)"
+  },
+  "ThermalCalibrationParameters": {
+    "K1_ConstantBand10": 774.8853,
+    "K2_ConstantBand10": 1321.0789,
+    "RadianceMultiBand10": 0.0003342,
+    "RadianceAddBand10": 0.1
+  },
+  "UrbanWardThermalTelemetry": [
+    {
+      "WardId": "Ward 07 - Naroda Industrial",
+      "WardName": "Naroda GIDC Manufacturing Area",
+      "MeanDaySurfaceTemperatureCelsius": 49.09,
+      "PeakPixelSurfaceTemperatureCelsius": 53.91,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 3.39,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 11.436,
+      "NarrowbandEmissivityBand10": 0.969,
+      "ExtremeHeatExposureAlertLevel": "Severe Red Alert"
+    },
+    {
+      "WardId": "Ward 18 - Danilimda Slum Cluster",
+      "WardName": "Danilimda Informal Settlement",
+      "MeanDaySurfaceTemperatureCelsius": 51.32,
+      "PeakPixelSurfaceTemperatureCelsius": 54.67,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 5.62,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 11.838,
+      "NarrowbandEmissivityBand10": 0.946,
+      "ExtremeHeatExposureAlertLevel": "Severe Red Alert"
+    },
+    {
+      "WardId": "Ward 29 - Behrampura South",
+      "WardName": "Behrampura High-Density Residential",
+      "MeanDaySurfaceTemperatureCelsius": 48.69,
+      "PeakPixelSurfaceTemperatureCelsius": 53.23,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 2.99,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 11.364,
+      "NarrowbandEmissivityBand10": 0.941,
+      "ExtremeHeatExposureAlertLevel": "Severe Red Alert"
+    },
+    {
+      "WardId": "Ward 42 - Navrangpura Commercial",
+      "WardName": "Navrangpura Urban Core",
+      "MeanDaySurfaceTemperatureCelsius": 49.04,
+      "PeakPixelSurfaceTemperatureCelsius": 52.77,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 3.34,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 11.427,
+      "NarrowbandEmissivityBand10": 0.962,
+      "ExtremeHeatExposureAlertLevel": "Severe Red Alert"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "WorldPop High-Resolution 100m Gridded Human Population & Demographic Heat Vulnerability",
+    "TargetCity": "Jaipur",
+    "GeographicBounds": {
+      "MinLon": 75.75,
+      "MinLat": 26.88,
+      "MaxLon": 75.83,
+      "MaxLat": 26.95
+    },
+    "SpatialResolutionMeters": 100.0,
+    "ReferenceCensusYear": "2020/2025 Projected Baseline",
+    "TotalMunicipalPopulation": 3073350,
+    "DemographicStratification": {
+      "GeriatricElderlyAbove65YearsPercentage": 7.8,
+      "PediatricInfantsBelow5YearsPercentage": 9.4,
+      "InformalSettlementSlumPopulationPercentage": 31.6
+    }
+  },
+  "WardDemographicShieldingTelemetry": [
+    {
+      "WardId": "Ward 12 - Johari Walled City",
+      "WardName": "Johari Bazar & Walled City",
+      "PopulationDensityPerHectare": 420,
+      "EstimatedWardPopulation": 92400,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 7576,
+        "ChildrenUnder5Count": 9055,
+        "InformalTinRoofSettlementResidents": 19404
+      },
+      "BuildingOccupancyMultiplier": 2.67,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 21.6
+    },
+    {
+      "WardId": "Ward 24 - Sanganer Industrial",
+      "WardName": "Sanganer Textile & Craft Zone",
+      "PopulationDensityPerHectare": 280,
+      "EstimatedWardPopulation": 61600,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 5051,
+        "ChildrenUnder5Count": 6036,
+        "InformalTinRoofSettlementResidents": 30800
+      },
+      "BuildingOccupancyMultiplier": 1.78,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 14.4
+    },
+    {
+      "WardId": "Ward 35 - Jhotwara Resettlement",
+      "WardName": "Jhotwara Dense Settlement",
+      "PopulationDensityPerHectare": 360,
+      "EstimatedWardPopulation": 79200,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 6494,
+        "ChildrenUnder5Count": 7761,
+        "InformalTinRoofSettlementResidents": 31679
+      },
+      "BuildingOccupancyMultiplier": 2.29,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 18.5
+    },
+    {
+      "WardId": "Ward 48 - Mansarovar Sector 7",
+      "WardName": "Mansarovar Mixed Residential",
+      "PopulationDensityPerHectare": 190,
+      "EstimatedWardPopulation": 41800,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 3427,
+        "ChildrenUnder5Count": 4096,
+        "InformalTinRoofSettlementResidents": 4598
+      },
+      "BuildingOccupancyMultiplier": 1.21,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 9.8
+    }
+  ]
+}

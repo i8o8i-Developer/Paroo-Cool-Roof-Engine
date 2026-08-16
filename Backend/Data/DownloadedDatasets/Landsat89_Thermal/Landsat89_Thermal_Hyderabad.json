@@ -1,0 +1,71 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "USGS Landsat 8/9 OLI/TIRS Collection 2 Level-2 Surface Temperature",
+    "TargetCity": "Hyderabad",
+    "GeographicBounds": {
+      "MinLon": 78.44,
+      "MinLat": 17.35,
+      "MaxLon": 78.53,
+      "MaxLat": 17.43,
+      "CenterCoordinates": [
+        17.385,
+        78.4867
+      ]
+    },
+    "SensorPlatform": "Landsat-9 TIRS-2 (Thermal Infrared Sensor)",
+    "SpatialResolutionMeters": 30.0,
+    "AcquisitionTimestampUTC": "2024-05-18T05:32:14Z",
+    "SolarZenithAngleDegrees": 18.4,
+    "MeanAtmosphericTransmittance": 0.88,
+    "MeanEmissivity": 0.942,
+    "QualityAssessmentMask": "100% Clear Sky (Zero Cloud Shadow/Contamination)"
+  },
+  "ThermalCalibrationParameters": {
+    "K1_ConstantBand10": 774.8853,
+    "K2_ConstantBand10": 1321.0789,
+    "RadianceMultiBand10": 0.0003342,
+    "RadianceAddBand10": 0.1
+  },
+  "UrbanWardThermalTelemetry": [
+    {
+      "WardId": "Ward 45 - Charminar Old City",
+      "WardName": "Charminar Heritage & Dense Residential",
+      "MeanDaySurfaceTemperatureCelsius": 50.22,
+      "PeakPixelSurfaceTemperatureCelsius": 53.34,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 6.92,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 11.64,
+      "NarrowbandEmissivityBand10": 0.965,
+      "ExtremeHeatExposureAlertLevel": "Severe Red Alert"
+    },
+    {
+      "WardId": "Ward 88 - Jeedimetla Industrial",
+      "WardName": "Jeedimetla Manufacturing Corridor",
+      "MeanDaySurfaceTemperatureCelsius": 48.56,
+      "PeakPixelSurfaceTemperatureCelsius": 52.94,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 5.26,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 11.341,
+      "NarrowbandEmissivityBand10": 0.964,
+      "ExtremeHeatExposureAlertLevel": "Severe Red Alert"
+    },
+    {
+      "WardId": "Ward 62 - Borabanda Hill Colony",
+      "WardName": "Borabanda Informal Settlement",
+      "MeanDaySurfaceTemperatureCelsius": 44.92,
+      "PeakPixelSurfaceTemperatureCelsius": 48.62,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 1.62,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 10.686,
+      "NarrowbandEmissivityBand10": 0.957,
+      "ExtremeHeatExposureAlertLevel": "High Orange Alert"
+    },
+    {
+      "WardId": "Ward 104 - Banjara Hills",
+      "WardName": "Banjara Hills Residential",
+      "MeanDaySurfaceTemperatureCelsius": 47.78,
+      "PeakPixelSurfaceTemperatureCelsius": 52.67,
+      "SurfaceUrbanHeatIslandAnomalyDeltaT": 4.48,
+      "ThermalInfraredRadianceWatts_m2_sr_um": 11.2,
+      "NarrowbandEmissivityBand10": 0.964,
+      "ExtremeHeatExposureAlertLevel": "High Orange Alert"
+    }
+  ]
+}

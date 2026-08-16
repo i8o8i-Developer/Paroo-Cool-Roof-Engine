@@ -1,0 +1,85 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "NASA JPL ECOSTRESS Space Station Thermal Radiometer Experiment",
+    "TargetCity": "Jaipur",
+    "GeographicBounds": {
+      "MinLon": 75.75,
+      "MinLat": 26.88,
+      "MaxLon": 75.83,
+      "MaxLat": 26.95
+    },
+    "OrbitType": "International Space Station (ISS) Precessing Low Earth Orbit",
+    "SpatialResolutionMeters": 70.0,
+    "ProductType": "ECO2LSTE (Land Surface Temperature & Emissivity) & ECO3ETPTJPL (Evapotranspiration)",
+    "NocturnalOverpassTimestampUTC": "2024-05-19T21:14:08Z (02:44 AM IST Local)",
+    "DaytimeOverpassTimestampUTC": "2024-05-20T08:22:31Z (13:52 PM IST Local)"
+  },
+  "DiurnalThermalOverpasses": [
+    {
+      "PassTimeIST": "02:44 AM (Deep Midnight / Nocturnal Minimum)",
+      "MeanUrbanLSTCelsius": 34.0,
+      "HotspotSlumClustersCelsius": 37.1,
+      "ThermalInversionIndex": 0.82
+    },
+    {
+      "PassTimeIST": "06:15 AM (Dawn Baseline)",
+      "MeanUrbanLSTCelsius": 30.7,
+      "HotspotSlumClustersCelsius": 32.8,
+      "ThermalInversionIndex": 0.45
+    },
+    {
+      "PassTimeIST": "13:52 PM (Peak Solar Insolation)",
+      "MeanUrbanLSTCelsius": 48.5,
+      "HotspotSlumClustersCelsius": 52.7,
+      "ThermalInversionIndex": 0.94
+    },
+    {
+      "PassTimeIST": "21:30 PM (Post-Sunset Heat Trapping)",
+      "MeanUrbanLSTCelsius": 35.6,
+      "HotspotSlumClustersCelsius": 38.3,
+      "ThermalInversionIndex": 0.89
+    }
+  ],
+  "WardDiurnalRetentionMatrix": [
+    {
+      "WardId": "Ward 12 - Johari Walled City",
+      "WardName": "Johari Bazar & Walled City",
+      "MidnightSurfaceTemperatureCelsius": 34.88,
+      "NocturnalHeatRetentionAnomalyCelsius": 3.48,
+      "DiurnalThermalAmplitudeCelsius": 13.62,
+      "EvaporativeStressIndexESI": 0.204,
+      "WaterDeficitIndexWDI": 0.897,
+      "PhysiologicalHeatRecoveryInhibited": true
+    },
+    {
+      "WardId": "Ward 24 - Sanganer Industrial",
+      "WardName": "Sanganer Textile & Craft Zone",
+      "MidnightSurfaceTemperatureCelsius": 34.79,
+      "NocturnalHeatRetentionAnomalyCelsius": 3.39,
+      "DiurnalThermalAmplitudeCelsius": 13.71,
+      "EvaporativeStressIndexESI": 0.251,
+      "WaterDeficitIndexWDI": 0.891,
+      "PhysiologicalHeatRecoveryInhibited": true
+    },
+    {
+      "WardId": "Ward 35 - Jhotwara Resettlement",
+      "WardName": "Jhotwara Dense Settlement",
+      "MidnightSurfaceTemperatureCelsius": 33.72,
+      "NocturnalHeatRetentionAnomalyCelsius": 2.32,
+      "DiurnalThermalAmplitudeCelsius": 14.78,
+      "EvaporativeStressIndexESI": 0.197,
+      "WaterDeficitIndexWDI": 0.877,
+      "PhysiologicalHeatRecoveryInhibited": true
+    },
+    {
+      "WardId": "Ward 48 - Mansarovar Sector 7",
+      "WardName": "Mansarovar Mixed Residential",
+      "MidnightSurfaceTemperatureCelsius": 35.48,
+      "NocturnalHeatRetentionAnomalyCelsius": 4.08,
+      "DiurnalThermalAmplitudeCelsius": 13.02,
+      "EvaporativeStressIndexESI": 0.186,
+      "WaterDeficitIndexWDI": 0.835,
+      "PhysiologicalHeatRecoveryInhibited": true
+    }
+  ]
+}

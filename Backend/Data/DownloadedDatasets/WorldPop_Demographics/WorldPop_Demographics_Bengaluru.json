@@ -1,0 +1,61 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "WorldPop High-Resolution 100m Gridded Human Population & Demographic Heat Vulnerability",
+    "TargetCity": "Bengaluru",
+    "GeographicBounds": {
+      "MinLon": 77.55,
+      "MinLat": 12.93,
+      "MaxLon": 77.64,
+      "MaxLat": 13.01
+    },
+    "SpatialResolutionMeters": 100.0,
+    "ReferenceCensusYear": "2020/2025 Projected Baseline",
+    "TotalMunicipalPopulation": 8443675,
+    "DemographicStratification": {
+      "GeriatricElderlyAbove65YearsPercentage": 7.8,
+      "PediatricInfantsBelow5YearsPercentage": 9.4,
+      "InformalSettlementSlumPopulationPercentage": 31.6
+    }
+  },
+  "WardDemographicShieldingTelemetry": [
+    {
+      "WardId": "Ward 40 - Peenya Industrial Stage 1",
+      "WardName": "Peenya Manufacturing Zone",
+      "PopulationDensityPerHectare": 210,
+      "EstimatedWardPopulation": 46200,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 3788,
+        "ChildrenUnder5Count": 4527,
+        "InformalTinRoofSettlementResidents": 28182
+      },
+      "BuildingOccupancyMultiplier": 1.34,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 10.8
+    },
+    {
+      "WardId": "Ward 92 - Shivajinagar Dense",
+      "WardName": "Shivajinagar Historic Settlement",
+      "PopulationDensityPerHectare": 610,
+      "EstimatedWardPopulation": 134200,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 11004,
+        "ChildrenUnder5Count": 13151,
+        "InformalTinRoofSettlementResidents": 45628
+      },
+      "BuildingOccupancyMultiplier": 3.88,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 31.4
+    },
+    {
+      "WardId": "Ward 174 - HSR Sector 2",
+      "WardName": "HSR Layout Modern Residential",
+      "PopulationDensityPerHectare": 160,
+      "EstimatedWardPopulation": 35200,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 2886,
+        "ChildrenUnder5Count": 3449,
+        "InformalTinRoofSettlementResidents": 2463
+      },
+      "BuildingOccupancyMultiplier": 1.02,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 8.2
+    }
+  ]
+}

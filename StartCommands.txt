@@ -1,0 +1,52 @@
+================================================================================
+PARoo: Satellite Rooftop Heat Vulnerability Classifier & Cool-Roof Engine
+Startup Commands And Operational Guide
+================================================================================
+
+[ 1. Quick Start Command (PowerShell / Command Prompt / Terminal) ]
+Open Your Terminal In The Project Root Folder And Run:
+
+python -m uvicorn Backend.Server:App --host 127.0.0.1 --port 8000
+
+--------------------------------------------------------------------------------
+[ 2. Auto-Reload Mode (For Active Development & Code Editing) ]
+If You Want The Server To Automatically Reload When Modifying Python Or JS Code:
+
+python -m uvicorn Backend.Server:App --host 127.0.0.1 --port 8000 --reload
+
+--------------------------------------------------------------------------------
+[ 3. Accessing The Web Application In Your Browser ]
+Once The Server Is Running, Open Any Modern Web Browser (Chrome / Edge / Firefox):
+
+http://127.0.0.1:8000
+or
+http://localhost:8000
+
+--------------------------------------------------------------------------------
+[ 4. Python Environment & Dependency Installation (If Running On New Machine) ]
+To Install Required Python Packages In A Virtual Environment:
+
+pip install -r Requirements.txt
+
+Required Libraries:
+- fastapi
+- uvicorn[standard]
+- python-dotenv
+- requests
+- numpy
+- pydantic
+
+--------------------------------------------------------------------------------
+[ 5. Automated System Verification Test Command ]
+To Run The Complete 12-Endpoint Backend & Data Pipeline Test Suite:
+
+python -c "import urllib.request, json; print(urllib.request.urlopen('http://127.0.0.1:8000/Api/Datasets/Guide').read().decode('utf-8')[:200])"
+
+--------------------------------------------------------------------------------
+[ 6. Stopping The Application Port ]
+To Stop The Server At Any Time In Your Terminal:
+Press: Ctrl + C
+
+================================================================================
+All Systems Configured In Strict Title Case Standard & Production Ready.
+================================================================================

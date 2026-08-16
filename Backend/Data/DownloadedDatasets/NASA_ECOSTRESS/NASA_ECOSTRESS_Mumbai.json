@@ -1,0 +1,75 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "NASA JPL ECOSTRESS Space Station Thermal Radiometer Experiment",
+    "TargetCity": "Mumbai",
+    "GeographicBounds": {
+      "MinLon": 72.84,
+      "MinLat": 19.03,
+      "MaxLon": 72.92,
+      "MaxLat": 19.11
+    },
+    "OrbitType": "International Space Station (ISS) Precessing Low Earth Orbit",
+    "SpatialResolutionMeters": 70.0,
+    "ProductType": "ECO2LSTE (Land Surface Temperature & Emissivity) & ECO3ETPTJPL (Evapotranspiration)",
+    "NocturnalOverpassTimestampUTC": "2024-05-19T21:14:08Z (02:44 AM IST Local)",
+    "DaytimeOverpassTimestampUTC": "2024-05-20T08:22:31Z (13:52 PM IST Local)"
+  },
+  "DiurnalThermalOverpasses": [
+    {
+      "PassTimeIST": "02:44 AM (Deep Midnight / Nocturnal Minimum)",
+      "MeanUrbanLSTCelsius": 33.3,
+      "HotspotSlumClustersCelsius": 36.4,
+      "ThermalInversionIndex": 0.82
+    },
+    {
+      "PassTimeIST": "06:15 AM (Dawn Baseline)",
+      "MeanUrbanLSTCelsius": 30.0,
+      "HotspotSlumClustersCelsius": 32.1,
+      "ThermalInversionIndex": 0.45
+    },
+    {
+      "PassTimeIST": "13:52 PM (Peak Solar Insolation)",
+      "MeanUrbanLSTCelsius": 43.5,
+      "HotspotSlumClustersCelsius": 47.7,
+      "ThermalInversionIndex": 0.94
+    },
+    {
+      "PassTimeIST": "21:30 PM (Post-Sunset Heat Trapping)",
+      "MeanUrbanLSTCelsius": 34.9,
+      "HotspotSlumClustersCelsius": 37.6,
+      "ThermalInversionIndex": 0.89
+    }
+  ],
+  "WardDiurnalRetentionMatrix": [
+    {
+      "WardId": "Ward G/N - Dharavi Central",
+      "WardName": "Dharavi High Density Settlement",
+      "MidnightSurfaceTemperatureCelsius": 33.19,
+      "NocturnalHeatRetentionAnomalyCelsius": 2.49,
+      "DiurnalThermalAmplitudeCelsius": 10.31,
+      "EvaporativeStressIndexESI": 0.26,
+      "WaterDeficitIndexWDI": 0.871,
+      "PhysiologicalHeatRecoveryInhibited": true
+    },
+    {
+      "WardId": "Ward M/E - Govandi Slum",
+      "WardName": "Govandi Resettlement Colony",
+      "MidnightSurfaceTemperatureCelsius": 34.46,
+      "NocturnalHeatRetentionAnomalyCelsius": 3.76,
+      "DiurnalThermalAmplitudeCelsius": 9.04,
+      "EvaporativeStressIndexESI": 0.26,
+      "WaterDeficitIndexWDI": 0.855,
+      "PhysiologicalHeatRecoveryInhibited": true
+    },
+    {
+      "WardId": "Ward H/W - Bandra West",
+      "WardName": "Bandra Coastal Residential",
+      "MidnightSurfaceTemperatureCelsius": 34.87,
+      "NocturnalHeatRetentionAnomalyCelsius": 4.17,
+      "DiurnalThermalAmplitudeCelsius": 8.63,
+      "EvaporativeStressIndexESI": 0.218,
+      "WaterDeficitIndexWDI": 0.898,
+      "PhysiologicalHeatRecoveryInhibited": true
+    }
+  ]
+}

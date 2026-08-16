@@ -1,0 +1,65 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "NASA JPL ECOSTRESS Space Station Thermal Radiometer Experiment",
+    "TargetCity": "Surat",
+    "GeographicBounds": {
+      "MinLon": 72.79,
+      "MinLat": 21.13,
+      "MaxLon": 72.87,
+      "MaxLat": 21.21
+    },
+    "OrbitType": "International Space Station (ISS) Precessing Low Earth Orbit",
+    "SpatialResolutionMeters": 70.0,
+    "ProductType": "ECO2LSTE (Land Surface Temperature & Emissivity) & ECO3ETPTJPL (Evapotranspiration)",
+    "NocturnalOverpassTimestampUTC": "2024-05-19T21:14:08Z (02:44 AM IST Local)",
+    "DaytimeOverpassTimestampUTC": "2024-05-20T08:22:31Z (13:52 PM IST Local)"
+  },
+  "DiurnalThermalOverpasses": [
+    {
+      "PassTimeIST": "02:44 AM (Deep Midnight / Nocturnal Minimum)",
+      "MeanUrbanLSTCelsius": 34.3,
+      "HotspotSlumClustersCelsius": 37.4,
+      "ThermalInversionIndex": 0.82
+    },
+    {
+      "PassTimeIST": "06:15 AM (Dawn Baseline)",
+      "MeanUrbanLSTCelsius": 31.0,
+      "HotspotSlumClustersCelsius": 33.1,
+      "ThermalInversionIndex": 0.45
+    },
+    {
+      "PassTimeIST": "13:52 PM (Peak Solar Insolation)",
+      "MeanUrbanLSTCelsius": 47.3,
+      "HotspotSlumClustersCelsius": 51.5,
+      "ThermalInversionIndex": 0.94
+    },
+    {
+      "PassTimeIST": "21:30 PM (Post-Sunset Heat Trapping)",
+      "MeanUrbanLSTCelsius": 35.9,
+      "HotspotSlumClustersCelsius": 38.6,
+      "ThermalInversionIndex": 0.89
+    }
+  ],
+  "WardDiurnalRetentionMatrix": [
+    {
+      "WardId": "Ward 12 - Limbayat Textile Hub",
+      "WardName": "Limbayat Weaving & Industrial Cluster",
+      "MidnightSurfaceTemperatureCelsius": 35.63,
+      "NocturnalHeatRetentionAnomalyCelsius": 3.93,
+      "DiurnalThermalAmplitudeCelsius": 11.67,
+      "EvaporativeStressIndexESI": 0.201,
+      "WaterDeficitIndexWDI": 0.906,
+      "PhysiologicalHeatRecoveryInhibited": true
+    },
+    {
+      "WardId": "Ward 06 - Katargam Diamond Zone",
+      "WardName": "Katargam Mixed Commercial/Residential",
+      "MidnightSurfaceTemperatureCelsius": 32.05,
+      "NocturnalHeatRetentionAnomalyCelsius": 0.35,
+      "DiurnalThermalAmplitudeCelsius": 15.25,
+      "EvaporativeStressIndexESI": 0.187,
+      "WaterDeficitIndexWDI": 0.858,
+      "PhysiologicalHeatRecoveryInhibited": false
+    }
+  ]
+}

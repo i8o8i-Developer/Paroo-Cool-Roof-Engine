@@ -1,0 +1,5556 @@
+{
+  "type": "FeatureCollection",
+  "city": "Bengaluru",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5847,
+              12.9605
+            ],
+            [
+              77.58485,
+              12.9605
+            ],
+            [
+              77.58485,
+              12.96065
+            ],
+            [
+              77.5847,
+              12.96065
+            ],
+            [
+              77.5847,
+              12.9605
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00001",
+        "RoofAreaSquareMeters": 64.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5898,
+              12.964400000000001
+            ],
+            [
+              77.58995,
+              12.964400000000001
+            ],
+            [
+              77.58995,
+              12.964550000000001
+            ],
+            [
+              77.5898,
+              12.964550000000001
+            ],
+            [
+              77.5898,
+              12.964400000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00002",
+        "RoofAreaSquareMeters": 93.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5949,
+              12.968300000000001
+            ],
+            [
+              77.59505,
+              12.968300000000001
+            ],
+            [
+              77.59505,
+              12.96845
+            ],
+            [
+              77.5949,
+              12.96845
+            ],
+            [
+              77.5949,
+              12.968300000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00003",
+        "RoofAreaSquareMeters": 122.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6,
+              12.9722
+            ],
+            [
+              77.60015,
+              12.9722
+            ],
+            [
+              77.60015,
+              12.97235
+            ],
+            [
+              77.6,
+              12.97235
+            ],
+            [
+              77.6,
+              12.9722
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00004",
+        "RoofAreaSquareMeters": 151.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6051,
+              12.9761
+            ],
+            [
+              77.60525,
+              12.9761
+            ],
+            [
+              77.60525,
+              12.97625
+            ],
+            [
+              77.6051,
+              12.97625
+            ],
+            [
+              77.6051,
+              12.9761
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00005",
+        "RoofAreaSquareMeters": 180.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5802,
+              12.98
+            ],
+            [
+              77.58035000000001,
+              12.98
+            ],
+            [
+              77.58035000000001,
+              12.98015
+            ],
+            [
+              77.5802,
+              12.98015
+            ],
+            [
+              77.5802,
+              12.98
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00006",
+        "RoofAreaSquareMeters": 209.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5853,
+              12.9839
+            ],
+            [
+              77.58545000000001,
+              12.9839
+            ],
+            [
+              77.58545000000001,
+              12.98405
+            ],
+            [
+              77.5853,
+              12.98405
+            ],
+            [
+              77.5853,
+              12.9839
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00007",
+        "RoofAreaSquareMeters": 238.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5904,
+              12.9578
+            ],
+            [
+              77.59055000000001,
+              12.9578
+            ],
+            [
+              77.59055000000001,
+              12.95795
+            ],
+            [
+              77.5904,
+              12.95795
+            ],
+            [
+              77.5904,
+              12.9578
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00008",
+        "RoofAreaSquareMeters": 267.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5955,
+              12.9617
+            ],
+            [
+              77.59565,
+              12.9617
+            ],
+            [
+              77.59565,
+              12.96185
+            ],
+            [
+              77.5955,
+              12.96185
+            ],
+            [
+              77.5955,
+              12.9617
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00009",
+        "RoofAreaSquareMeters": 296.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6006,
+              12.9656
+            ],
+            [
+              77.60075,
+              12.9656
+            ],
+            [
+              77.60075,
+              12.96575
+            ],
+            [
+              77.6006,
+              12.96575
+            ],
+            [
+              77.6006,
+              12.9656
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00010",
+        "RoofAreaSquareMeters": 325.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6057,
+              12.9695
+            ],
+            [
+              77.60585,
+              12.9695
+            ],
+            [
+              77.60585,
+              12.96965
+            ],
+            [
+              77.6057,
+              12.96965
+            ],
+            [
+              77.6057,
+              12.9695
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00011",
+        "RoofAreaSquareMeters": 354.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5808,
+              12.9734
+            ],
+            [
+              77.58095,
+              12.9734
+            ],
+            [
+              77.58095,
+              12.97355
+            ],
+            [
+              77.5808,
+              12.97355
+            ],
+            [
+              77.5808,
+              12.9734
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00012",
+        "RoofAreaSquareMeters": 383.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5859,
+              12.9773
+            ],
+            [
+              77.58605,
+              12.9773
+            ],
+            [
+              77.58605,
+              12.97745
+            ],
+            [
+              77.5859,
+              12.97745
+            ],
+            [
+              77.5859,
+              12.9773
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00013",
+        "RoofAreaSquareMeters": 412.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.591,
+              12.981200000000001
+            ],
+            [
+              77.59115,
+              12.981200000000001
+            ],
+            [
+              77.59115,
+              12.98135
+            ],
+            [
+              77.591,
+              12.98135
+            ],
+            [
+              77.591,
+              12.981200000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00014",
+        "RoofAreaSquareMeters": 441.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.59609999999999,
+              12.985100000000001
+            ],
+            [
+              77.59625,
+              12.985100000000001
+            ],
+            [
+              77.59625,
+              12.98525
+            ],
+            [
+              77.59609999999999,
+              12.98525
+            ],
+            [
+              77.59609999999999,
+              12.985100000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00015",
+        "RoofAreaSquareMeters": 470.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6012,
+              12.959
+            ],
+            [
+              77.60135000000001,
+              12.959
+            ],
+            [
+              77.60135000000001,
+              12.95915
+            ],
+            [
+              77.6012,
+              12.95915
+            ],
+            [
+              77.6012,
+              12.959
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00016",
+        "RoofAreaSquareMeters": 499.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6063,
+              12.962900000000001
+            ],
+            [
+              77.60645000000001,
+              12.962900000000001
+            ],
+            [
+              77.60645000000001,
+              12.96305
+            ],
+            [
+              77.6063,
+              12.96305
+            ],
+            [
+              77.6063,
+              12.962900000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00017",
+        "RoofAreaSquareMeters": 528.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5814,
+              12.966800000000001
+            ],
+            [
+              77.58155000000001,
+              12.966800000000001
+            ],
+            [
+              77.58155000000001,
+              12.96695
+            ],
+            [
+              77.5814,
+              12.96695
+            ],
+            [
+              77.5814,
+              12.966800000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00018",
+        "RoofAreaSquareMeters": 557.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5865,
+              12.9707
+            ],
+            [
+              77.58665,
+              12.9707
+            ],
+            [
+              77.58665,
+              12.97085
+            ],
+            [
+              77.5865,
+              12.97085
+            ],
+            [
+              77.5865,
+              12.9707
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00019",
+        "RoofAreaSquareMeters": 36.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5916,
+              12.9746
+            ],
+            [
+              77.59175,
+              12.9746
+            ],
+            [
+              77.59175,
+              12.97475
+            ],
+            [
+              77.5916,
+              12.97475
+            ],
+            [
+              77.5916,
+              12.9746
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00020",
+        "RoofAreaSquareMeters": 65.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5967,
+              12.9785
+            ],
+            [
+              77.59685,
+              12.9785
+            ],
+            [
+              77.59685,
+              12.97865
+            ],
+            [
+              77.5967,
+              12.97865
+            ],
+            [
+              77.5967,
+              12.9785
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00021",
+        "RoofAreaSquareMeters": 94.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6018,
+              12.9824
+            ],
+            [
+              77.60195,
+              12.9824
+            ],
+            [
+              77.60195,
+              12.98255
+            ],
+            [
+              77.6018,
+              12.98255
+            ],
+            [
+              77.6018,
+              12.9824
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00022",
+        "RoofAreaSquareMeters": 123.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6069,
+              12.9863
+            ],
+            [
+              77.60705,
+              12.9863
+            ],
+            [
+              77.60705,
+              12.98645
+            ],
+            [
+              77.6069,
+              12.98645
+            ],
+            [
+              77.6069,
+              12.9863
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00023",
+        "RoofAreaSquareMeters": 152.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.582,
+              12.9602
+            ],
+            [
+              77.58215,
+              12.9602
+            ],
+            [
+              77.58215,
+              12.96035
+            ],
+            [
+              77.582,
+              12.96035
+            ],
+            [
+              77.582,
+              12.9602
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00024",
+        "RoofAreaSquareMeters": 181.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5871,
+              12.9641
+            ],
+            [
+              77.58725000000001,
+              12.9641
+            ],
+            [
+              77.58725000000001,
+              12.96425
+            ],
+            [
+              77.5871,
+              12.96425
+            ],
+            [
+              77.5871,
+              12.9641
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00025",
+        "RoofAreaSquareMeters": 210.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5922,
+              12.968
+            ],
+            [
+              77.59235000000001,
+              12.968
+            ],
+            [
+              77.59235000000001,
+              12.96815
+            ],
+            [
+              77.5922,
+              12.96815
+            ],
+            [
+              77.5922,
+              12.968
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00026",
+        "RoofAreaSquareMeters": 239.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5973,
+              12.9719
+            ],
+            [
+              77.59745000000001,
+              12.9719
+            ],
+            [
+              77.59745000000001,
+              12.97205
+            ],
+            [
+              77.5973,
+              12.97205
+            ],
+            [
+              77.5973,
+              12.9719
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00027",
+        "RoofAreaSquareMeters": 268.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6024,
+              12.975800000000001
+            ],
+            [
+              77.60255000000001,
+              12.975800000000001
+            ],
+            [
+              77.60255000000001,
+              12.975950000000001
+            ],
+            [
+              77.6024,
+              12.975950000000001
+            ],
+            [
+              77.6024,
+              12.975800000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00028",
+        "RoofAreaSquareMeters": 297.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6075,
+              12.979700000000001
+            ],
+            [
+              77.60765,
+              12.979700000000001
+            ],
+            [
+              77.60765,
+              12.97985
+            ],
+            [
+              77.6075,
+              12.97985
+            ],
+            [
+              77.6075,
+              12.979700000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00029",
+        "RoofAreaSquareMeters": 326.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5826,
+              12.983600000000001
+            ],
+            [
+              77.58275,
+              12.983600000000001
+            ],
+            [
+              77.58275,
+              12.98375
+            ],
+            [
+              77.5826,
+              12.98375
+            ],
+            [
+              77.5826,
+              12.983600000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00030",
+        "RoofAreaSquareMeters": 355.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5877,
+              12.957500000000001
+            ],
+            [
+              77.58785,
+              12.957500000000001
+            ],
+            [
+              77.58785,
+              12.957650000000001
+            ],
+            [
+              77.5877,
+              12.957650000000001
+            ],
+            [
+              77.5877,
+              12.957500000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00031",
+        "RoofAreaSquareMeters": 384.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5928,
+              12.961400000000001
+            ],
+            [
+              77.59295,
+              12.961400000000001
+            ],
+            [
+              77.59295,
+              12.96155
+            ],
+            [
+              77.5928,
+              12.96155
+            ],
+            [
+              77.5928,
+              12.961400000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00032",
+        "RoofAreaSquareMeters": 413.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5979,
+              12.965300000000001
+            ],
+            [
+              77.59805,
+              12.965300000000001
+            ],
+            [
+              77.59805,
+              12.96545
+            ],
+            [
+              77.5979,
+              12.96545
+            ],
+            [
+              77.5979,
+              12.965300000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00033",
+        "RoofAreaSquareMeters": 442.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.603,
+              12.9692
+            ],
+            [
+              77.60315,
+              12.9692
+            ],
+            [
+              77.60315,
+              12.96935
+            ],
+            [
+              77.603,
+              12.96935
+            ],
+            [
+              77.603,
+              12.9692
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00034",
+        "RoofAreaSquareMeters": 471.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6081,
+              12.9731
+            ],
+            [
+              77.60825,
+              12.9731
+            ],
+            [
+              77.60825,
+              12.97325
+            ],
+            [
+              77.6081,
+              12.97325
+            ],
+            [
+              77.6081,
+              12.9731
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00035",
+        "RoofAreaSquareMeters": 500.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5832,
+              12.977
+            ],
+            [
+              77.58335000000001,
+              12.977
+            ],
+            [
+              77.58335000000001,
+              12.97715
+            ],
+            [
+              77.5832,
+              12.97715
+            ],
+            [
+              77.5832,
+              12.977
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00036",
+        "RoofAreaSquareMeters": 529.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5883,
+              12.9809
+            ],
+            [
+              77.58845000000001,
+              12.9809
+            ],
+            [
+              77.58845000000001,
+              12.98105
+            ],
+            [
+              77.5883,
+              12.98105
+            ],
+            [
+              77.5883,
+              12.9809
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00037",
+        "RoofAreaSquareMeters": 558.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5934,
+              12.9848
+            ],
+            [
+              77.59355000000001,
+              12.9848
+            ],
+            [
+              77.59355000000001,
+              12.98495
+            ],
+            [
+              77.5934,
+              12.98495
+            ],
+            [
+              77.5934,
+              12.9848
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00038",
+        "RoofAreaSquareMeters": 37.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5985,
+              12.9587
+            ],
+            [
+              77.59865,
+              12.9587
+            ],
+            [
+              77.59865,
+              12.95885
+            ],
+            [
+              77.5985,
+              12.95885
+            ],
+            [
+              77.5985,
+              12.9587
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00039",
+        "RoofAreaSquareMeters": 66.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6036,
+              12.9626
+            ],
+            [
+              77.60375,
+              12.9626
+            ],
+            [
+              77.60375,
+              12.96275
+            ],
+            [
+              77.6036,
+              12.96275
+            ],
+            [
+              77.6036,
+              12.9626
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00040",
+        "RoofAreaSquareMeters": 95.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6087,
+              12.9665
+            ],
+            [
+              77.60885,
+              12.9665
+            ],
+            [
+              77.60885,
+              12.96665
+            ],
+            [
+              77.6087,
+              12.96665
+            ],
+            [
+              77.6087,
+              12.9665
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00041",
+        "RoofAreaSquareMeters": 124.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5838,
+              12.9704
+            ],
+            [
+              77.58395,
+              12.9704
+            ],
+            [
+              77.58395,
+              12.97055
+            ],
+            [
+              77.5838,
+              12.97055
+            ],
+            [
+              77.5838,
+              12.9704
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00042",
+        "RoofAreaSquareMeters": 153.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5889,
+              12.974300000000001
+            ],
+            [
+              77.58905,
+              12.974300000000001
+            ],
+            [
+              77.58905,
+              12.974450000000001
+            ],
+            [
+              77.5889,
+              12.974450000000001
+            ],
+            [
+              77.5889,
+              12.974300000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00043",
+        "RoofAreaSquareMeters": 182.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.594,
+              12.978200000000001
+            ],
+            [
+              77.59415,
+              12.978200000000001
+            ],
+            [
+              77.59415,
+              12.97835
+            ],
+            [
+              77.594,
+              12.97835
+            ],
+            [
+              77.594,
+              12.978200000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00044",
+        "RoofAreaSquareMeters": 211.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.59909999999999,
+              12.9821
+            ],
+            [
+              77.59925,
+              12.9821
+            ],
+            [
+              77.59925,
+              12.98225
+            ],
+            [
+              77.59909999999999,
+              12.98225
+            ],
+            [
+              77.59909999999999,
+              12.9821
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00045",
+        "RoofAreaSquareMeters": 240.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6042,
+              12.986
+            ],
+            [
+              77.60435000000001,
+              12.986
+            ],
+            [
+              77.60435000000001,
+              12.98615
+            ],
+            [
+              77.6042,
+              12.98615
+            ],
+            [
+              77.6042,
+              12.986
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00046",
+        "RoofAreaSquareMeters": 269.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6093,
+              12.959900000000001
+            ],
+            [
+              77.60945000000001,
+              12.959900000000001
+            ],
+            [
+              77.60945000000001,
+              12.96005
+            ],
+            [
+              77.6093,
+              12.96005
+            ],
+            [
+              77.6093,
+              12.959900000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00047",
+        "RoofAreaSquareMeters": 298.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5844,
+              12.9638
+            ],
+            [
+              77.58455000000001,
+              12.9638
+            ],
+            [
+              77.58455000000001,
+              12.96395
+            ],
+            [
+              77.5844,
+              12.96395
+            ],
+            [
+              77.5844,
+              12.9638
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00048",
+        "RoofAreaSquareMeters": 327.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5895,
+              12.9677
+            ],
+            [
+              77.58965,
+              12.9677
+            ],
+            [
+              77.58965,
+              12.96785
+            ],
+            [
+              77.5895,
+              12.96785
+            ],
+            [
+              77.5895,
+              12.9677
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00049",
+        "RoofAreaSquareMeters": 356.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5946,
+              12.9716
+            ],
+            [
+              77.59475,
+              12.9716
+            ],
+            [
+              77.59475,
+              12.97175
+            ],
+            [
+              77.5946,
+              12.97175
+            ],
+            [
+              77.5946,
+              12.9716
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00050",
+        "RoofAreaSquareMeters": 385.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5997,
+              12.9755
+            ],
+            [
+              77.59985,
+              12.9755
+            ],
+            [
+              77.59985,
+              12.97565
+            ],
+            [
+              77.5997,
+              12.97565
+            ],
+            [
+              77.5997,
+              12.9755
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00051",
+        "RoofAreaSquareMeters": 414.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6048,
+              12.9794
+            ],
+            [
+              77.60495,
+              12.9794
+            ],
+            [
+              77.60495,
+              12.97955
+            ],
+            [
+              77.6048,
+              12.97955
+            ],
+            [
+              77.6048,
+              12.9794
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00052",
+        "RoofAreaSquareMeters": 443.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5799,
+              12.9833
+            ],
+            [
+              77.58005,
+              12.9833
+            ],
+            [
+              77.58005,
+              12.98345
+            ],
+            [
+              77.5799,
+              12.98345
+            ],
+            [
+              77.5799,
+              12.9833
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00053",
+        "RoofAreaSquareMeters": 472.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.585,
+              12.9572
+            ],
+            [
+              77.58515,
+              12.9572
+            ],
+            [
+              77.58515,
+              12.95735
+            ],
+            [
+              77.585,
+              12.95735
+            ],
+            [
+              77.585,
+              12.9572
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00054",
+        "RoofAreaSquareMeters": 501.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5901,
+              12.9611
+            ],
+            [
+              77.59025000000001,
+              12.9611
+            ],
+            [
+              77.59025000000001,
+              12.96125
+            ],
+            [
+              77.5901,
+              12.96125
+            ],
+            [
+              77.5901,
+              12.9611
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00055",
+        "RoofAreaSquareMeters": 530.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5952,
+              12.965
+            ],
+            [
+              77.59535000000001,
+              12.965
+            ],
+            [
+              77.59535000000001,
+              12.96515
+            ],
+            [
+              77.5952,
+              12.96515
+            ],
+            [
+              77.5952,
+              12.965
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00056",
+        "RoofAreaSquareMeters": 559.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6003,
+              12.9689
+            ],
+            [
+              77.60045000000001,
+              12.9689
+            ],
+            [
+              77.60045000000001,
+              12.96905
+            ],
+            [
+              77.6003,
+              12.96905
+            ],
+            [
+              77.6003,
+              12.9689
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00057",
+        "RoofAreaSquareMeters": 38.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6054,
+              12.972800000000001
+            ],
+            [
+              77.60555000000001,
+              12.972800000000001
+            ],
+            [
+              77.60555000000001,
+              12.97295
+            ],
+            [
+              77.6054,
+              12.97295
+            ],
+            [
+              77.6054,
+              12.972800000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00058",
+        "RoofAreaSquareMeters": 67.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5805,
+              12.976700000000001
+            ],
+            [
+              77.58065,
+              12.976700000000001
+            ],
+            [
+              77.58065,
+              12.97685
+            ],
+            [
+              77.5805,
+              12.97685
+            ],
+            [
+              77.5805,
+              12.976700000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00059",
+        "RoofAreaSquareMeters": 96.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5856,
+              12.9806
+            ],
+            [
+              77.58575,
+              12.9806
+            ],
+            [
+              77.58575,
+              12.98075
+            ],
+            [
+              77.5856,
+              12.98075
+            ],
+            [
+              77.5856,
+              12.9806
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00060",
+        "RoofAreaSquareMeters": 125.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5907,
+              12.9845
+            ],
+            [
+              77.59085,
+              12.9845
+            ],
+            [
+              77.59085,
+              12.98465
+            ],
+            [
+              77.5907,
+              12.98465
+            ],
+            [
+              77.5907,
+              12.9845
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00061",
+        "RoofAreaSquareMeters": 154.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5958,
+              12.958400000000001
+            ],
+            [
+              77.59595,
+              12.958400000000001
+            ],
+            [
+              77.59595,
+              12.95855
+            ],
+            [
+              77.5958,
+              12.95855
+            ],
+            [
+              77.5958,
+              12.958400000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00062",
+        "RoofAreaSquareMeters": 183.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6009,
+              12.9623
+            ],
+            [
+              77.60105,
+              12.9623
+            ],
+            [
+              77.60105,
+              12.96245
+            ],
+            [
+              77.6009,
+              12.96245
+            ],
+            [
+              77.6009,
+              12.9623
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00063",
+        "RoofAreaSquareMeters": 212.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.606,
+              12.9662
+            ],
+            [
+              77.60615,
+              12.9662
+            ],
+            [
+              77.60615,
+              12.96635
+            ],
+            [
+              77.606,
+              12.96635
+            ],
+            [
+              77.606,
+              12.9662
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00064",
+        "RoofAreaSquareMeters": 241.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5811,
+              12.9701
+            ],
+            [
+              77.58125000000001,
+              12.9701
+            ],
+            [
+              77.58125000000001,
+              12.97025
+            ],
+            [
+              77.5811,
+              12.97025
+            ],
+            [
+              77.5811,
+              12.9701
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00065",
+        "RoofAreaSquareMeters": 270.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5862,
+              12.974
+            ],
+            [
+              77.58635000000001,
+              12.974
+            ],
+            [
+              77.58635000000001,
+              12.97415
+            ],
+            [
+              77.5862,
+              12.97415
+            ],
+            [
+              77.5862,
+              12.974
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00066",
+        "RoofAreaSquareMeters": 299.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5913,
+              12.9779
+            ],
+            [
+              77.59145000000001,
+              12.9779
+            ],
+            [
+              77.59145000000001,
+              12.97805
+            ],
+            [
+              77.5913,
+              12.97805
+            ],
+            [
+              77.5913,
+              12.9779
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00067",
+        "RoofAreaSquareMeters": 328.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5964,
+              12.9818
+            ],
+            [
+              77.59655000000001,
+              12.9818
+            ],
+            [
+              77.59655000000001,
+              12.98195
+            ],
+            [
+              77.5964,
+              12.98195
+            ],
+            [
+              77.5964,
+              12.9818
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00068",
+        "RoofAreaSquareMeters": 357.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6015,
+              12.9857
+            ],
+            [
+              77.60165,
+              12.9857
+            ],
+            [
+              77.60165,
+              12.98585
+            ],
+            [
+              77.6015,
+              12.98585
+            ],
+            [
+              77.6015,
+              12.9857
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00069",
+        "RoofAreaSquareMeters": 386.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6066,
+              12.9596
+            ],
+            [
+              77.60675,
+              12.9596
+            ],
+            [
+              77.60675,
+              12.95975
+            ],
+            [
+              77.6066,
+              12.95975
+            ],
+            [
+              77.6066,
+              12.9596
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00070",
+        "RoofAreaSquareMeters": 415.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5817,
+              12.9635
+            ],
+            [
+              77.58185,
+              12.9635
+            ],
+            [
+              77.58185,
+              12.96365
+            ],
+            [
+              77.5817,
+              12.96365
+            ],
+            [
+              77.5817,
+              12.9635
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00071",
+        "RoofAreaSquareMeters": 444.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5868,
+              12.9674
+            ],
+            [
+              77.58695,
+              12.9674
+            ],
+            [
+              77.58695,
+              12.96755
+            ],
+            [
+              77.5868,
+              12.96755
+            ],
+            [
+              77.5868,
+              12.9674
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00072",
+        "RoofAreaSquareMeters": 473.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5919,
+              12.971300000000001
+            ],
+            [
+              77.59205,
+              12.971300000000001
+            ],
+            [
+              77.59205,
+              12.97145
+            ],
+            [
+              77.5919,
+              12.97145
+            ],
+            [
+              77.5919,
+              12.971300000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00073",
+        "RoofAreaSquareMeters": 502.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.597,
+              12.975200000000001
+            ],
+            [
+              77.59715,
+              12.975200000000001
+            ],
+            [
+              77.59715,
+              12.97535
+            ],
+            [
+              77.597,
+              12.97535
+            ],
+            [
+              77.597,
+              12.975200000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00074",
+        "RoofAreaSquareMeters": 531.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6021,
+              12.9791
+            ],
+            [
+              77.60225,
+              12.9791
+            ],
+            [
+              77.60225,
+              12.97925
+            ],
+            [
+              77.6021,
+              12.97925
+            ],
+            [
+              77.6021,
+              12.9791
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00075",
+        "RoofAreaSquareMeters": 560.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6072,
+              12.983
+            ],
+            [
+              77.60735000000001,
+              12.983
+            ],
+            [
+              77.60735000000001,
+              12.98315
+            ],
+            [
+              77.6072,
+              12.98315
+            ],
+            [
+              77.6072,
+              12.983
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00076",
+        "RoofAreaSquareMeters": 39.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5823,
+              12.956900000000001
+            ],
+            [
+              77.58245000000001,
+              12.956900000000001
+            ],
+            [
+              77.58245000000001,
+              12.95705
+            ],
+            [
+              77.5823,
+              12.95705
+            ],
+            [
+              77.5823,
+              12.956900000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00077",
+        "RoofAreaSquareMeters": 68.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5874,
+              12.9608
+            ],
+            [
+              77.58755000000001,
+              12.9608
+            ],
+            [
+              77.58755000000001,
+              12.96095
+            ],
+            [
+              77.5874,
+              12.96095
+            ],
+            [
+              77.5874,
+              12.9608
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00078",
+        "RoofAreaSquareMeters": 97.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5925,
+              12.9647
+            ],
+            [
+              77.59265,
+              12.9647
+            ],
+            [
+              77.59265,
+              12.96485
+            ],
+            [
+              77.5925,
+              12.96485
+            ],
+            [
+              77.5925,
+              12.9647
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00079",
+        "RoofAreaSquareMeters": 126.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5976,
+              12.9686
+            ],
+            [
+              77.59775,
+              12.9686
+            ],
+            [
+              77.59775,
+              12.96875
+            ],
+            [
+              77.5976,
+              12.96875
+            ],
+            [
+              77.5976,
+              12.9686
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00080",
+        "RoofAreaSquareMeters": 155.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6027,
+              12.9725
+            ],
+            [
+              77.60285,
+              12.9725
+            ],
+            [
+              77.60285,
+              12.97265
+            ],
+            [
+              77.6027,
+              12.97265
+            ],
+            [
+              77.6027,
+              12.9725
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00081",
+        "RoofAreaSquareMeters": 184.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6078,
+              12.9764
+            ],
+            [
+              77.60795,
+              12.9764
+            ],
+            [
+              77.60795,
+              12.97655
+            ],
+            [
+              77.6078,
+              12.97655
+            ],
+            [
+              77.6078,
+              12.9764
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00082",
+        "RoofAreaSquareMeters": 213.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5829,
+              12.9803
+            ],
+            [
+              77.58305,
+              12.9803
+            ],
+            [
+              77.58305,
+              12.98045
+            ],
+            [
+              77.5829,
+              12.98045
+            ],
+            [
+              77.5829,
+              12.9803
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00083",
+        "RoofAreaSquareMeters": 242.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.588,
+              12.984200000000001
+            ],
+            [
+              77.58815,
+              12.984200000000001
+            ],
+            [
+              77.58815,
+              12.984350000000001
+            ],
+            [
+              77.588,
+              12.984350000000001
+            ],
+            [
+              77.588,
+              12.984200000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00084",
+        "RoofAreaSquareMeters": 271.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5931,
+              12.9581
+            ],
+            [
+              77.59325000000001,
+              12.9581
+            ],
+            [
+              77.59325000000001,
+              12.95825
+            ],
+            [
+              77.5931,
+              12.95825
+            ],
+            [
+              77.5931,
+              12.9581
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00085",
+        "RoofAreaSquareMeters": 300.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5982,
+              12.962
+            ],
+            [
+              77.59835000000001,
+              12.962
+            ],
+            [
+              77.59835000000001,
+              12.96215
+            ],
+            [
+              77.5982,
+              12.96215
+            ],
+            [
+              77.5982,
+              12.962
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00086",
+        "RoofAreaSquareMeters": 329.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6033,
+              12.965900000000001
+            ],
+            [
+              77.60345000000001,
+              12.965900000000001
+            ],
+            [
+              77.60345000000001,
+              12.966050000000001
+            ],
+            [
+              77.6033,
+              12.966050000000001
+            ],
+            [
+              77.6033,
+              12.965900000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00087",
+        "RoofAreaSquareMeters": 358.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6084,
+              12.969800000000001
+            ],
+            [
+              77.60855000000001,
+              12.969800000000001
+            ],
+            [
+              77.60855000000001,
+              12.96995
+            ],
+            [
+              77.6084,
+              12.96995
+            ],
+            [
+              77.6084,
+              12.969800000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00088",
+        "RoofAreaSquareMeters": 387.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5835,
+              12.973700000000001
+            ],
+            [
+              77.58365,
+              12.973700000000001
+            ],
+            [
+              77.58365,
+              12.97385
+            ],
+            [
+              77.5835,
+              12.97385
+            ],
+            [
+              77.5835,
+              12.973700000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00089",
+        "RoofAreaSquareMeters": 416.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5886,
+              12.9776
+            ],
+            [
+              77.58875,
+              12.9776
+            ],
+            [
+              77.58875,
+              12.97775
+            ],
+            [
+              77.5886,
+              12.97775
+            ],
+            [
+              77.5886,
+              12.9776
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00090",
+        "RoofAreaSquareMeters": 445.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5937,
+              12.9815
+            ],
+            [
+              77.59385,
+              12.9815
+            ],
+            [
+              77.59385,
+              12.98165
+            ],
+            [
+              77.5937,
+              12.98165
+            ],
+            [
+              77.5937,
+              12.9815
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00091",
+        "RoofAreaSquareMeters": 474.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5988,
+              12.9854
+            ],
+            [
+              77.59895,
+              12.9854
+            ],
+            [
+              77.59895,
+              12.98555
+            ],
+            [
+              77.5988,
+              12.98555
+            ],
+            [
+              77.5988,
+              12.9854
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00092",
+        "RoofAreaSquareMeters": 503.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6039,
+              12.9593
+            ],
+            [
+              77.60405,
+              12.9593
+            ],
+            [
+              77.60405,
+              12.95945
+            ],
+            [
+              77.6039,
+              12.95945
+            ],
+            [
+              77.6039,
+              12.9593
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00093",
+        "RoofAreaSquareMeters": 532.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.609,
+              12.9632
+            ],
+            [
+              77.60915,
+              12.9632
+            ],
+            [
+              77.60915,
+              12.96335
+            ],
+            [
+              77.609,
+              12.96335
+            ],
+            [
+              77.609,
+              12.9632
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00094",
+        "RoofAreaSquareMeters": 561.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5841,
+              12.9671
+            ],
+            [
+              77.58425000000001,
+              12.9671
+            ],
+            [
+              77.58425000000001,
+              12.96725
+            ],
+            [
+              77.5841,
+              12.96725
+            ],
+            [
+              77.5841,
+              12.9671
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00095",
+        "RoofAreaSquareMeters": 40.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5892,
+              12.971
+            ],
+            [
+              77.58935000000001,
+              12.971
+            ],
+            [
+              77.58935000000001,
+              12.97115
+            ],
+            [
+              77.5892,
+              12.97115
+            ],
+            [
+              77.5892,
+              12.971
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00096",
+        "RoofAreaSquareMeters": 69.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5943,
+              12.9749
+            ],
+            [
+              77.59445000000001,
+              12.9749
+            ],
+            [
+              77.59445000000001,
+              12.97505
+            ],
+            [
+              77.5943,
+              12.97505
+            ],
+            [
+              77.5943,
+              12.9749
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00097",
+        "RoofAreaSquareMeters": 98.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5994,
+              12.9788
+            ],
+            [
+              77.59955000000001,
+              12.9788
+            ],
+            [
+              77.59955000000001,
+              12.97895
+            ],
+            [
+              77.5994,
+              12.97895
+            ],
+            [
+              77.5994,
+              12.9788
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00098",
+        "RoofAreaSquareMeters": 127.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6045,
+              12.982700000000001
+            ],
+            [
+              77.60465,
+              12.982700000000001
+            ],
+            [
+              77.60465,
+              12.982850000000001
+            ],
+            [
+              77.6045,
+              12.982850000000001
+            ],
+            [
+              77.6045,
+              12.982700000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00099",
+        "RoofAreaSquareMeters": 156.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5796,
+              12.9566
+            ],
+            [
+              77.57975,
+              12.9566
+            ],
+            [
+              77.57975,
+              12.95675
+            ],
+            [
+              77.5796,
+              12.95675
+            ],
+            [
+              77.5796,
+              12.9566
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00100",
+        "RoofAreaSquareMeters": 185.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5847,
+              12.9605
+            ],
+            [
+              77.58485,
+              12.9605
+            ],
+            [
+              77.58485,
+              12.96065
+            ],
+            [
+              77.5847,
+              12.96065
+            ],
+            [
+              77.5847,
+              12.9605
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00101",
+        "RoofAreaSquareMeters": 214.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5898,
+              12.964400000000001
+            ],
+            [
+              77.58995,
+              12.964400000000001
+            ],
+            [
+              77.58995,
+              12.964550000000001
+            ],
+            [
+              77.5898,
+              12.964550000000001
+            ],
+            [
+              77.5898,
+              12.964400000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00102",
+        "RoofAreaSquareMeters": 243.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5949,
+              12.968300000000001
+            ],
+            [
+              77.59505,
+              12.968300000000001
+            ],
+            [
+              77.59505,
+              12.96845
+            ],
+            [
+              77.5949,
+              12.96845
+            ],
+            [
+              77.5949,
+              12.968300000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00103",
+        "RoofAreaSquareMeters": 272.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6,
+              12.9722
+            ],
+            [
+              77.60015,
+              12.9722
+            ],
+            [
+              77.60015,
+              12.97235
+            ],
+            [
+              77.6,
+              12.97235
+            ],
+            [
+              77.6,
+              12.9722
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00104",
+        "RoofAreaSquareMeters": 301.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6051,
+              12.9761
+            ],
+            [
+              77.60525,
+              12.9761
+            ],
+            [
+              77.60525,
+              12.97625
+            ],
+            [
+              77.6051,
+              12.97625
+            ],
+            [
+              77.6051,
+              12.9761
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00105",
+        "RoofAreaSquareMeters": 330.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5802,
+              12.98
+            ],
+            [
+              77.58035000000001,
+              12.98
+            ],
+            [
+              77.58035000000001,
+              12.98015
+            ],
+            [
+              77.5802,
+              12.98015
+            ],
+            [
+              77.5802,
+              12.98
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00106",
+        "RoofAreaSquareMeters": 359.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5853,
+              12.9839
+            ],
+            [
+              77.58545000000001,
+              12.9839
+            ],
+            [
+              77.58545000000001,
+              12.98405
+            ],
+            [
+              77.5853,
+              12.98405
+            ],
+            [
+              77.5853,
+              12.9839
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00107",
+        "RoofAreaSquareMeters": 388.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5904,
+              12.9578
+            ],
+            [
+              77.59055000000001,
+              12.9578
+            ],
+            [
+              77.59055000000001,
+              12.95795
+            ],
+            [
+              77.5904,
+              12.95795
+            ],
+            [
+              77.5904,
+              12.9578
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00108",
+        "RoofAreaSquareMeters": 417.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5955,
+              12.9617
+            ],
+            [
+              77.59565,
+              12.9617
+            ],
+            [
+              77.59565,
+              12.96185
+            ],
+            [
+              77.5955,
+              12.96185
+            ],
+            [
+              77.5955,
+              12.9617
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00109",
+        "RoofAreaSquareMeters": 446.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6006,
+              12.9656
+            ],
+            [
+              77.60075,
+              12.9656
+            ],
+            [
+              77.60075,
+              12.96575
+            ],
+            [
+              77.6006,
+              12.96575
+            ],
+            [
+              77.6006,
+              12.9656
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00110",
+        "RoofAreaSquareMeters": 475.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6057,
+              12.9695
+            ],
+            [
+              77.60585,
+              12.9695
+            ],
+            [
+              77.60585,
+              12.96965
+            ],
+            [
+              77.6057,
+              12.96965
+            ],
+            [
+              77.6057,
+              12.9695
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00111",
+        "RoofAreaSquareMeters": 504.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5808,
+              12.9734
+            ],
+            [
+              77.58095,
+              12.9734
+            ],
+            [
+              77.58095,
+              12.97355
+            ],
+            [
+              77.5808,
+              12.97355
+            ],
+            [
+              77.5808,
+              12.9734
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00112",
+        "RoofAreaSquareMeters": 533.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5859,
+              12.9773
+            ],
+            [
+              77.58605,
+              12.9773
+            ],
+            [
+              77.58605,
+              12.97745
+            ],
+            [
+              77.5859,
+              12.97745
+            ],
+            [
+              77.5859,
+              12.9773
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00113",
+        "RoofAreaSquareMeters": 562.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.591,
+              12.981200000000001
+            ],
+            [
+              77.59115,
+              12.981200000000001
+            ],
+            [
+              77.59115,
+              12.98135
+            ],
+            [
+              77.591,
+              12.98135
+            ],
+            [
+              77.591,
+              12.981200000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00114",
+        "RoofAreaSquareMeters": 41.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.59609999999999,
+              12.985100000000001
+            ],
+            [
+              77.59625,
+              12.985100000000001
+            ],
+            [
+              77.59625,
+              12.98525
+            ],
+            [
+              77.59609999999999,
+              12.98525
+            ],
+            [
+              77.59609999999999,
+              12.985100000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00115",
+        "RoofAreaSquareMeters": 70.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6012,
+              12.959
+            ],
+            [
+              77.60135000000001,
+              12.959
+            ],
+            [
+              77.60135000000001,
+              12.95915
+            ],
+            [
+              77.6012,
+              12.95915
+            ],
+            [
+              77.6012,
+              12.959
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00116",
+        "RoofAreaSquareMeters": 99.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6063,
+              12.962900000000001
+            ],
+            [
+              77.60645000000001,
+              12.962900000000001
+            ],
+            [
+              77.60645000000001,
+              12.96305
+            ],
+            [
+              77.6063,
+              12.96305
+            ],
+            [
+              77.6063,
+              12.962900000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00117",
+        "RoofAreaSquareMeters": 128.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5814,
+              12.966800000000001
+            ],
+            [
+              77.58155000000001,
+              12.966800000000001
+            ],
+            [
+              77.58155000000001,
+              12.96695
+            ],
+            [
+              77.5814,
+              12.96695
+            ],
+            [
+              77.5814,
+              12.966800000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00118",
+        "RoofAreaSquareMeters": 157.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5865,
+              12.9707
+            ],
+            [
+              77.58665,
+              12.9707
+            ],
+            [
+              77.58665,
+              12.97085
+            ],
+            [
+              77.5865,
+              12.97085
+            ],
+            [
+              77.5865,
+              12.9707
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00119",
+        "RoofAreaSquareMeters": 186.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5916,
+              12.9746
+            ],
+            [
+              77.59175,
+              12.9746
+            ],
+            [
+              77.59175,
+              12.97475
+            ],
+            [
+              77.5916,
+              12.97475
+            ],
+            [
+              77.5916,
+              12.9746
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00120",
+        "RoofAreaSquareMeters": 215.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5967,
+              12.9785
+            ],
+            [
+              77.59685,
+              12.9785
+            ],
+            [
+              77.59685,
+              12.97865
+            ],
+            [
+              77.5967,
+              12.97865
+            ],
+            [
+              77.5967,
+              12.9785
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00121",
+        "RoofAreaSquareMeters": 244.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6018,
+              12.9824
+            ],
+            [
+              77.60195,
+              12.9824
+            ],
+            [
+              77.60195,
+              12.98255
+            ],
+            [
+              77.6018,
+              12.98255
+            ],
+            [
+              77.6018,
+              12.9824
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00122",
+        "RoofAreaSquareMeters": 273.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6069,
+              12.9863
+            ],
+            [
+              77.60705,
+              12.9863
+            ],
+            [
+              77.60705,
+              12.98645
+            ],
+            [
+              77.6069,
+              12.98645
+            ],
+            [
+              77.6069,
+              12.9863
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00123",
+        "RoofAreaSquareMeters": 302.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.582,
+              12.9602
+            ],
+            [
+              77.58215,
+              12.9602
+            ],
+            [
+              77.58215,
+              12.96035
+            ],
+            [
+              77.582,
+              12.96035
+            ],
+            [
+              77.582,
+              12.9602
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00124",
+        "RoofAreaSquareMeters": 331.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5871,
+              12.9641
+            ],
+            [
+              77.58725000000001,
+              12.9641
+            ],
+            [
+              77.58725000000001,
+              12.96425
+            ],
+            [
+              77.5871,
+              12.96425
+            ],
+            [
+              77.5871,
+              12.9641
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00125",
+        "RoofAreaSquareMeters": 360.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5922,
+              12.968
+            ],
+            [
+              77.59235000000001,
+              12.968
+            ],
+            [
+              77.59235000000001,
+              12.96815
+            ],
+            [
+              77.5922,
+              12.96815
+            ],
+            [
+              77.5922,
+              12.968
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00126",
+        "RoofAreaSquareMeters": 389.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5973,
+              12.9719
+            ],
+            [
+              77.59745000000001,
+              12.9719
+            ],
+            [
+              77.59745000000001,
+              12.97205
+            ],
+            [
+              77.5973,
+              12.97205
+            ],
+            [
+              77.5973,
+              12.9719
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00127",
+        "RoofAreaSquareMeters": 418.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6024,
+              12.975800000000001
+            ],
+            [
+              77.60255000000001,
+              12.975800000000001
+            ],
+            [
+              77.60255000000001,
+              12.975950000000001
+            ],
+            [
+              77.6024,
+              12.975950000000001
+            ],
+            [
+              77.6024,
+              12.975800000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00128",
+        "RoofAreaSquareMeters": 447.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6075,
+              12.979700000000001
+            ],
+            [
+              77.60765,
+              12.979700000000001
+            ],
+            [
+              77.60765,
+              12.97985
+            ],
+            [
+              77.6075,
+              12.97985
+            ],
+            [
+              77.6075,
+              12.979700000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00129",
+        "RoofAreaSquareMeters": 476.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5826,
+              12.983600000000001
+            ],
+            [
+              77.58275,
+              12.983600000000001
+            ],
+            [
+              77.58275,
+              12.98375
+            ],
+            [
+              77.5826,
+              12.98375
+            ],
+            [
+              77.5826,
+              12.983600000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00130",
+        "RoofAreaSquareMeters": 505.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5877,
+              12.957500000000001
+            ],
+            [
+              77.58785,
+              12.957500000000001
+            ],
+            [
+              77.58785,
+              12.957650000000001
+            ],
+            [
+              77.5877,
+              12.957650000000001
+            ],
+            [
+              77.5877,
+              12.957500000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00131",
+        "RoofAreaSquareMeters": 534.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5928,
+              12.961400000000001
+            ],
+            [
+              77.59295,
+              12.961400000000001
+            ],
+            [
+              77.59295,
+              12.96155
+            ],
+            [
+              77.5928,
+              12.96155
+            ],
+            [
+              77.5928,
+              12.961400000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00132",
+        "RoofAreaSquareMeters": 563.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5979,
+              12.965300000000001
+            ],
+            [
+              77.59805,
+              12.965300000000001
+            ],
+            [
+              77.59805,
+              12.96545
+            ],
+            [
+              77.5979,
+              12.96545
+            ],
+            [
+              77.5979,
+              12.965300000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00133",
+        "RoofAreaSquareMeters": 42.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.603,
+              12.9692
+            ],
+            [
+              77.60315,
+              12.9692
+            ],
+            [
+              77.60315,
+              12.96935
+            ],
+            [
+              77.603,
+              12.96935
+            ],
+            [
+              77.603,
+              12.9692
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00134",
+        "RoofAreaSquareMeters": 71.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6081,
+              12.9731
+            ],
+            [
+              77.60825,
+              12.9731
+            ],
+            [
+              77.60825,
+              12.97325
+            ],
+            [
+              77.6081,
+              12.97325
+            ],
+            [
+              77.6081,
+              12.9731
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00135",
+        "RoofAreaSquareMeters": 100.0,
+        "BuildingHeightMeters": 4.0,
+        "Storeys": 1,
+        "Confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5832,
+              12.977
+            ],
+            [
+              77.58335000000001,
+              12.977
+            ],
+            [
+              77.58335000000001,
+              12.97715
+            ],
+            [
+              77.5832,
+              12.97715
+            ],
+            [
+              77.5832,
+              12.977
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00136",
+        "RoofAreaSquareMeters": 129.0,
+        "BuildingHeightMeters": 11.0,
+        "Storeys": 3,
+        "Confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5883,
+              12.9809
+            ],
+            [
+              77.58845000000001,
+              12.9809
+            ],
+            [
+              77.58845000000001,
+              12.98105
+            ],
+            [
+              77.5883,
+              12.98105
+            ],
+            [
+              77.5883,
+              12.9809
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00137",
+        "RoofAreaSquareMeters": 158.0,
+        "BuildingHeightMeters": 18.0,
+        "Storeys": 5,
+        "Confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5934,
+              12.9848
+            ],
+            [
+              77.59355000000001,
+              12.9848
+            ],
+            [
+              77.59355000000001,
+              12.98495
+            ],
+            [
+              77.5934,
+              12.98495
+            ],
+            [
+              77.5934,
+              12.9848
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00138",
+        "RoofAreaSquareMeters": 187.0,
+        "BuildingHeightMeters": 9.0,
+        "Storeys": 2,
+        "Confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5985,
+              12.9587
+            ],
+            [
+              77.59865,
+              12.9587
+            ],
+            [
+              77.59865,
+              12.95885
+            ],
+            [
+              77.5985,
+              12.95885
+            ],
+            [
+              77.5985,
+              12.9587
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00139",
+        "RoofAreaSquareMeters": 216.0,
+        "BuildingHeightMeters": 16.0,
+        "Storeys": 4,
+        "Confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6036,
+              12.9626
+            ],
+            [
+              77.60375,
+              12.9626
+            ],
+            [
+              77.60375,
+              12.96275
+            ],
+            [
+              77.6036,
+              12.96275
+            ],
+            [
+              77.6036,
+              12.9626
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00140",
+        "RoofAreaSquareMeters": 245.0,
+        "BuildingHeightMeters": 7.0,
+        "Storeys": 2,
+        "Confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6087,
+              12.9665
+            ],
+            [
+              77.60885,
+              12.9665
+            ],
+            [
+              77.60885,
+              12.96665
+            ],
+            [
+              77.6087,
+              12.96665
+            ],
+            [
+              77.6087,
+              12.9665
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00141",
+        "RoofAreaSquareMeters": 274.0,
+        "BuildingHeightMeters": 14.0,
+        "Storeys": 4,
+        "Confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5838,
+              12.9704
+            ],
+            [
+              77.58395,
+              12.9704
+            ],
+            [
+              77.58395,
+              12.97055
+            ],
+            [
+              77.5838,
+              12.97055
+            ],
+            [
+              77.5838,
+              12.9704
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00142",
+        "RoofAreaSquareMeters": 303.0,
+        "BuildingHeightMeters": 5.0,
+        "Storeys": 1,
+        "Confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5889,
+              12.974300000000001
+            ],
+            [
+              77.58905,
+              12.974300000000001
+            ],
+            [
+              77.58905,
+              12.974450000000001
+            ],
+            [
+              77.5889,
+              12.974450000000001
+            ],
+            [
+              77.5889,
+              12.974300000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00143",
+        "RoofAreaSquareMeters": 332.0,
+        "BuildingHeightMeters": 12.0,
+        "Storeys": 3,
+        "Confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.594,
+              12.978200000000001
+            ],
+            [
+              77.59415,
+              12.978200000000001
+            ],
+            [
+              77.59415,
+              12.97835
+            ],
+            [
+              77.594,
+              12.97835
+            ],
+            [
+              77.594,
+              12.978200000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00144",
+        "RoofAreaSquareMeters": 361.0,
+        "BuildingHeightMeters": 3.0,
+        "Storeys": 1,
+        "Confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.59909999999999,
+              12.9821
+            ],
+            [
+              77.59925,
+              12.9821
+            ],
+            [
+              77.59925,
+              12.98225
+            ],
+            [
+              77.59909999999999,
+              12.98225
+            ],
+            [
+              77.59909999999999,
+              12.9821
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00145",
+        "RoofAreaSquareMeters": 390.0,
+        "BuildingHeightMeters": 10.0,
+        "Storeys": 3,
+        "Confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6042,
+              12.986
+            ],
+            [
+              77.60435000000001,
+              12.986
+            ],
+            [
+              77.60435000000001,
+              12.98615
+            ],
+            [
+              77.6042,
+              12.98615
+            ],
+            [
+              77.6042,
+              12.986
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00146",
+        "RoofAreaSquareMeters": 419.0,
+        "BuildingHeightMeters": 17.0,
+        "Storeys": 5,
+        "Confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6093,
+              12.959900000000001
+            ],
+            [
+              77.60945000000001,
+              12.959900000000001
+            ],
+            [
+              77.60945000000001,
+              12.96005
+            ],
+            [
+              77.6093,
+              12.96005
+            ],
+            [
+              77.6093,
+              12.959900000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00147",
+        "RoofAreaSquareMeters": 448.0,
+        "BuildingHeightMeters": 8.0,
+        "Storeys": 2,
+        "Confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5844,
+              12.9638
+            ],
+            [
+              77.58455000000001,
+              12.9638
+            ],
+            [
+              77.58455000000001,
+              12.96395
+            ],
+            [
+              77.5844,
+              12.96395
+            ],
+            [
+              77.5844,
+              12.9638
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00148",
+        "RoofAreaSquareMeters": 477.0,
+        "BuildingHeightMeters": 15.0,
+        "Storeys": 4,
+        "Confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5895,
+              12.9677
+            ],
+            [
+              77.58965,
+              12.9677
+            ],
+            [
+              77.58965,
+              12.96785
+            ],
+            [
+              77.5895,
+              12.96785
+            ],
+            [
+              77.5895,
+              12.9677
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00149",
+        "RoofAreaSquareMeters": 506.0,
+        "BuildingHeightMeters": 6.0,
+        "Storeys": 1,
+        "Confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5946,
+              12.9716
+            ],
+            [
+              77.59475,
+              12.9716
+            ],
+            [
+              77.59475,
+              12.97175
+            ],
+            [
+              77.5946,
+              12.97175
+            ],
+            [
+              77.5946,
+              12.9716
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BuildingId": "OB_BEN_00150",
+        "RoofAreaSquareMeters": 535.0,
+        "BuildingHeightMeters": 13.0,
+        "Storeys": 4,
+        "Confidence": 0.72
+      }
+    }
+  ]
+}

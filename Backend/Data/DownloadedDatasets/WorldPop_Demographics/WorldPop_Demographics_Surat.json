@@ -1,0 +1,48 @@
+{
+  "DatasetMetadata": {
+    "DatasetName": "WorldPop High-Resolution 100m Gridded Human Population & Demographic Heat Vulnerability",
+    "TargetCity": "Surat",
+    "GeographicBounds": {
+      "MinLon": 72.79,
+      "MinLat": 21.13,
+      "MaxLon": 72.87,
+      "MaxLat": 21.21
+    },
+    "SpatialResolutionMeters": 100.0,
+    "ReferenceCensusYear": "2020/2025 Projected Baseline",
+    "TotalMunicipalPopulation": 4467797,
+    "DemographicStratification": {
+      "GeriatricElderlyAbove65YearsPercentage": 7.8,
+      "PediatricInfantsBelow5YearsPercentage": 9.4,
+      "InformalSettlementSlumPopulationPercentage": 31.6
+    }
+  },
+  "WardDemographicShieldingTelemetry": [
+    {
+      "WardId": "Ward 12 - Limbayat Textile Hub",
+      "WardName": "Limbayat Weaving & Industrial Cluster",
+      "PopulationDensityPerHectare": 520,
+      "EstimatedWardPopulation": 114400,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 9380,
+        "ChildrenUnder5Count": 11211,
+        "InformalTinRoofSettlementResidents": 68640
+      },
+      "BuildingOccupancyMultiplier": 3.31,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 26.7
+    },
+    {
+      "WardId": "Ward 06 - Katargam Diamond Zone",
+      "WardName": "Katargam Mixed Commercial/Residential",
+      "PopulationDensityPerHectare": 380,
+      "EstimatedWardPopulation": 83600,
+      "HighVulnerabilityDemographicShare": {
+        "ElderlyPopulationCount": 6855,
+        "ChildrenUnder5Count": 8192,
+        "InformalTinRoofSettlementResidents": 19228
+      },
+      "BuildingOccupancyMultiplier": 2.42,
+      "HeatShieldingBenefitPerCoatedRooftopPersons": 19.5
+    }
+  ]
+}

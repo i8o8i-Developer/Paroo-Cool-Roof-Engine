@@ -1,0 +1,5 @@
+WardId,WardName,MetalProportion,AsbestosProportion,ConcreteProportion,TileProportion,ThatchProportion,DensityPerHectare
+Ward 12 - Johari Walled City,Johari Bazar & Walled City,0.18,0.22,0.42,0.15,0.03,420
+Ward 24 - Sanganer Industrial,Sanganer Textile & Craft Zone,0.48,0.28,0.18,0.04,0.02,280
+Ward 35 - Jhotwara Resettlement,Jhotwara Dense Settlement,0.35,0.32,0.22,0.06,0.05,360
+Ward 48 - Mansarovar Sector 7,Mansarovar Mixed Residential,0.1,0.12,0.7,0.07,0.01,190
