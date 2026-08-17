@@ -1,37 +1,53 @@
 # PARoo: Satellite Rooftop Heat Vulnerability Classifier & Cool-Roof Engine
-## Comprehensive Operational Master Dossier, Algorithmic Whitepaper, LLM Architecture, GIS Leaflet Allocation Engine, Energy Physics, & Municipal Pitch Deck
+## Comprehensive Operational Master Dossier, Algorithmic Whitepaper, Plain-Language Guide For Municipal Leaders, LLM Architecture, GIS Leaflet Allocation Engine, Energy Physics, & Pitch Deck
 
 ---
 
 ### Document Classification & Governance
-- **Document Title**: Complete Operational Master Dossier & Algorithmic Whitepaper For The PARoo Intelligence Platform
-- **Document ID**: PAROO-MASTER-DOC-2026-V5-EXPANDED
+- **Document Title**: Complete Operational Master Dossier & Dual-Track (Technical & Plain-Language) Whitepaper For The PARoo Platform
+- **Document ID**: PAROO-MASTER-DOC-2026-V6-DUAL-TRACK
 - **Lead Authors**: PARoo Core Geospatial AI, Thermal Radiative Physics, Urban Meteorology, & Municipal Solutions Engineering Team
-- **Target Audience**: City Municipal Commissioners, Smart Cities Mission Directorate, Climate Resilience Juries, State Urban Development Departments, Disaster Management Authorities (NDMA), & Green Bond Investment Committees
-- **Formatting Standard**: 100% Strict Title Case Formatted Across All Headings, Mathematical Explanations, Tables, Schematics, Glossaries, & Narrative Sections
-- **Platform Architecture Release**: Version 2.5.0 Production Build
+- **Target Audience**: City Mayors, Municipal Commissioners, Climate Resilience Juries, Non-Technical Urban Planners, Disaster Management Authorities (NDMA), & Engineering Leaders
+- **Formatting Standard**: 100% Strict Title Case Formatted Across All Headings, Plain-Language Callouts, Mathematical Explanations, Tables, Schematics, Glossaries, & Narrative Sections
+- **Platform Architecture Release**: Version 2.6.0 Dual-Track Production Build
 
 ---
 
 ## Master Table Of Contents
-1. [Section 1: The Lethal Real-World Crisis — Urban Heat Islands & The Rooftop Thermal Trap](#section-1-the-lethal-real-world-crisis--urban-heat-islands--the-rooftop-thermal-trap)
-2. [Section 2: The PARoo Paradigm — Core Innovations & Algorithmic Framework](#section-2-the-paroo-paradigm--core-innovations--algorithmic-framework)
-3. [Section 3: Comprehensive Mathematical Formulations & Complete Physics Derivations](#section-3-comprehensive-mathematical-formulations--complete-physics-derivations)
-4. [Section 4: The Large Language Model (LLM) Engine — Google Gemini 1.5 Flash Integration](#section-4-the-large-language-model-llm-engine--google-gemini-15-flash-integration)
-5. [Section 5: GIS Leaflet Map Engine & Interactive Spatial Allocation Deep-Dive](#section-5-gis-leaflet-map-engine--interactive-spatial-allocation-deep-dive)
-6. [Section 6: Complete 6-Stage Scientific Production Pipeline & Data Flow](#section-6-complete-6-stage-scientific-production-pipeline--data-flow)
-7. [Section 7: Multi-Sensor Earth Observation & Satellite Constellations](#section-7-multi-sensor-earth-observation--satellite-constellations)
-8. [Section 8: Urban Micro-Meteorology, CFD Street Canyons, & Building Energy Physics](#section-8-urban-micro-meteorology-cfd-street-canyons--building-energy-physics)
-9. [Section 9: Radiometric Calibration, Atmospheric Corrections (Sen2Cor / 6S), & Uncertainty Analysis](#section-9-radiometric-calibration-atmospheric-corrections-sen2cor--6s--uncertainty-analysis)
-10. [Section 10: Spatial Indexing, Vector Tile Optimization, & R-Tree Spatial Query Performance](#section-10-spatial-indexing-vector-tile-optimization--r-tree-spatial-query-performance)
-11. [Section 11: Comprehensive Codebase Anatomy & Execution Architecture](#section-11-comprehensive-codebase-anatomy--execution-architecture)
-12. [Section 12: Chemical Coating Chemistry, Material Specifications, & Contractor SOP](#section-12-chemical-coating-chemistry-material-specifications--contractor-sop)
-13. [Section 13: Municipal Financial Models, Carbon Credit Tokenization, & Green Bond Structuring](#section-13-municipal-financial-models-carbon-credit-tokenization--green-bond-structuring)
-14. [Section 14: Quantitative Impact Assessment, Social Return On Investment (SROI), & Policy](#section-14-quantitative-impact-assessment-social-return-on-investment-sroi--policy)
-15. [Section 15: Edge-Case Failure Modes, QA Anomaly Detection, & Field Validation Protocols](#section-15-edge-case-failure-modes-qa-anomaly-detection--field-validation-protocols)
-16. [Section 16: 10-Slide Pitch Deck For Climate Juries & Municipal Commissioners](#section-16-10-slide-pitch-deck-for-climate-juries--municipal-commissioners)
-17. [Section 17: Exhaustive 15-Question Technical, Scientific, & Commercial Q&A Defense](#section-17-exhaustive-15-question-technical-scientific--commercial-qa-defense)
-18. [Section 18: Comprehensive Glossary Of Scientific, Meteorological, & Geospatial Acronyms](#section-18-comprehensive-glossary-of-scientific-meteorological--geospatial-acronyms)
+1. [Executive Plain-Language Overview For Mayors & City Leaders](#executive-plain-language-overview-for-mayors--city-leaders)
+2. [Section 1: The Lethal Real-World Crisis — Urban Heat Islands & The Rooftop Thermal Trap](#section-1-the-lethal-real-world-crisis--urban-heat-islands--the-rooftop-thermal-trap)
+3. [Section 2: The PARoo Paradigm — Core Innovations & Algorithmic Framework](#section-2-the-paroo-paradigm--core-innovations--algorithmic-framework)
+4. [Section 3: Comprehensive Mathematical Formulations & Complete Physics Derivations (With Plain-English Explanations)](#section-3-comprehensive-mathematical-formulations--complete-physics-derivations-with-plain-english-explanations)
+5. [Section 4: The Large Language Model (LLM) Engine — Google Gemini 1.5 Flash Integration](#section-4-the-large-language-model-llm-engine--google-gemini-15-flash-integration)
+6. [Section 5: GIS Leaflet Map Engine & Interactive Spatial Allocation Deep-Dive](#section-5-gis-leaflet-map-engine--interactive-spatial-allocation-deep-dive)
+7. [Section 6: Complete 6-Stage Scientific Production Pipeline & Data Flow](#section-6-complete-6-stage-scientific-production-pipeline--data-flow)
+8. [Section 7: Multi-Sensor Earth Observation & Satellite Constellations](#section-7-multi-sensor-earth-observation--satellite-constellations)
+9. [Section 8: Urban Micro-Meteorology, CFD Street Canyons, & Building Energy Physics](#section-8-urban-micro-meteorology-cfd-street-canyons--building-energy-physics)
+10. [Section 9: Radiometric Calibration, Atmospheric Corrections (Sen2Cor / 6S), & Uncertainty Analysis](#section-9-radiometric-calibration-atmospheric-corrections-sen2cor--6s--uncertainty-analysis)
+11. [Section 10: Spatial Indexing, Vector Tile Optimization, & R-Tree Spatial Query Performance](#section-10-spatial-indexing-vector-tile-optimization--r-tree-spatial-query-performance)
+12. [Section 11: Comprehensive Codebase Anatomy & Execution Architecture](#section-11-comprehensive-codebase-anatomy--execution-architecture)
+13. [Section 12: Chemical Coating Chemistry, Material Specifications, & Contractor SOP](#section-12-chemical-coating-chemistry-material-specifications--contractor-sop)
+14. [Section 13: Municipal Financial Models, Carbon Credit Tokenization, & Green Bond Structuring](#section-13-municipal-financial-models-carbon-credit-tokenization--green-bond-structuring)
+15. [Section 14: Quantitative Impact Assessment, Social Return On Investment (SROI), & Policy](#section-14-quantitative-impact-assessment-social-return-on-investment-sroi--policy)
+16. [Section 15: Edge-Case Failure Modes, QA Anomaly Detection, & Field Validation Protocols](#section-15-edge-case-failure-modes-qa-anomaly-detection--field-validation-protocols)
+17. [Section 16: 10-Slide Pitch Deck For Climate Juries & Municipal Commissioners](#section-16-10-slide-pitch-deck-for-climate-juries--municipal-commissioners)
+18. [Section 17: Exhaustive 15-Question Technical, Scientific, & Commercial Q&A Defense](#section-17-exhaustive-15-question-technical-scientific--commercial-qa-defense)
+19. [Section 18: Comprehensive Glossary Of Scientific, Meteorological, & Geospatial Acronyms](#section-18-comprehensive-glossary-of-scientific-meteorological--geospatial-acronyms)
+
+---
+
+## Executive Plain-Language Overview For Mayors & City Leaders
+
+### 💡 What Is PARoo In Simple Terms?
+Imagine Having An **All-Seeing Satellite In The Sky Combined With An Ultra-Smart City Budget Calculator**. 
+
+During Peak Summer Heatwaves, Metal And Concrete Roofs In Slums Turn Into Giant Frying Pans, Heating Living Rooms To Over **50°C** And Trapping Heat Throughout The Night. City Governments Have Money Allocated In Heat Action Plans To Paint Roofs With White Solar-Reflective Paint (Cool Roofs), But They Have No Idea **Which Exact Roofs Are The Most Dangerous And Need Painting First**.
+
+**PARoo Solves This Instantly**:
+1. It Uses Satellites To Scan The Entire City And Identify Tin, Asbestos, And Concrete Roofs Automatically Without Sending Surveyors Door-To-Door.
+2. It Identifies The Hottest Roofs During The Day And The Ones That Trap Dangerous Heat At Night.
+3. It Takes The City's Available Budget (E.g. ₹50 Lakhs) And Generates A Ready-To-Use Contractor Work List That **Protects The Maximum Number Of Human Lives Possible Per Rupee Spent**.
+4. It Writes An Official, Professional Municipal Briefing Automatically Using AI.
 
 ---
 
@@ -58,6 +74,9 @@ This Thermal Energy Interacts With Built Morphology To Create Severe **Micro-Urb
        └───────────────────────────────────────────────────────────────────────────┘
 ```
 
+> **🌿 Plain-Language Breakdown Of The Heat Crisis**:
+> Think Of A Dark Metal Roof Like A Car Left In The Blazing Summer Sun. Within Minutes, The Metal Gets So Hot You Cannot Touch It. In Slums, Poor Families Live Directly Under That Scorching Metal. The Heat Radiates Straight Downward Into Their Beds And Living Spaces All Day And Night, Making It Impossible For Children And Elderly Grandparents To Sleep Or Stay Healthy.
+
 ### 1.2 Physical Mechanics Of The Rooftop Thermal Trap
 Within Informal Settlements, Resettlement Colonies, And Slum Tenements Across India, Over **350 Million Residents** Live Under Low-Albedo, High-Conductance Rooftops:
 1. **Uninsulated Corrugated Sheet Metal & Galvanized Iron**: Possesses A Low Broadband Solar Albedo ($\alpha \approx 0.15 - 0.22$) Combined With Extreme Thermal Conductivity ($k \approx 45 - 55\,\text{W}/(\text{m}\cdot\text{K})$). By Midday, The Surface Radiates Conductive Flux Downward, Raising Indoor Temperatures Above **46°C**.
@@ -66,6 +85,9 @@ Within Informal Settlements, Resettlement Colonies, And Slum Tenements Across In
 
 ### 1.3 The Fatal Nocturnal Recovery Deficit
 Human Physiological Thermoregulation Relies On Nocturnal Heat Dissipation Below **26°C** To Lower Core Body Temperatures, Normalize Heart Rates, And Permit Restorative Cellular Repair. When Dense Concrete And Asbestos Roofs Retain Nighttime Temperatures Above **34°C**, Physiological Recovery Is Completely Inhibited. This Chronic Nighttime Thermal Stress Is The Leading Predictor Of Heatwave-Induced Cardiovascular Collapse, Acute Kidney Injury, And Nocturnal Mortality.
+
+> **🌿 Plain-Language Breakdown Of Nighttime Heat Stress**:
+> The Human Body Needs A Cool Night (Below 26°C) To Rest And Cool Down Its Organs. When A Concrete Roof Acts Like A Hot Oven Radiating 35°C Heat Past Midnight, The Heart Keeps Beating Fast And The Body Never Recovers. This Nighttime Heat Is What Silently Triggers Heart Attacks And Heatstroke In Vulnerable Neighborhoods.
 
 ### 1.4 The Three Critical Failures Of Existing Municipal Heat Programs
 1. **The Ground Truth Blindspot**: Municipal Corporations Lack Street-Level Inventories Of Physical Roof Materials For Millions Of Unregistered Informal Dwellings.
@@ -107,9 +129,12 @@ graph TD
 
 ---
 
-## Section 3: Comprehensive Mathematical Formulations & Complete Physics Derivations
+## Section 3: Comprehensive Mathematical Formulations & Complete Physics Derivations (With Plain-English Explanations)
 
 ### 3.1 Weak Supervision Learning From Label Proportions (LLP)
+
+> **🌿 Plain-Language Analogy — The Ward Cake Recipe**:
+> Suppose You Know That In A Specific Ward (Like Sanganer In Jaipur), The Census Says 48% Of Houses Have Tin Roofs And 28% Have Asbestos. You Don't Know Which House Is Which, But You Know The Overall Recipe Of The Ward. When Satellites Look Down From Space, Tin Roofs Shine Brightly While Asbestos Looks Rough And Dull. PARoo Matches The Satellite Colors To The Census Recipe So That Every Individual Building Is Accurately Tagged Without Anyone Having To Walk Door-To-Door!
 
 #### 3.1.1 Problem Formulation
 Let A Municipal Ward $\mathcal{W}$ Contain $N_w$ Discrete Building Footprints Segmented From Google Open Buildings v3:
@@ -153,6 +178,9 @@ Entropy Minimization $\mathcal{H}(\mathbf{q}_i)$ Forces The Classifier To Make C
 
 ### 3.2 Complete Surface Energy Balance & Radiative Physics
 
+> **🌿 Plain-Language Analogy — The Solar Mirror vs. The Black Sponge**:
+> A Normal Dark Roof Acts Like A Sponge For Heat: It Absorbs 80% Of The Sun's Blazing Energy. A Cool Roof Painted With High-Albedo White Elastomeric Paint Acts Like A Giant Mirror: It Bounces 85% Of The Sunlight Straight Back Into Outer Space Before The Heat Can Ever Enter The House! This Instantly Lowers The Room Temperature By 4°C To 5°C.
+
 #### 3.2.1 Surface Energy Balance Equation
 The Net Radiative Exchange At The Outer Rooftop Boundary Is Dictated By The Fundamental Conservation Of Energy:
 $$R_n = S_{\downarrow}(1 - \alpha) + L_{\downarrow} - L_{\uparrow} = H + G + \lambda E$$
@@ -182,6 +210,10 @@ This Yields A **Direct Absorbed Solar Heat Reduction Of Over 81% ($650\,\text{W}
 ---
 
 ### 3.3 Landsat 8/9 Split-Window Land Surface Temperature (LST) Inversion
+
+> **🌿 Plain-Language Breakdown — The Orbital Thermal Camera**:
+> The Landsat Satellite Has A Special Thermal Camera That Takes The Temperature Of Every Square Meter Of The City From Space. By Measuring Infrared Glow, It Tells Us Exactly Which Rooftops Are Reaching Lethal Temperatures Like 52°C At Midday.
+
 Thermal Infrared Radiance Measured At Sensor Band 10 ($10.60 - 11.19\,\mu m$) Is Converted To Top-Of-Atmosphere (TOA) Spectral Radiance:
 $$L_\lambda = M_L \cdot Q_{\text{cal}} + A_L = 0.0003342 \cdot Q_{\text{cal}} + 0.10$$
 
@@ -197,6 +229,10 @@ Where $\lambda = 10.895\,\mu m$, $\rho = \frac{h c}{\sigma} = 1.438 \times 10^{-
 ---
 
 ### 3.4 Multi-Factor Composite Heat-Risk Score Index
+
+> **🌿 Plain-Language Analogy — The 5-Star Heat Danger Score**:
+> Not All Hot Roofs Are Equally Dangerous. A Hot Roof Over An Empty Factory Storage Unit Is Less Urgent Than A Hot Roof Over A Crowded Slum With 50 Children. PARoo Combines 5 Clues (Roof Material, Daytime Heat, Night Heat, Neighborhood Crowding, And Number Of Vulnerable People) Into A Single 0-To-1 Danger Score. A Score Above 0.75 Means "Critical Emergency — Paint First!"
+
 For Every Processed Building $i$, The Normalized Multi-Criteria Heat-Risk Index $R_i \in [0, 1]$ Is Formulated As:
 $$R_i = w_1 \cdot M_i + w_2 \cdot T_{\text{Day}, i} + w_3 \cdot T_{\text{Night}, i} + w_4 \cdot D_i + w_5 \cdot O_i$$
 Subject To:
@@ -211,6 +247,10 @@ Where:
 ---
 
 ### 3.5 Bounded Knapsack Pareto Optimization Formulation
+
+> **🌿 Plain-Language Analogy — The Smart Supermarket Cart**:
+> Imagine You Have Exactly ₹10,000 In Your Wallet To Buy Groceries That Must Feed The Maximum Number Of Hungry People. You Wouldn't Buy One Fancy Expensive Chocolate Box That Feeds 1 Person; You Would Buy Big Sacks Of Rice And Lentils That Feed 500 People. PARoo Does The Same For City Budgets: If A Mayor Has ₹50 Lakhs, It Automatically Selects The Exact Roofs That Will Save The Most Human Lives From Heatstroke Rather Than Wasting Money On Low-Impact Buildings!
+
 Municipal Budget Prioritization Is Modeled As A 0/1 Bounded Integer Linear Program:
 $$\max_{\mathbf{x}} \sum_{i=1}^N x_i \cdot \mathcal{U}_i$$
 Subject To The Hard Municipal Fiscal Constraint:
@@ -237,6 +277,9 @@ PARoo Integrates The **Google Gemini 1.5 Flash API** (`gemini-1.5-flash-latest`)
 4. **Massive Context Window (1 Million+ Tokens)**: Permits Simultaneous Ingestion Of Historical State Heat Action Plans (HAP), BIS IS 16659 Specifications, And Ward Demographic Tables.
 5. **Cost-Efficient Scalability**: Negligible Inferencing Cost Allows Municipalities To Run Hundreds Of Custom Scenario Analyses Daily.
 6. **Native Multimodal Readiness**: Capable Of Ingesting Direct Orthomosaic GeoTIFF Rasters In Subsequent Pipeline Versions.
+
+> **🌿 Plain-Language Breakdown — Your 24/7 Chief Climate Officer**:
+> Normally, Writing A Municipal Action Plan Takes A Team Of Consultants 3 Months And Costs Lakhs Of Rupees. PARoo Uses Google Gemini Like A 24/7 Climate Assistant: The Second You Select A City Or Draw A Box On The Map, It Analyzes The Satellites And Instantly Types Out A Clean, Professional 4-Page Action Plan That A Mayor Can Sign And Hand To Contractors In 5 Seconds.
 
 ```
        ┌───────────────────────────────────────────────────────────────────────────┐
@@ -295,6 +338,9 @@ The Frontend Map Canvas Is Built On **Leaflet.js 1.9.4** Engineered For High-Per
      - **Composite Heat-Risk Tiers**: Red ($\ge 0.75$), Orange ($0.55 - 0.74$), Yellow ($0.40 - 0.54$), Green ($< 0.40$).
      - **Roof Material Typologies**: Cyan (Metal), Purple (Asbestos), Slate (Concrete), Amber (Tile), Orange-Red (Thatch).
      - **Thermal Radiative Tiers**: Day LST Anomaly Colormap (38°C Blue To 55°C Crimson).
+
+> **🌿 Plain-Language Breakdown — The Interactive Map Studio**:
+> The Map Works Just Like Google Maps, But With Superpowers. You Can Click The "Draw AOI" Button And Drag A Box Over Any Slum Or Neighborhood In The City. Instantly, Hundreds Of Houses Pop Up In Bright Red, Orange, And Yellow, Showing You Exactly Where The Hottest Tin Roofs Are Located!
 
 ```mermaid
 graph TD
